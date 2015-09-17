@@ -6,6 +6,8 @@ categories: mapping
 tags: android offline mobile
 ---
 
+![Geopaparazzi Screenshot](/assets/geopaparazzi-screenshot.png)
+
 Urbanites visiting the San Juan Islands may be distraught to realize their smartphone data plans don't work outside of population centers. This mobile data 'dis-connectivity' is common knowledge to residents and some even prefer it that way.
 
 But public employees, scientists, academics and others who work in the field and need access to maps are left in a lurch. Complete sets of aerial photos are too large and unwieldy for mobile devices. Offline-enabled vector maps such as OpenStreetMap or Apple Maps lack accuracy due to slow adoption or lack of prioritization for our islands.
@@ -37,6 +39,23 @@ The Android app [Geopaparazzi](http://geopaparazzi.github.io/geopaparazzi) works
 
 - Source basemaps may be Tiled Map Services or Esri cached MapServer services.
 
-- Please review and conform to the Terms and Conditions for basemaps you wish to save for offline use.
+- Please follow the Terms and Conditions for basemaps you use.
+
+## Find maps for your area
+
+The USGS has 1 meter aerial imagery for most of the USA from the National Agriculure Imagery Project (NAIP). Just copy the text below into your mapurl file on your Android device.
+
+{% highlight HTML %}
+url=http://basemap.nationalmap.gov/arcgis/rest/services/USGSImageryOnly/MapServer/tile/ZZZ/YYY/XXX
+minzoom=0
+maxzoom=15
+type=google
+format=jpg
+defaultzoom=0
+mbtiles=defaulttiles/_naip-tile.mbtiles
+description=USGS Ortho and Satellite Imagery
+{% endhighlight %}
+
+For higher resolution imagery you could also look for a local government agency hosting Esri basemaps and modify the mapurl file accordingly. The [OpenAddresses.io](https://github.com/openaddresses/openaddresses/tree/master/sources) project has a large repository of local government map services.
 
 Reach out to me on [Twitter](http://twitter.com/npeihl) if you have questions.
