@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Taking Online Maps Offline on Android
-published: false
+published: true
 categories: mapping
 tags: android offline mobile
 ---
