@@ -5,8 +5,8 @@ description: > # this means to ignore newlines until "baseurl:"
   Nick Peihl, GIS Developer, Analyst and Coordinator, shares crazy ideas, extraordinary GIS tips and other general hackery.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://npeihl.com" # the base hostname & protocol for your site
-twitter_username: npeihl
-github_username:  npeihl
+twitter_username: nickpeihl
+github_username:  nickpeihl
 
 # Build settings
 markdown: kramdown
