@@ -3,6 +3,8 @@ layout: post
 title: Job Searching with Mailing Lists
 categories: life-hacks
 tags: job-search mailing-lists emacs offlineimap rss2email gnus dovecot
+excerpt: Several years ago, I discovered an interesting way to search for a job that I would want using mailing lists.
+author: Nick Peihl
 ---
 
 # Setting the stage

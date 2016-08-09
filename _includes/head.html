@@ -1,10 +1,29 @@
 <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"  />
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 150 }}{% else %}{{ site.description }}{% endif %}" />
+  <meta name="robots" content="index,follow,noodp" />
+  <meta property="og:url" content="{{ page.url | prepend: site.baseurl | prepend: site.url }}" />
+  {% if page.layout == 'post' %}
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="{{ page.title }}" />
+  <meta property="og:image" content="{{ page.thumbnail | prepend: site.baseurl | prepend: site.url }}" />
+  <meta property="article:author" content="{{ page.author }}" />
+  <meta itemprop="name" content="{{ page.title }}" />
+  <meta itemprop="description" content="{{ page.excerpt | strip_html | strip_newlines | truncate: 150 }}">
+  <meta itemprop="image" content="{{ page.thumbnail | prepend: site.baseurl | prepend: site.url }}" />
+  {% else  %}
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="{{ site.title }}" />
+  {% endif %}
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@nickpeihl">
+  <meta name="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 150 }}{% else %}{{ site.description }}{% endif %}">
+  <link href="https://plus.google.com/115252238643705228342/posts" rel="publisher">
 
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+
 
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
