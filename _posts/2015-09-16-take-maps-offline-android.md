@@ -6,6 +6,7 @@ categories: mapping
 tags: android offline mobile
 excerpt: At San Juan County, we're exploring ways to make authoritative vector maps and aerial imagery available to field workers with or without data connectivity.
 thumbnail: /assets/geopaparazzi-screenshot.png
+author: Nick Peihl
 ---
 
 ![Geopaparazzi Screenshot](/assets/geopaparazzi-screenshot.png)
