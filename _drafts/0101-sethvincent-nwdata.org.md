@@ -8,7 +8,7 @@ gh_id: 14219182
 author: Nick Peihl
 ---
 
-[sethvincent/nwdata.org](star.repo.html_url)
+[sethvincent/nwdata.org](https://github.com/sethvincent/nwdata.org)
 
 **WRITE CONTENT**
 

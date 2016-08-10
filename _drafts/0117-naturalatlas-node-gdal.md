@@ -8,7 +8,7 @@ gh_id: 19504824
 author: Nick Peihl
 ---
 
-[naturalatlas/node-gdal](star.repo.html_url)
+[naturalatlas/node-gdal](https://github.com/naturalatlas/node-gdal)
 
 **WRITE CONTENT**
 

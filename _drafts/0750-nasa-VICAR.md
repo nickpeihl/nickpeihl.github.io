@@ -8,7 +8,7 @@ gh_id: 43836312
 author: Nick Peihl
 ---
 
-[nasa/VICAR](star.repo.html_url)
+[nasa/VICAR](https://github.com/nasa/VICAR)
 
 **WRITE CONTENT**
 

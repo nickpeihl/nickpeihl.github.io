@@ -8,7 +8,7 @@ gh_id: 35964008
 author: Nick Peihl
 ---
 
-[guipdutra/awesome-geek-podcasts](star.repo.html_url)
+[guipdutra/awesome-geek-podcasts](https://github.com/guipdutra/awesome-geek-podcasts)
 
 **WRITE CONTENT**
 

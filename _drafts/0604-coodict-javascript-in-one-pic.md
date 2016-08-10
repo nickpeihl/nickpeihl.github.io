@@ -8,7 +8,7 @@ gh_id: 37991989
 author: Nick Peihl
 ---
 
-[coodict/javascript-in-one-pic](star.repo.html_url)
+[coodict/javascript-in-one-pic](https://github.com/coodict/javascript-in-one-pic)
 
 **WRITE CONTENT**
 

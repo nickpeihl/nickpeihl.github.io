@@ -8,7 +8,7 @@ gh_id: 39110338
 author: Nick Peihl
 ---
 
-[fulcrumapp/geojson-dashboard](star.repo.html_url)
+[fulcrumapp/geojson-dashboard](https://github.com/fulcrumapp/geojson-dashboard)
 
 **WRITE CONTENT**
 

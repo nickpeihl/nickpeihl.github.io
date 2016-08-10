@@ -8,7 +8,7 @@ gh_id: 27417629
 author: Nick Peihl
 ---
 
-[steveoh/esrislurp](star.repo.html_url)
+[steveoh/esrislurp](https://github.com/steveoh/esrislurp)
 
 **WRITE CONTENT**
 

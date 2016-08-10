@@ -8,7 +8,7 @@ gh_id: 17386571
 author: Nick Peihl
 ---
 
-[fuhsjr00/bug.n](star.repo.html_url)
+[fuhsjr00/bug.n](https://github.com/fuhsjr00/bug.n)
 
 **WRITE CONTENT**
 

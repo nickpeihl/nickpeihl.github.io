@@ -8,7 +8,7 @@ gh_id: 21402433
 author: Nick Peihl
 ---
 
-[knu2xs/generator-esri-bootstrap-map](star.repo.html_url)
+[knu2xs/generator-esri-bootstrap-map](https://github.com/knu2xs/generator-esri-bootstrap-map)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 33895378
 author: Nick Peihl
 ---
 
-[bevacqua/dragula](star.repo.html_url)
+[bevacqua/dragula](https://github.com/bevacqua/dragula)
 
 **WRITE CONTENT**
 

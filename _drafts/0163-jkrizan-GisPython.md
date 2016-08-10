@@ -8,7 +8,7 @@ gh_id: 10197201
 author: Nick Peihl
 ---
 
-[jkrizan/GisPython](star.repo.html_url)
+[jkrizan/GisPython](https://github.com/jkrizan/GisPython)
 
 **WRITE CONTENT**
 

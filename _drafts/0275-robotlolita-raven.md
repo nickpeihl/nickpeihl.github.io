@@ -8,7 +8,7 @@ gh_id: 14879660
 author: Nick Peihl
 ---
 
-[robotlolita/raven](star.repo.html_url)
+[robotlolita/raven](https://github.com/robotlolita/raven)
 
 **WRITE CONTENT**
 

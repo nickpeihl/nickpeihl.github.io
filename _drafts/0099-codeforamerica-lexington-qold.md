@@ -8,7 +8,7 @@ gh_id: 20904843
 author: Nick Peihl
 ---
 
-[codeforamerica/lexington-qold](star.repo.html_url)
+[codeforamerica/lexington-qold](https://github.com/codeforamerica/lexington-qold)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 17551505
 author: Nick Peihl
 ---
 
-[thieman/github-selfies](star.repo.html_url)
+[thieman/github-selfies](https://github.com/thieman/github-selfies)
 
 **WRITE CONTENT**
 

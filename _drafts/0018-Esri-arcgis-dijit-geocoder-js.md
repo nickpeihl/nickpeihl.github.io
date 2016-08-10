@@ -8,7 +8,7 @@ gh_id: 5578075
 author: Nick Peihl
 ---
 
-[Esri/arcgis-dijit-geocoder-js](star.repo.html_url)
+[Esri/arcgis-dijit-geocoder-js](https://github.com/Esri/arcgis-dijit-geocoder-js)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 24517087
 author: Nick Peihl
 ---
 
-[mapbox/tippecanoe](star.repo.html_url)
+[mapbox/tippecanoe](https://github.com/mapbox/tippecanoe)
 
 **WRITE CONTENT**
 

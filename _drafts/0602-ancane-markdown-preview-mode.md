@@ -8,7 +8,7 @@ gh_id: 23993606
 author: Nick Peihl
 ---
 
-[ancane/markdown-preview-mode](star.repo.html_url)
+[ancane/markdown-preview-mode](https://github.com/ancane/markdown-preview-mode)
 
 **WRITE CONTENT**
 

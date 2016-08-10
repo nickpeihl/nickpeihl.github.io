@@ -8,7 +8,7 @@ gh_id: 35223299
 author: Nick Peihl
 ---
 
-[viewdir/manifesto](star.repo.html_url)
+[viewdir/manifesto](https://github.com/viewdir/manifesto)
 
 **WRITE CONTENT**
 

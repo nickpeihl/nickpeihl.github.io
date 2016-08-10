@@ -8,7 +8,7 @@ gh_id: 15027410
 author: Nick Peihl
 ---
 
-[rachel-carvalho/voxel-mars](star.repo.html_url)
+[rachel-carvalho/voxel-mars](https://github.com/rachel-carvalho/voxel-mars)
 
 **WRITE CONTENT**
 

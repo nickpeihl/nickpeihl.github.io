@@ -8,7 +8,7 @@ gh_id: 27469126
 author: Nick Peihl
 ---
 
-[mapbox/geojson-vt](star.repo.html_url)
+[mapbox/geojson-vt](https://github.com/mapbox/geojson-vt)
 
 **WRITE CONTENT**
 

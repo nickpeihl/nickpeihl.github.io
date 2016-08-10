@@ -8,7 +8,7 @@ gh_id: 31392199
 author: Nick Peihl
 ---
 
-[Esri/embed-template](star.repo.html_url)
+[Esri/embed-template](https://github.com/Esri/embed-template)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 11729327
 author: Nick Peihl
 ---
 
-[hughsk/disc](star.repo.html_url)
+[hughsk/disc](https://github.com/hughsk/disc)
 
 **WRITE CONTENT**
 

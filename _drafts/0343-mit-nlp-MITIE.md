@@ -8,7 +8,7 @@ gh_id: 18347668
 author: Nick Peihl
 ---
 
-[mit-nlp/MITIE](star.repo.html_url)
+[mit-nlp/MITIE](https://github.com/mit-nlp/MITIE)
 
 **WRITE CONTENT**
 

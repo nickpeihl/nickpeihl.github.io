@@ -8,7 +8,7 @@ gh_id: 43486047
 author: Nick Peihl
 ---
 
-[vdemedes/trevor](star.repo.html_url)
+[vdemedes/trevor](https://github.com/vdemedes/trevor)
 
 **WRITE CONTENT**
 

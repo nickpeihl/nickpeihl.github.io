@@ -8,7 +8,7 @@ gh_id: 7063835
 author: Nick Peihl
 ---
 
-[mapbox/togeojson](star.repo.html_url)
+[mapbox/togeojson](https://github.com/mapbox/togeojson)
 
 **WRITE CONTENT**
 

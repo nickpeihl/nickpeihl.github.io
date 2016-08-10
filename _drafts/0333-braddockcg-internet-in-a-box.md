@@ -8,7 +8,7 @@ gh_id: 5503015
 author: Nick Peihl
 ---
 
-[braddockcg/internet-in-a-box](star.repo.html_url)
+[braddockcg/internet-in-a-box](https://github.com/braddockcg/internet-in-a-box)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 6665518
 author: Nick Peihl
 ---
 
-[phated/grunt-dojo](star.repo.html_url)
+[phated/grunt-dojo](https://github.com/phated/grunt-dojo)
 
 **WRITE CONTENT**
 

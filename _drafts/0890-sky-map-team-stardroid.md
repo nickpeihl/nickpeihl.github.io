@@ -8,7 +8,7 @@ gh_id: 37151000
 author: Nick Peihl
 ---
 
-[sky-map-team/stardroid](star.repo.html_url)
+[sky-map-team/stardroid](https://github.com/sky-map-team/stardroid)
 
 **WRITE CONTENT**
 

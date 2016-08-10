@@ -8,7 +8,7 @@ gh_id: 2400938
 author: Nick Peihl
 ---
 
-[paulasmuth/fnordmetric](star.repo.html_url)
+[paulasmuth/fnordmetric](https://github.com/paulasmuth/fnordmetric)
 
 **WRITE CONTENT**
 

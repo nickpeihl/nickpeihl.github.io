@@ -8,7 +8,7 @@ gh_id: 46479019
 author: Nick Peihl
 ---
 
-[feross/magickeyboard.io](star.repo.html_url)
+[feross/magickeyboard.io](https://github.com/feross/magickeyboard.io)
 
 **WRITE CONTENT**
 

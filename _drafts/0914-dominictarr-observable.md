@@ -8,7 +8,7 @@ gh_id: 7865829
 author: Nick Peihl
 ---
 
-[dominictarr/observable](star.repo.html_url)
+[dominictarr/observable](https://github.com/dominictarr/observable)
 
 **WRITE CONTENT**
 

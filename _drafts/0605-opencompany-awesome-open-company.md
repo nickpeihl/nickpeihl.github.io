@@ -8,7 +8,7 @@ gh_id: 33875441
 author: Nick Peihl
 ---
 
-[opencompany/awesome-open-company](star.repo.html_url)
+[opencompany/awesome-open-company](https://github.com/opencompany/awesome-open-company)
 
 **WRITE CONTENT**
 

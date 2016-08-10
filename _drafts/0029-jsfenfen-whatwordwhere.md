@@ -8,7 +8,7 @@ gh_id: 14623056
 author: Nick Peihl
 ---
 
-[jsfenfen/whatwordwhere](star.repo.html_url)
+[jsfenfen/whatwordwhere](https://github.com/jsfenfen/whatwordwhere)
 
 **WRITE CONTENT**
 

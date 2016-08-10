@@ -8,7 +8,7 @@ gh_id: 39055032
 author: Nick Peihl
 ---
 
-[apburnes/arcserver-pg-monitor](star.repo.html_url)
+[apburnes/arcserver-pg-monitor](https://github.com/apburnes/arcserver-pg-monitor)
 
 **WRITE CONTENT**
 

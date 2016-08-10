@@ -8,7 +8,7 @@ gh_id: 8295380
 author: Nick Peihl
 ---
 
-[pysal/pysal](star.repo.html_url)
+[pysal/pysal](https://github.com/pysal/pysal)
 
 **WRITE CONTENT**
 

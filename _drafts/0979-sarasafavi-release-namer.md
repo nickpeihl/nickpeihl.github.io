@@ -8,7 +8,7 @@ gh_id: 51023237
 author: Nick Peihl
 ---
 
-[sarasafavi/release-namer](star.repo.html_url)
+[sarasafavi/release-namer](https://github.com/sarasafavi/release-namer)
 
 **WRITE CONTENT**
 

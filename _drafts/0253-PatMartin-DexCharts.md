@@ -8,7 +8,7 @@ gh_id: 9083584
 author: Nick Peihl
 ---
 
-[PatMartin/DexCharts](star.repo.html_url)
+[PatMartin/DexCharts](https://github.com/PatMartin/DexCharts)
 
 **WRITE CONTENT**
 

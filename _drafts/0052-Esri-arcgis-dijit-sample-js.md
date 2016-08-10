@@ -8,7 +8,7 @@ gh_id: 8940483
 author: Nick Peihl
 ---
 
-[Esri/arcgis-dijit-sample-js](star.repo.html_url)
+[Esri/arcgis-dijit-sample-js](https://github.com/Esri/arcgis-dijit-sample-js)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 17911694
 author: Nick Peihl
 ---
 
-[openaddresses/esri-dump](star.repo.html_url)
+[openaddresses/esri-dump](https://github.com/openaddresses/esri-dump)
 
 **WRITE CONTENT**
 

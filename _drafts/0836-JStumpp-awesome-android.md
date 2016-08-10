@@ -8,7 +8,7 @@ gh_id: 21780562
 author: Nick Peihl
 ---
 
-[JStumpp/awesome-android](star.repo.html_url)
+[JStumpp/awesome-android](https://github.com/JStumpp/awesome-android)
 
 **WRITE CONTENT**
 

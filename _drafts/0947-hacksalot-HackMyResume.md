@@ -8,7 +8,7 @@ gh_id: 43076202
 author: Nick Peihl
 ---
 
-[hacksalot/HackMyResume](star.repo.html_url)
+[hacksalot/HackMyResume](https://github.com/hacksalot/HackMyResume)
 
 **WRITE CONTENT**
 

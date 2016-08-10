@@ -8,7 +8,7 @@ gh_id: 42216444
 author: Nick Peihl
 ---
 
-[phillipadsmith/awesome-github](star.repo.html_url)
+[phillipadsmith/awesome-github](https://github.com/phillipadsmith/awesome-github)
 
 **WRITE CONTENT**
 

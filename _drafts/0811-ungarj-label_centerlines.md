@@ -8,7 +8,7 @@ gh_id: 46363127
 author: Nick Peihl
 ---
 
-[ungarj/label_centerlines](star.repo.html_url)
+[ungarj/label_centerlines](https://github.com/ungarj/label_centerlines)
 
 **WRITE CONTENT**
 

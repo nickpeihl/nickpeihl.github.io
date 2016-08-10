@@ -8,7 +8,7 @@ gh_id: 53007065
 author: Nick Peihl
 ---
 
-[mapbox/docbox](star.repo.html_url)
+[mapbox/docbox](https://github.com/mapbox/docbox)
 
 **WRITE CONTENT**
 

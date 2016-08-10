@@ -8,7 +8,7 @@ gh_id: 21954559
 author: Nick Peihl
 ---
 
-[datamade/usaddress](star.repo.html_url)
+[datamade/usaddress](https://github.com/datamade/usaddress)
 
 **WRITE CONTENT**
 

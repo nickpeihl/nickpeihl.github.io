@@ -8,7 +8,7 @@ gh_id: 4676086
 author: Nick Peihl
 ---
 
-[crocodilejs/node-email-templates](star.repo.html_url)
+[crocodilejs/node-email-templates](https://github.com/crocodilejs/node-email-templates)
 
 **WRITE CONTENT**
 

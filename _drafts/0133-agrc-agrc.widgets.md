@@ -8,7 +8,7 @@ gh_id: 1569247
 author: Nick Peihl
 ---
 
-[agrc/agrc.widgets](star.repo.html_url)
+[agrc/agrc.widgets](https://github.com/agrc/agrc.widgets)
 
 **WRITE CONTENT**
 

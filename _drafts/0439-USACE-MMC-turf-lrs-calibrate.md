@@ -8,7 +8,7 @@ gh_id: 27520678
 author: Nick Peihl
 ---
 
-[USACE-MMC/turf-lrs-calibrate](star.repo.html_url)
+[USACE-MMC/turf-lrs-calibrate](https://github.com/USACE-MMC/turf-lrs-calibrate)
 
 **WRITE CONTENT**
 

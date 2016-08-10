@@ -8,7 +8,7 @@ gh_id: 15805141
 author: Nick Peihl
 ---
 
-[langleywa/gisdata](star.repo.html_url)
+[langleywa/gisdata](https://github.com/langleywa/gisdata)
 
 **WRITE CONTENT**
 

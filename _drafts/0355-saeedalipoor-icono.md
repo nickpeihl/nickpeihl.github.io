@@ -8,7 +8,7 @@ gh_id: 23756696
 author: Nick Peihl
 ---
 
-[saeedalipoor/icono](star.repo.html_url)
+[saeedalipoor/icono](https://github.com/saeedalipoor/icono)
 
 **WRITE CONTENT**
 

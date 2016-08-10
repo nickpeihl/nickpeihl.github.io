@@ -8,7 +8,7 @@ gh_id: 3100121
 author: Nick Peihl
 ---
 
-[nwjs/nw.js](star.repo.html_url)
+[nwjs/nw.js](https://github.com/nwjs/nw.js)
 
 **WRITE CONTENT**
 

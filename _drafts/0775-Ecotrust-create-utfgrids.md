@@ -8,7 +8,7 @@ gh_id: 5455532
 author: Nick Peihl
 ---
 
-[Ecotrust/create-utfgrids](star.repo.html_url)
+[Ecotrust/create-utfgrids](https://github.com/Ecotrust/create-utfgrids)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 21589397
 author: Nick Peihl
 ---
 
-[wpears/esri-amd](star.repo.html_url)
+[wpears/esri-amd](https://github.com/wpears/esri-amd)
 
 **WRITE CONTENT**
 

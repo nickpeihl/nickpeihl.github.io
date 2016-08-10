@@ -8,7 +8,7 @@ gh_id: 8414118
 author: Nick Peihl
 ---
 
-[scijs/ndarray](star.repo.html_url)
+[scijs/ndarray](https://github.com/scijs/ndarray)
 
 **WRITE CONTENT**
 

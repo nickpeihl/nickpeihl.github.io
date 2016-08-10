@@ -8,7 +8,7 @@ gh_id: 20275159
 author: Nick Peihl
 ---
 
-[mojodna/tl](star.repo.html_url)
+[mojodna/tl](https://github.com/mojodna/tl)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 17727070
 author: Nick Peihl
 ---
 
-[iconic/open-iconic](star.repo.html_url)
+[iconic/open-iconic](https://github.com/iconic/open-iconic)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 6786257
 author: Nick Peihl
 ---
 
-[Esri/land-use-public-notification](star.repo.html_url)
+[Esri/land-use-public-notification](https://github.com/Esri/land-use-public-notification)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 31969119
 author: Nick Peihl
 ---
 
-[alaframboise/bootstrap-map-resources](star.repo.html_url)
+[alaframboise/bootstrap-map-resources](https://github.com/alaframboise/bootstrap-map-resources)
 
 **WRITE CONTENT**
 

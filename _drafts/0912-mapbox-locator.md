@@ -8,7 +8,7 @@ gh_id: 8802689
 author: Nick Peihl
 ---
 
-[mapbox/locator](star.repo.html_url)
+[mapbox/locator](https://github.com/mapbox/locator)
 
 **WRITE CONTENT**
 

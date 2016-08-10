@@ -8,7 +8,7 @@ gh_id: 9715013
 author: Nick Peihl
 ---
 
-[yjwen/org-reveal](star.repo.html_url)
+[yjwen/org-reveal](https://github.com/yjwen/org-reveal)
 
 **WRITE CONTENT**
 

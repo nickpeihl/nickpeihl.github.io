@@ -8,7 +8,7 @@ gh_id: 39026058
 author: Nick Peihl
 ---
 
-[govex/open-data-portal-requirements](star.repo.html_url)
+[govex/open-data-portal-requirements](https://github.com/govex/open-data-portal-requirements)
 
 **WRITE CONTENT**
 

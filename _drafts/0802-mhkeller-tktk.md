@@ -8,7 +8,7 @@ gh_id: 17163256
 author: Nick Peihl
 ---
 
-[mhkeller/tktk](star.repo.html_url)
+[mhkeller/tktk](https://github.com/mhkeller/tktk)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 41933169
 author: Nick Peihl
 ---
 
-[wsjdata/clinton-email-cruncher](star.repo.html_url)
+[wsjdata/clinton-email-cruncher](https://github.com/wsjdata/clinton-email-cruncher)
 
 **WRITE CONTENT**
 

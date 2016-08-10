@@ -8,7 +8,7 @@ gh_id: 19868085
 author: Nick Peihl
 ---
 
-[rlabbe/Kalman-and-Bayesian-Filters-in-Python](star.repo.html_url)
+[rlabbe/Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
 
 **WRITE CONTENT**
 

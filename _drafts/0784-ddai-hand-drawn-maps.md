@@ -8,7 +8,7 @@ gh_id: 22585437
 author: Nick Peihl
 ---
 
-[ddai/hand-drawn-maps](star.repo.html_url)
+[ddai/hand-drawn-maps](https://github.com/ddai/hand-drawn-maps)
 
 **WRITE CONTENT**
 

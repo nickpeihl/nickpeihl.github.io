@@ -8,7 +8,7 @@ gh_id: 2704905
 author: Nick Peihl
 ---
 
-[stamen/fieldpapers](star.repo.html_url)
+[stamen/fieldpapers](https://github.com/stamen/fieldpapers)
 
 **WRITE CONTENT**
 

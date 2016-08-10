@@ -8,7 +8,7 @@ gh_id: 1030490
 author: Nick Peihl
 ---
 
-[alexyoung/ircd.js](star.repo.html_url)
+[alexyoung/ircd.js](https://github.com/alexyoung/ircd.js)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 23373858
 author: Nick Peihl
 ---
 
-[cmv/cmv-contrib-widgets](star.repo.html_url)
+[cmv/cmv-contrib-widgets](https://github.com/cmv/cmv-contrib-widgets)
 
 **WRITE CONTENT**
 

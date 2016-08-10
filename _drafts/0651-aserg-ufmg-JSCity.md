@@ -8,7 +8,7 @@ gh_id: 37922354
 author: Nick Peihl
 ---
 
-[aserg-ufmg/JSCity](star.repo.html_url)
+[aserg-ufmg/JSCity](https://github.com/aserg-ufmg/JSCity)
 
 **WRITE CONTENT**
 

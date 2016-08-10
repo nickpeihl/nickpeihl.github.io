@@ -8,7 +8,7 @@ gh_id: 12760124
 author: Nick Peihl
 ---
 
-[tomwayson/esri-karma-tutorial](star.repo.html_url)
+[tomwayson/esri-karma-tutorial](https://github.com/tomwayson/esri-karma-tutorial)
 
 **WRITE CONTENT**
 

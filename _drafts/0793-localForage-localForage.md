@@ -8,7 +8,7 @@ gh_id: 14003349
 author: Nick Peihl
 ---
 
-[localForage/localForage](star.repo.html_url)
+[localForage/localForage](https://github.com/localForage/localForage)
 
 **WRITE CONTENT**
 

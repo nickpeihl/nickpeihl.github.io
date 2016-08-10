@@ -8,7 +8,7 @@ gh_id: 17575535
 author: Nick Peihl
 ---
 
-[gionkunz/chartist-js](star.repo.html_url)
+[gionkunz/chartist-js](https://github.com/gionkunz/chartist-js)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 13726204
 author: Nick Peihl
 ---
 
-[mojodna/tilelive-http](star.repo.html_url)
+[mojodna/tilelive-http](https://github.com/mojodna/tilelive-http)
 
 **WRITE CONTENT**
 

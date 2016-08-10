@@ -8,7 +8,7 @@ gh_id: 19920479
 author: Nick Peihl
 ---
 
-[btfou/hardcider](star.repo.html_url)
+[btfou/hardcider](https://github.com/btfou/hardcider)
 
 **WRITE CONTENT**
 

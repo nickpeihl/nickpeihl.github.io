@@ -8,7 +8,7 @@ gh_id: 44996268
 author: Nick Peihl
 ---
 
-[tmcw/gtfs2geojson](star.repo.html_url)
+[tmcw/gtfs2geojson](https://github.com/tmcw/gtfs2geojson)
 
 **WRITE CONTENT**
 

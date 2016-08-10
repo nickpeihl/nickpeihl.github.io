@@ -8,7 +8,7 @@ gh_id: 12638447
 author: Nick Peihl
 ---
 
-[geopaparazzi/geopaparazzi](star.repo.html_url)
+[geopaparazzi/geopaparazzi](https://github.com/geopaparazzi/geopaparazzi)
 
 **WRITE CONTENT**
 

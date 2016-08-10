@@ -8,7 +8,7 @@ gh_id: 25166410
 author: Nick Peihl
 ---
 
-[saulmm/Android-Material-Examples](star.repo.html_url)
+[saulmm/Android-Material-Examples](https://github.com/saulmm/Android-Material-Examples)
 
 **WRITE CONTENT**
 

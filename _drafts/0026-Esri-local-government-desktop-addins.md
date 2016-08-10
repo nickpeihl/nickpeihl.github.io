@@ -8,7 +8,7 @@ gh_id: 6942954
 author: Nick Peihl
 ---
 
-[Esri/local-government-desktop-addins](star.repo.html_url)
+[Esri/local-government-desktop-addins](https://github.com/Esri/local-government-desktop-addins)
 
 **WRITE CONTENT**
 

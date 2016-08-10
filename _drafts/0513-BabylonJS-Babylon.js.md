@@ -8,7 +8,7 @@ gh_id: 11007313
 author: Nick Peihl
 ---
 
-[BabylonJS/Babylon.js](star.repo.html_url)
+[BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js)
 
 **WRITE CONTENT**
 

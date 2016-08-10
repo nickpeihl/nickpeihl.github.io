@@ -8,7 +8,7 @@ gh_id: 1813418
 author: Nick Peihl
 ---
 
-[creotiv/Python-Shape-Context](star.repo.html_url)
+[creotiv/Python-Shape-Context](https://github.com/creotiv/Python-Shape-Context)
 
 **WRITE CONTENT**
 

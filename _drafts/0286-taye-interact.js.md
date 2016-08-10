@@ -8,7 +8,7 @@ gh_id: 6319157
 author: Nick Peihl
 ---
 
-[taye/interact.js](star.repo.html_url)
+[taye/interact.js](https://github.com/taye/interact.js)
 
 **WRITE CONTENT**
 

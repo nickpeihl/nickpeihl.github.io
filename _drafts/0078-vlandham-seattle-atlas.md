@@ -8,7 +8,7 @@ gh_id: 20511693
 author: Nick Peihl
 ---
 
-[vlandham/seattle-atlas](star.repo.html_url)
+[vlandham/seattle-atlas](https://github.com/vlandham/seattle-atlas)
 
 **WRITE CONTENT**
 

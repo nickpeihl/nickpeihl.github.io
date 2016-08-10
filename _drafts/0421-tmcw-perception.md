@@ -8,7 +8,7 @@ gh_id: 30832584
 author: Nick Peihl
 ---
 
-[tmcw/perception](star.repo.html_url)
+[tmcw/perception](https://github.com/tmcw/perception)
 
 **WRITE CONTENT**
 

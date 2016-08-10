@@ -8,7 +8,7 @@ gh_id: 15590361
 author: Nick Peihl
 ---
 
-[scottcorgan/tap-spec](star.repo.html_url)
+[scottcorgan/tap-spec](https://github.com/scottcorgan/tap-spec)
 
 **WRITE CONTENT**
 

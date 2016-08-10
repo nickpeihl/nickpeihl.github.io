@@ -8,7 +8,7 @@ gh_id: 49867891
 author: Nick Peihl
 ---
 
-[DxTT/coolMenu](star.repo.html_url)
+[DxTT/coolMenu](https://github.com/DxTT/coolMenu)
 
 **WRITE CONTENT**
 

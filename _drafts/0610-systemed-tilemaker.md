@@ -8,7 +8,7 @@ gh_id: 38220628
 author: Nick Peihl
 ---
 
-[systemed/tilemaker](star.repo.html_url)
+[systemed/tilemaker](https://github.com/systemed/tilemaker)
 
 **WRITE CONTENT**
 

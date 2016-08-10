@@ -8,7 +8,7 @@ gh_id: 4467228
 author: Nick Peihl
 ---
 
-[krisk/Fuse](star.repo.html_url)
+[krisk/Fuse](https://github.com/krisk/Fuse)
 
 **WRITE CONTENT**
 

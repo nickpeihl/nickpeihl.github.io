@@ -8,7 +8,7 @@ gh_id: 11677078
 author: Nick Peihl
 ---
 
-[dbouwman/jsapi-jasmine](star.repo.html_url)
+[dbouwman/jsapi-jasmine](https://github.com/dbouwman/jsapi-jasmine)
 
 **WRITE CONTENT**
 

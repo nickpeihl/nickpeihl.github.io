@@ -8,7 +8,7 @@ gh_id: 9182528
 author: Nick Peihl
 ---
 
-[tswanson/AGO_AddItem_Basemap](star.repo.html_url)
+[tswanson/AGO_AddItem_Basemap](https://github.com/tswanson/AGO_AddItem_Basemap)
 
 **WRITE CONTENT**
 

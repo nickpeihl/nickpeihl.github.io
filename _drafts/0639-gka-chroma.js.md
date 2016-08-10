@@ -8,7 +8,7 @@ gh_id: 2960985
 author: Nick Peihl
 ---
 
-[gka/chroma.js](star.repo.html_url)
+[gka/chroma.js](https://github.com/gka/chroma.js)
 
 **WRITE CONTENT**
 

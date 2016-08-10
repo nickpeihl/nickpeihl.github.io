@@ -8,7 +8,7 @@ gh_id: 11635008
 author: Nick Peihl
 ---
 
-[mapbox/geojsonhint](star.repo.html_url)
+[mapbox/geojsonhint](https://github.com/mapbox/geojsonhint)
 
 **WRITE CONTENT**
 

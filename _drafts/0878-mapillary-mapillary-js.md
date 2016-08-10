@@ -8,7 +8,7 @@ gh_id: 45474652
 author: Nick Peihl
 ---
 
-[mapillary/mapillary-js](star.repo.html_url)
+[mapillary/mapillary-js](https://github.com/mapillary/mapillary-js)
 
 **WRITE CONTENT**
 

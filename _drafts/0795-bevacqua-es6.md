@@ -8,7 +8,7 @@ gh_id: 46495414
 author: Nick Peihl
 ---
 
-[bevacqua/es6](star.repo.html_url)
+[bevacqua/es6](https://github.com/bevacqua/es6)
 
 **WRITE CONTENT**
 

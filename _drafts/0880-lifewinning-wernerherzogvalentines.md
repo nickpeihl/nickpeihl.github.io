@@ -8,7 +8,7 @@ gh_id: 51521608
 author: Nick Peihl
 ---
 
-[lifewinning/wernerherzogvalentines](star.repo.html_url)
+[lifewinning/wernerherzogvalentines](https://github.com/lifewinning/wernerherzogvalentines)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 30997623
 author: Nick Peihl
 ---
 
-[cmv/cmv-labs](star.repo.html_url)
+[cmv/cmv-labs](https://github.com/cmv/cmv-labs)
 
 **WRITE CONTENT**
 

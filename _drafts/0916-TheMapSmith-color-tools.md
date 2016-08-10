@@ -8,7 +8,7 @@ gh_id: 54639174
 author: Nick Peihl
 ---
 
-[TheMapSmith/color-tools](star.repo.html_url)
+[TheMapSmith/color-tools](https://github.com/TheMapSmith/color-tools)
 
 **WRITE CONTENT**
 

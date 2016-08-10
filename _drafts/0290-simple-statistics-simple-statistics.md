@@ -8,7 +8,7 @@ gh_id: 3389930
 author: Nick Peihl
 ---
 
-[simple-statistics/simple-statistics](star.repo.html_url)
+[simple-statistics/simple-statistics](https://github.com/simple-statistics/simple-statistics)
 
 **WRITE CONTENT**
 

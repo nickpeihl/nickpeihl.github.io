@@ -8,7 +8,7 @@ gh_id: 17525180
 author: Nick Peihl
 ---
 
-[Esri/jsapi-resources](star.repo.html_url)
+[Esri/jsapi-resources](https://github.com/Esri/jsapi-resources)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 32484381
 author: Nick Peihl
 ---
 
-[ripienaar/free-for-dev](star.repo.html_url)
+[ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
 
 **WRITE CONTENT**
 

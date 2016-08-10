@@ -8,7 +8,7 @@ gh_id: 5734809
 author: Nick Peihl
 ---
 
-[aaronlidman/osmly](star.repo.html_url)
+[aaronlidman/osmly](https://github.com/aaronlidman/osmly)
 
 **WRITE CONTENT**
 

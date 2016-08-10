@@ -8,7 +8,7 @@ gh_id: 17259519
 author: Nick Peihl
 ---
 
-[tmcw/mapmakers-cheatsheet](star.repo.html_url)
+[tmcw/mapmakers-cheatsheet](https://github.com/tmcw/mapmakers-cheatsheet)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 5094437
 author: Nick Peihl
 ---
 
-[ducksboard/gridster.js](star.repo.html_url)
+[ducksboard/gridster.js](https://github.com/ducksboard/gridster.js)
 
 **WRITE CONTENT**
 

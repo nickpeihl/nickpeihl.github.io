@@ -8,7 +8,7 @@ gh_id: 26534545
 author: Nick Peihl
 ---
 
-[igorti/geojson-minifier](star.repo.html_url)
+[igorti/geojson-minifier](https://github.com/igorti/geojson-minifier)
 
 **WRITE CONTENT**
 

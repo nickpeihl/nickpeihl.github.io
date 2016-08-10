@@ -8,7 +8,7 @@ gh_id: 35963130
 author: Nick Peihl
 ---
 
-[MeganKress/LiVoxGen](star.repo.html_url)
+[MeganKress/LiVoxGen](https://github.com/MeganKress/LiVoxGen)
 
 **WRITE CONTENT**
 

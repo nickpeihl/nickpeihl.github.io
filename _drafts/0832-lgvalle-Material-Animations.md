@@ -8,7 +8,7 @@ gh_id: 31865176
 author: Nick Peihl
 ---
 
-[lgvalle/Material-Animations](star.repo.html_url)
+[lgvalle/Material-Animations](https://github.com/lgvalle/Material-Animations)
 
 **WRITE CONTENT**
 

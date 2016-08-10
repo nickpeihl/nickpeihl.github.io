@@ -8,7 +8,7 @@ gh_id: 51401194
 author: Nick Peihl
 ---
 
-[anaibol/awesome-serverless](star.repo.html_url)
+[anaibol/awesome-serverless](https://github.com/anaibol/awesome-serverless)
 
 **WRITE CONTENT**
 

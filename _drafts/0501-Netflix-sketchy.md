@@ -8,7 +8,7 @@ gh_id: 22437056
 author: Nick Peihl
 ---
 
-[Netflix/sketchy](star.repo.html_url)
+[Netflix/sketchy](https://github.com/Netflix/sketchy)
 
 **WRITE CONTENT**
 

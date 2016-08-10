@@ -8,7 +8,7 @@ gh_id: 5778576
 author: Nick Peihl
 ---
 
-[mysociety/sayit](star.repo.html_url)
+[mysociety/sayit](https://github.com/mysociety/sayit)
 
 **WRITE CONTENT**
 

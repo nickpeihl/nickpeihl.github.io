@@ -8,7 +8,7 @@ gh_id: 1418941
 author: Nick Peihl
 ---
 
-[esnme/ultrajson](star.repo.html_url)
+[esnme/ultrajson](https://github.com/esnme/ultrajson)
 
 **WRITE CONTENT**
 

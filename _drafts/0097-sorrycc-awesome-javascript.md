@@ -8,7 +8,7 @@ gh_id: 21393871
 author: Nick Peihl
 ---
 
-[sorrycc/awesome-javascript](star.repo.html_url)
+[sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript)
 
 **WRITE CONTENT**
 

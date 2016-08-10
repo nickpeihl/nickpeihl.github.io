@@ -8,7 +8,7 @@ gh_id: 35133520
 author: Nick Peihl
 ---
 
-[MostlyAdequate/mostly-adequate-guide](star.repo.html_url)
+[MostlyAdequate/mostly-adequate-guide](https://github.com/MostlyAdequate/mostly-adequate-guide)
 
 **WRITE CONTENT**
 

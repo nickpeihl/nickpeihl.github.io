@@ -8,7 +8,7 @@ gh_id: 16919484
 author: Nick Peihl
 ---
 
-[btfou/dijit-group-toolbar](star.repo.html_url)
+[btfou/dijit-group-toolbar](https://github.com/btfou/dijit-group-toolbar)
 
 **WRITE CONTENT**
 

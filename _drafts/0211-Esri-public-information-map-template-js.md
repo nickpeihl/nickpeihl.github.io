@@ -8,7 +8,7 @@ gh_id: 13099956
 author: Nick Peihl
 ---
 
-[Esri/public-information-map-template-js](star.repo.html_url)
+[Esri/public-information-map-template-js](https://github.com/Esri/public-information-map-template-js)
 
 **WRITE CONTENT**
 

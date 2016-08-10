@@ -8,7 +8,7 @@ gh_id: 55019567
 author: Nick Peihl
 ---
 
-[sethvincent/send-action](star.repo.html_url)
+[sethvincent/send-action](https://github.com/sethvincent/send-action)
 
 **WRITE CONTENT**
 

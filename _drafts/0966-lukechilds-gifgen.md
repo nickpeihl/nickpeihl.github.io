@@ -8,7 +8,7 @@ gh_id: 62515206
 author: Nick Peihl
 ---
 
-[lukechilds/gifgen](star.repo.html_url)
+[lukechilds/gifgen](https://github.com/lukechilds/gifgen)
 
 **WRITE CONTENT**
 

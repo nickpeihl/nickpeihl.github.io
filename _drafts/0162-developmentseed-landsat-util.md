@@ -8,7 +8,7 @@ gh_id: 22521755
 author: Nick Peihl
 ---
 
-[developmentseed/landsat-util](star.repo.html_url)
+[developmentseed/landsat-util](https://github.com/developmentseed/landsat-util)
 
 **WRITE CONTENT**
 

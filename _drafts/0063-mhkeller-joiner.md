@@ -8,7 +8,7 @@ gh_id: 16870702
 author: Nick Peihl
 ---
 
-[mhkeller/joiner](star.repo.html_url)
+[mhkeller/joiner](https://github.com/mhkeller/joiner)
 
 **WRITE CONTENT**
 

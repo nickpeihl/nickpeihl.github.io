@@ -8,7 +8,7 @@ gh_id: 7875077
 author: Nick Peihl
 ---
 
-[agrc/AutomatedCaching](star.repo.html_url)
+[agrc/AutomatedCaching](https://github.com/agrc/AutomatedCaching)
 
 **WRITE CONTENT**
 

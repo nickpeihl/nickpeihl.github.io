@@ -8,7 +8,7 @@ gh_id: 8986217
 author: Nick Peihl
 ---
 
-[koreader/koreader](star.repo.html_url)
+[koreader/koreader](https://github.com/koreader/koreader)
 
 **WRITE CONTENT**
 

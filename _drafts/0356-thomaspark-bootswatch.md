@@ -8,7 +8,7 @@ gh_id: 3374332
 author: Nick Peihl
 ---
 
-[thomaspark/bootswatch](star.repo.html_url)
+[thomaspark/bootswatch](https://github.com/thomaspark/bootswatch)
 
 **WRITE CONTENT**
 

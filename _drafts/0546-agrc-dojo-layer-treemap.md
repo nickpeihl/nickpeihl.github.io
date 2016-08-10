@@ -8,7 +8,7 @@ gh_id: 34271817
 author: Nick Peihl
 ---
 
-[agrc/dojo-layer-treemap](star.repo.html_url)
+[agrc/dojo-layer-treemap](https://github.com/agrc/dojo-layer-treemap)
 
 **WRITE CONTENT**
 

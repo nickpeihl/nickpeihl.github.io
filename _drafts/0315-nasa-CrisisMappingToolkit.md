@@ -8,7 +8,7 @@ gh_id: 27605361
 author: Nick Peihl
 ---
 
-[nasa/CrisisMappingToolkit](star.repo.html_url)
+[nasa/CrisisMappingToolkit](https://github.com/nasa/CrisisMappingToolkit)
 
 **WRITE CONTENT**
 

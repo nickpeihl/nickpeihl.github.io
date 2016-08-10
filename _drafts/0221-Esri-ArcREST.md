@@ -8,7 +8,7 @@ gh_id: 17837583
 author: Nick Peihl
 ---
 
-[Esri/ArcREST](star.repo.html_url)
+[Esri/ArcREST](https://github.com/Esri/ArcREST)
 
 **WRITE CONTENT**
 

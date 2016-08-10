@@ -8,7 +8,7 @@ gh_id: 10824797
 author: Nick Peihl
 ---
 
-[Esri/application-boilerplate-js](star.repo.html_url)
+[Esri/application-boilerplate-js](https://github.com/Esri/application-boilerplate-js)
 
 **WRITE CONTENT**
 

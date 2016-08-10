@@ -8,7 +8,7 @@ gh_id: 27226790
 author: Nick Peihl
 ---
 
-[cheton/browserify-css](star.repo.html_url)
+[cheton/browserify-css](https://github.com/cheton/browserify-css)
 
 **WRITE CONTENT**
 

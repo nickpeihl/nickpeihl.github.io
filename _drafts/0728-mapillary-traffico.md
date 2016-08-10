@@ -8,7 +8,7 @@ gh_id: 29465611
 author: Nick Peihl
 ---
 
-[mapillary/traffico](star.repo.html_url)
+[mapillary/traffico](https://github.com/mapillary/traffico)
 
 **WRITE CONTENT**
 

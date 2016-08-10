@@ -8,7 +8,7 @@ gh_id: 6119227
 author: Nick Peihl
 ---
 
-[thisandagain/sentiment](star.repo.html_url)
+[thisandagain/sentiment](https://github.com/thisandagain/sentiment)
 
 **WRITE CONTENT**
 

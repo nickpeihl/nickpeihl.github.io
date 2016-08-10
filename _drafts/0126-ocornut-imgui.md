@@ -8,7 +8,7 @@ gh_id: 22067521
 author: Nick Peihl
 ---
 
-[ocornut/imgui](star.repo.html_url)
+[ocornut/imgui](https://github.com/ocornut/imgui)
 
 **WRITE CONTENT**
 

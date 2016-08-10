@@ -8,7 +8,7 @@ gh_id: 58894411
 author: Nick Peihl
 ---
 
-[testdouble/test-smells](star.repo.html_url)
+[testdouble/test-smells](https://github.com/testdouble/test-smells)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 10066825
 author: Nick Peihl
 ---
 
-[Esri/esri-leaflet](star.repo.html_url)
+[Esri/esri-leaflet](https://github.com/Esri/esri-leaflet)
 
 **WRITE CONTENT**
 

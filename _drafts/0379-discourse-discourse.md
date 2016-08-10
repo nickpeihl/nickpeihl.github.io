@@ -8,7 +8,7 @@ gh_id: 7569578
 author: Nick Peihl
 ---
 
-[discourse/discourse](star.repo.html_url)
+[discourse/discourse](https://github.com/discourse/discourse)
 
 **WRITE CONTENT**
 

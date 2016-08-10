@@ -8,7 +8,7 @@ gh_id: 29032158
 author: Nick Peihl
 ---
 
-[benbalter/problem_child](star.repo.html_url)
+[benbalter/problem_child](https://github.com/benbalter/problem_child)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 42208784
 author: Nick Peihl
 ---
 
-[nickpeihl/mapindextool](star.repo.html_url)
+[nickpeihl/mapindextool](https://github.com/nickpeihl/mapindextool)
 
 **WRITE CONTENT**
 

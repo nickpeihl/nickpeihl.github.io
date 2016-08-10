@@ -8,7 +8,7 @@ gh_id: 20706001
 author: Nick Peihl
 ---
 
-[Esri/generator-esri-appbuilder-js](star.repo.html_url)
+[Esri/generator-esri-appbuilder-js](https://github.com/Esri/generator-esri-appbuilder-js)
 
 **WRITE CONTENT**
 

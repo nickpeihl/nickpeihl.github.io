@@ -8,7 +8,7 @@ gh_id: 12933501
 author: Nick Peihl
 ---
 
-[zurb/foundation-emails](star.repo.html_url)
+[zurb/foundation-emails](https://github.com/zurb/foundation-emails)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 30030270
 author: Nick Peihl
 ---
 
-[WhiteHouse/budgetdata](star.repo.html_url)
+[WhiteHouse/budgetdata](https://github.com/WhiteHouse/budgetdata)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 21401445
 author: Nick Peihl
 ---
 
-[vndmtrx/awesome-nodejs](star.repo.html_url)
+[vndmtrx/awesome-nodejs](https://github.com/vndmtrx/awesome-nodejs)
 
 **WRITE CONTENT**
 

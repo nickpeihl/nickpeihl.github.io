@@ -8,7 +8,7 @@ gh_id: 19168665
 author: Nick Peihl
 ---
 
-[kgroat/javascript-test-framework-comparison](star.repo.html_url)
+[kgroat/javascript-test-framework-comparison](https://github.com/kgroat/javascript-test-framework-comparison)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 63937396
 author: Nick Peihl
 ---
 
-[substack/healpix](star.repo.html_url)
+[substack/healpix](https://github.com/substack/healpix)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 19853528
 author: Nick Peihl
 ---
 
-[steveoh/grunt-esri-slurp](star.repo.html_url)
+[steveoh/grunt-esri-slurp](https://github.com/steveoh/grunt-esri-slurp)
 
 **WRITE CONTENT**
 

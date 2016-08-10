@@ -8,7 +8,7 @@ gh_id: 5992293
 author: Nick Peihl
 ---
 
-[nomad/shenzhen](star.repo.html_url)
+[nomad/shenzhen](https://github.com/nomad/shenzhen)
 
 **WRITE CONTENT**
 

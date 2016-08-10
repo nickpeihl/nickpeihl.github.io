@@ -8,7 +8,7 @@ gh_id: 47860620
 author: Nick Peihl
 ---
 
-[mapbox/supercluster](star.repo.html_url)
+[mapbox/supercluster](https://github.com/mapbox/supercluster)
 
 **WRITE CONTENT**
 

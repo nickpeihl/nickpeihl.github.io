@@ -8,7 +8,7 @@ gh_id: 2616595
 author: Nick Peihl
 ---
 
-[shutterstock/rickshaw](star.repo.html_url)
+[shutterstock/rickshaw](https://github.com/shutterstock/rickshaw)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 22493222
 author: Nick Peihl
 ---
 
-[emacs-tw/awesome-emacs](star.repo.html_url)
+[emacs-tw/awesome-emacs](https://github.com/emacs-tw/awesome-emacs)
 
 **WRITE CONTENT**
 

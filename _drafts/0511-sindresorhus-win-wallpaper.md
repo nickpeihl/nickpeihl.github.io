@@ -8,7 +8,7 @@ gh_id: 33350416
 author: Nick Peihl
 ---
 
-[sindresorhus/win-wallpaper](star.repo.html_url)
+[sindresorhus/win-wallpaper](https://github.com/sindresorhus/win-wallpaper)
 
 **WRITE CONTENT**
 

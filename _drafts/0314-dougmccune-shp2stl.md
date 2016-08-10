@@ -8,7 +8,7 @@ gh_id: 23687210
 author: Nick Peihl
 ---
 
-[dougmccune/shp2stl](star.repo.html_url)
+[dougmccune/shp2stl](https://github.com/dougmccune/shp2stl)
 
 **WRITE CONTENT**
 

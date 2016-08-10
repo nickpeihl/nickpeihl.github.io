@@ -8,7 +8,7 @@ gh_id: 31996386
 author: Nick Peihl
 ---
 
-[cugos/dropchop](star.repo.html_url)
+[cugos/dropchop](https://github.com/cugos/dropchop)
 
 **WRITE CONTENT**
 

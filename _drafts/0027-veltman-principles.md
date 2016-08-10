@@ -8,7 +8,7 @@ gh_id: 15619507
 author: Nick Peihl
 ---
 
-[veltman/principles](star.repo.html_url)
+[veltman/principles](https://github.com/veltman/principles)
 
 **WRITE CONTENT**
 

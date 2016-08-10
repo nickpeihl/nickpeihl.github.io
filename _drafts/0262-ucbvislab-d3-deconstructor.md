@@ -8,7 +8,7 @@ gh_id: 25990037
 author: Nick Peihl
 ---
 
-[ucbvislab/d3-deconstructor](star.repo.html_url)
+[ucbvislab/d3-deconstructor](https://github.com/ucbvislab/d3-deconstructor)
 
 **WRITE CONTENT**
 

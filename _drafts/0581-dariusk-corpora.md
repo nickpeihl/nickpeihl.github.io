@@ -8,7 +8,7 @@ gh_id: 17098587
 author: Nick Peihl
 ---
 
-[dariusk/corpora](star.repo.html_url)
+[dariusk/corpora](https://github.com/dariusk/corpora)
 
 **WRITE CONTENT**
 

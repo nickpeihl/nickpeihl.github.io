@@ -8,7 +8,7 @@ gh_id: 17044886
 author: Nick Peihl
 ---
 
-[konklone/json](star.repo.html_url)
+[konklone/json](https://github.com/konklone/json)
 
 **WRITE CONTENT**
 

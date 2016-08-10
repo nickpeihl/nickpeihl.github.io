@@ -8,7 +8,7 @@ gh_id: 22304234
 author: Nick Peihl
 ---
 
-[heyalexej/awesome-images](star.repo.html_url)
+[heyalexej/awesome-images](https://github.com/heyalexej/awesome-images)
 
 **WRITE CONTENT**
 

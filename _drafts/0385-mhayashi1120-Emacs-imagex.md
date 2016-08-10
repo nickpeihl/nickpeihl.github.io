@@ -8,7 +8,7 @@ gh_id: 1645431
 author: Nick Peihl
 ---
 
-[mhayashi1120/Emacs-imagex](star.repo.html_url)
+[mhayashi1120/Emacs-imagex](https://github.com/mhayashi1120/Emacs-imagex)
 
 **WRITE CONTENT**
 

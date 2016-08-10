@@ -8,7 +8,7 @@ gh_id: 53607260
 author: Nick Peihl
 ---
 
-[SJCGIS/footprint-review](star.repo.html_url)
+[SJCGIS/footprint-review](https://github.com/SJCGIS/footprint-review)
 
 **WRITE CONTENT**
 

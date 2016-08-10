@@ -8,7 +8,7 @@ gh_id: 8192519
 author: Nick Peihl
 ---
 
-[mdb/archaeologist](star.repo.html_url)
+[mdb/archaeologist](https://github.com/mdb/archaeologist)
 
 **WRITE CONTENT**
 

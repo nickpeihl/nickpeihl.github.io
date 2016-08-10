@@ -8,7 +8,7 @@ gh_id: 17489504
 author: Nick Peihl
 ---
 
-[lheberlie/mobile-webapps-js](star.repo.html_url)
+[lheberlie/mobile-webapps-js](https://github.com/lheberlie/mobile-webapps-js)
 
 **WRITE CONTENT**
 

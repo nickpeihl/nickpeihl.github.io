@@ -8,7 +8,7 @@ gh_id: 7329268
 author: Nick Peihl
 ---
 
-[canadaduane/house](star.repo.html_url)
+[canadaduane/house](https://github.com/canadaduane/house)
 
 **WRITE CONTENT**
 

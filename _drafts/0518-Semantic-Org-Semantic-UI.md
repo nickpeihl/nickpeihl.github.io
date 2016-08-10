@@ -8,7 +8,7 @@ gh_id: 9309093
 author: Nick Peihl
 ---
 
-[Semantic-Org/Semantic-UI](star.repo.html_url)
+[Semantic-Org/Semantic-UI](https://github.com/Semantic-Org/Semantic-UI)
 
 **WRITE CONTENT**
 

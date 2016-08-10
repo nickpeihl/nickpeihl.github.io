@@ -8,7 +8,7 @@ gh_id: 6410597
 author: Nick Peihl
 ---
 
-[alignedleft/d3-book](star.repo.html_url)
+[alignedleft/d3-book](https://github.com/alignedleft/d3-book)
 
 **WRITE CONTENT**
 

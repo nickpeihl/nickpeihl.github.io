@@ -8,7 +8,7 @@ gh_id: 2726880
 author: Nick Peihl
 ---
 
-[moravianlibrary/opentiler](star.repo.html_url)
+[moravianlibrary/opentiler](https://github.com/moravianlibrary/opentiler)
 
 **WRITE CONTENT**
 

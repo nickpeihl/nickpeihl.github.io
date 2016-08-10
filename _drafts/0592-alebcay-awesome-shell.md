@@ -8,7 +8,7 @@ gh_id: 21552971
 author: Nick Peihl
 ---
 
-[alebcay/awesome-shell](star.repo.html_url)
+[alebcay/awesome-shell](https://github.com/alebcay/awesome-shell)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 2197202
 author: Nick Peihl
 ---
 
-[satyan/sugar](star.repo.html_url)
+[satyan/sugar](https://github.com/satyan/sugar)
 
 **WRITE CONTENT**
 

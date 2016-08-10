@@ -8,7 +8,7 @@ gh_id: 31562674
 author: Nick Peihl
 ---
 
-[ljagis/leaflet-measure](star.repo.html_url)
+[ljagis/leaflet-measure](https://github.com/ljagis/leaflet-measure)
 
 **WRITE CONTENT**
 

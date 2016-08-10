@@ -8,7 +8,7 @@ gh_id: 34468322
 author: Nick Peihl
 ---
 
-[datanews/tik-tok](star.repo.html_url)
+[datanews/tik-tok](https://github.com/datanews/tik-tok)
 
 **WRITE CONTENT**
 

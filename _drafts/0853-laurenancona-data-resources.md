@@ -8,7 +8,7 @@ gh_id: 30550277
 author: Nick Peihl
 ---
 
-[laurenancona/data-resources](star.repo.html_url)
+[laurenancona/data-resources](https://github.com/laurenancona/data-resources)
 
 **WRITE CONTENT**
 

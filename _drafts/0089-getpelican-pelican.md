@@ -8,7 +8,7 @@ gh_id: 993110
 author: Nick Peihl
 ---
 
-[getpelican/pelican](star.repo.html_url)
+[getpelican/pelican](https://github.com/getpelican/pelican)
 
 **WRITE CONTENT**
 

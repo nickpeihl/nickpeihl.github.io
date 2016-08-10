@@ -8,7 +8,7 @@ gh_id: 1324761
 author: Nick Peihl
 ---
 
-[rosarior/mayan](star.repo.html_url)
+[rosarior/mayan](https://github.com/rosarior/mayan)
 
 **WRITE CONTENT**
 

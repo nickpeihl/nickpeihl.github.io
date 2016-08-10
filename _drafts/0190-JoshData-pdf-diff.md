@@ -8,7 +8,7 @@ gh_id: 20665924
 author: Nick Peihl
 ---
 
-[JoshData/pdf-diff](star.repo.html_url)
+[JoshData/pdf-diff](https://github.com/JoshData/pdf-diff)
 
 **WRITE CONTENT**
 

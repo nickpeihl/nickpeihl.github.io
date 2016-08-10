@@ -8,7 +8,7 @@ gh_id: 28238829
 author: Nick Peihl
 ---
 
-[mapbox/usgs](star.repo.html_url)
+[mapbox/usgs](https://github.com/mapbox/usgs)
 
 **WRITE CONTENT**
 

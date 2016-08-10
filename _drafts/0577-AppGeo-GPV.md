@@ -8,7 +8,7 @@ gh_id: 20724156
 author: Nick Peihl
 ---
 
-[AppGeo/GPV](star.repo.html_url)
+[AppGeo/GPV](https://github.com/AppGeo/GPV)
 
 **WRITE CONTENT**
 

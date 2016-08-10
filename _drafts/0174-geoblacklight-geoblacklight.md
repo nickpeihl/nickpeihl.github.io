@@ -8,7 +8,7 @@ gh_id: 21216322
 author: Nick Peihl
 ---
 
-[geoblacklight/geoblacklight](star.repo.html_url)
+[geoblacklight/geoblacklight](https://github.com/geoblacklight/geoblacklight)
 
 **WRITE CONTENT**
 

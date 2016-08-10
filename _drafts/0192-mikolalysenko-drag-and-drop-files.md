@@ -8,7 +8,7 @@ gh_id: 11539603
 author: Nick Peihl
 ---
 
-[mikolalysenko/drag-and-drop-files](star.repo.html_url)
+[mikolalysenko/drag-and-drop-files](https://github.com/mikolalysenko/drag-and-drop-files)
 
 **WRITE CONTENT**
 

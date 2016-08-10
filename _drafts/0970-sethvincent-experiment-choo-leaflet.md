@@ -8,7 +8,7 @@ gh_id: 62754076
 author: Nick Peihl
 ---
 
-[sethvincent/experiment-choo-leaflet](star.repo.html_url)
+[sethvincent/experiment-choo-leaflet](https://github.com/sethvincent/experiment-choo-leaflet)
 
 **WRITE CONTENT**
 

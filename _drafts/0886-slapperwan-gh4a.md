@@ -8,7 +8,7 @@ gh_id: 1388190
 author: Nick Peihl
 ---
 
-[slapperwan/gh4a](star.repo.html_url)
+[slapperwan/gh4a](https://github.com/slapperwan/gh4a)
 
 **WRITE CONTENT**
 

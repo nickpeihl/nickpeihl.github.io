@@ -8,7 +8,7 @@ gh_id: 15204860
 author: Nick Peihl
 ---
 
-[papers-we-love/papers-we-love](star.repo.html_url)
+[papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 8416883
 author: Nick Peihl
 ---
 
-[TeehanLax/Hyperlapse.js](star.repo.html_url)
+[TeehanLax/Hyperlapse.js](https://github.com/TeehanLax/Hyperlapse.js)
 
 **WRITE CONTENT**
 

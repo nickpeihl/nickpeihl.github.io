@@ -8,7 +8,7 @@ gh_id: 13527761
 author: Nick Peihl
 ---
 
-[BrowserSync/browser-sync](star.repo.html_url)
+[BrowserSync/browser-sync](https://github.com/BrowserSync/browser-sync)
 
 **WRITE CONTENT**
 

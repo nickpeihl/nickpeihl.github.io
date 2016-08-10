@@ -8,7 +8,7 @@ gh_id: 18708860
 author: Nick Peihl
 ---
 
-[tiimgreen/github-cheat-sheet](star.repo.html_url)
+[tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet)
 
 **WRITE CONTENT**
 

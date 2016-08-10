@@ -8,7 +8,7 @@ gh_id: 13301038
 author: Nick Peihl
 ---
 
-[Turfjs/turf](star.repo.html_url)
+[Turfjs/turf](https://github.com/Turfjs/turf)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 20230109
 author: Nick Peihl
 ---
 
-[openelections/openelections-data-wa](star.repo.html_url)
+[openelections/openelections-data-wa](https://github.com/openelections/openelections-data-wa)
 
 **WRITE CONTENT**
 

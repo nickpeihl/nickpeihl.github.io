@@ -8,7 +8,7 @@ gh_id: 16466596
 author: Nick Peihl
 ---
 
-[michaelvillar/dynamics.js](star.repo.html_url)
+[michaelvillar/dynamics.js](https://github.com/michaelvillar/dynamics.js)
 
 **WRITE CONTENT**
 

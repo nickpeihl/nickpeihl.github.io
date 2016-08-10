@@ -8,7 +8,7 @@ gh_id: 56717493
 author: Nick Peihl
 ---
 
-[joshbuchea/HEAD](star.repo.html_url)
+[joshbuchea/HEAD](https://github.com/joshbuchea/HEAD)
 
 **WRITE CONTENT**
 

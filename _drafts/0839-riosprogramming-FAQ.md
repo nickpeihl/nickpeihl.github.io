@@ -8,7 +8,7 @@ gh_id: 40469109
 author: Nick Peihl
 ---
 
-[riosprogramming/FAQ](star.repo.html_url)
+[riosprogramming/FAQ](https://github.com/riosprogramming/FAQ)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 15552871
 author: Nick Peihl
 ---
 
-[mortcanty/CRCPython](star.repo.html_url)
+[mortcanty/CRCPython](https://github.com/mortcanty/CRCPython)
 
 **WRITE CONTENT**
 

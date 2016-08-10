@@ -8,7 +8,7 @@ gh_id: 3071553
 author: Nick Peihl
 ---
 
-[vlandham/vis](star.repo.html_url)
+[vlandham/vis](https://github.com/vlandham/vis)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 24960377
 author: Nick Peihl
 ---
 
-[icetan/sqlitepipe](star.repo.html_url)
+[icetan/sqlitepipe](https://github.com/icetan/sqlitepipe)
 
 **WRITE CONTENT**
 

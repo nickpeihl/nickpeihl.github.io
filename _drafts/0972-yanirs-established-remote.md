@@ -8,7 +8,7 @@ gh_id: 41796462
 author: Nick Peihl
 ---
 
-[yanirs/established-remote](star.repo.html_url)
+[yanirs/established-remote](https://github.com/yanirs/established-remote)
 
 **WRITE CONTENT**
 

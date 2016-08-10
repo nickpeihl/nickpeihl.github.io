@@ -8,7 +8,7 @@ gh_id: 11045663
 author: Nick Peihl
 ---
 
-[Esri/arcgis-dijit-layer-swipe-js](star.repo.html_url)
+[Esri/arcgis-dijit-layer-swipe-js](https://github.com/Esri/arcgis-dijit-layer-swipe-js)
 
 **WRITE CONTENT**
 

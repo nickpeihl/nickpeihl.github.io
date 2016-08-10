@@ -8,7 +8,7 @@ gh_id: 82282
 author: Nick Peihl
 ---
 
-[purcell/emacs.d](star.repo.html_url)
+[purcell/emacs.d](https://github.com/purcell/emacs.d)
 
 **WRITE CONTENT**
 

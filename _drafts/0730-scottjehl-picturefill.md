@@ -8,7 +8,7 @@ gh_id: 3502120
 author: Nick Peihl
 ---
 
-[scottjehl/picturefill](star.repo.html_url)
+[scottjehl/picturefill](https://github.com/scottjehl/picturefill)
 
 **WRITE CONTENT**
 

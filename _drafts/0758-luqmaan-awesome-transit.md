@@ -8,7 +8,7 @@ gh_id: 40631174
 author: Nick Peihl
 ---
 
-[luqmaan/awesome-transit](star.repo.html_url)
+[luqmaan/awesome-transit](https://github.com/luqmaan/awesome-transit)
 
 **WRITE CONTENT**
 

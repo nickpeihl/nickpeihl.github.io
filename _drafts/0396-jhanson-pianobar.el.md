@@ -8,7 +8,7 @@ gh_id: 3924212
 author: Nick Peihl
 ---
 
-[jhanson/pianobar.el](star.repo.html_url)
+[jhanson/pianobar.el](https://github.com/jhanson/pianobar.el)
 
 **WRITE CONTENT**
 

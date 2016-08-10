@@ -8,7 +8,7 @@ gh_id: 46130927
 author: Nick Peihl
 ---
 
-[Quartz/bad-data-guide](star.repo.html_url)
+[Quartz/bad-data-guide](https://github.com/Quartz/bad-data-guide)
 
 **WRITE CONTENT**
 

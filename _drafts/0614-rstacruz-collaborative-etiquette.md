@@ -8,7 +8,7 @@ gh_id: 38346665
 author: Nick Peihl
 ---
 
-[rstacruz/collaborative-etiquette](star.repo.html_url)
+[rstacruz/collaborative-etiquette](https://github.com/rstacruz/collaborative-etiquette)
 
 **WRITE CONTENT**
 

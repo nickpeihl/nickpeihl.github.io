@@ -8,7 +8,7 @@ gh_id: 44775983
 author: Nick Peihl
 ---
 
-[javascript-society/javascript-path](star.repo.html_url)
+[javascript-society/javascript-path](https://github.com/javascript-society/javascript-path)
 
 **WRITE CONTENT**
 

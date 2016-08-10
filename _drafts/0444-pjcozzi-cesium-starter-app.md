@@ -8,7 +8,7 @@ gh_id: 13172212
 author: Nick Peihl
 ---
 
-[pjcozzi/cesium-starter-app](star.repo.html_url)
+[pjcozzi/cesium-starter-app](https://github.com/pjcozzi/cesium-starter-app)
 
 **WRITE CONTENT**
 

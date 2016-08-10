@@ -8,7 +8,7 @@ gh_id: 12493108
 author: Nick Peihl
 ---
 
-[datamade/macoupin-budget](star.repo.html_url)
+[datamade/macoupin-budget](https://github.com/datamade/macoupin-budget)
 
 **WRITE CONTENT**
 

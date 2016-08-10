@@ -8,7 +8,7 @@ gh_id: 3098186
 author: Nick Peihl
 ---
 
-[mapbox/maki](star.repo.html_url)
+[mapbox/maki](https://github.com/mapbox/maki)
 
 **WRITE CONTENT**
 

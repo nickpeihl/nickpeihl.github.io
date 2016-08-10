@@ -8,7 +8,7 @@ gh_id: 23083156
 author: Nick Peihl
 ---
 
-[callemall/material-ui](star.repo.html_url)
+[callemall/material-ui](https://github.com/callemall/material-ui)
 
 **WRITE CONTENT**
 

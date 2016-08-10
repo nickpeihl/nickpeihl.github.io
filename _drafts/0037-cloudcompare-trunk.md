@@ -8,7 +8,7 @@ gh_id: 6568697
 author: Nick Peihl
 ---
 
-[cloudcompare/trunk](star.repo.html_url)
+[cloudcompare/trunk](https://github.com/cloudcompare/trunk)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 22440692
 author: Nick Peihl
 ---
 
-[OpenNews/srccon-data](star.repo.html_url)
+[OpenNews/srccon-data](https://github.com/OpenNews/srccon-data)
 
 **WRITE CONTENT**
 

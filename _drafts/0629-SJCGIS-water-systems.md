@@ -8,7 +8,7 @@ gh_id: 37145108
 author: Nick Peihl
 ---
 
-[SJCGIS/water-systems](star.repo.html_url)
+[SJCGIS/water-systems](https://github.com/SJCGIS/water-systems)
 
 **WRITE CONTENT**
 

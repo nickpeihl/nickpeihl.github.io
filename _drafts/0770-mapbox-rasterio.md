@@ -8,7 +8,7 @@ gh_id: 14116604
 author: Nick Peihl
 ---
 
-[mapbox/rasterio](star.repo.html_url)
+[mapbox/rasterio](https://github.com/mapbox/rasterio)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 24871098
 author: Nick Peihl
 ---
 
-[mapbox/feature-filter](star.repo.html_url)
+[mapbox/feature-filter](https://github.com/mapbox/feature-filter)
 
 **WRITE CONTENT**
 

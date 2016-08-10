@@ -8,7 +8,7 @@ gh_id: 26971627
 author: Nick Peihl
 ---
 
-[ngageoint/mrgeo](star.repo.html_url)
+[ngageoint/mrgeo](https://github.com/ngageoint/mrgeo)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 16163933
 author: Nick Peihl
 ---
 
-[raykendo/ESRI_REST_Diagnostics](star.repo.html_url)
+[raykendo/ESRI_REST_Diagnostics](https://github.com/raykendo/ESRI_REST_Diagnostics)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 17528781
 author: Nick Peihl
 ---
 
-[SitePen/.jshintrc](star.repo.html_url)
+[SitePen/.jshintrc](https://github.com/SitePen/.jshintrc)
 
 **WRITE CONTENT**
 

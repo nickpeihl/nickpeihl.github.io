@@ -8,7 +8,7 @@ gh_id: 30977962
 author: Nick Peihl
 ---
 
-[airbnb/AirMapView](star.repo.html_url)
+[airbnb/AirMapView](https://github.com/airbnb/AirMapView)
 
 **WRITE CONTENT**
 

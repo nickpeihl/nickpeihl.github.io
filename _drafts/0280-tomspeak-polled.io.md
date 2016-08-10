@@ -8,7 +8,7 @@ gh_id: 26693977
 author: Nick Peihl
 ---
 
-[tomspeak/polled.io](star.repo.html_url)
+[tomspeak/polled.io](https://github.com/tomspeak/polled.io)
 
 **WRITE CONTENT**
 

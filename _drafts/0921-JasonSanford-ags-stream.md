@@ -8,7 +8,7 @@ gh_id: 31460487
 author: Nick Peihl
 ---
 
-[JasonSanford/ags-stream](star.repo.html_url)
+[JasonSanford/ags-stream](https://github.com/JasonSanford/ags-stream)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 2235911
 author: Nick Peihl
 ---
 
-[libLAS/libLAS](star.repo.html_url)
+[libLAS/libLAS](https://github.com/libLAS/libLAS)
 
 **WRITE CONTENT**
 

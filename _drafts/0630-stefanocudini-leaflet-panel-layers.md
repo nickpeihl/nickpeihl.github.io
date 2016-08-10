@@ -8,7 +8,7 @@ gh_id: 19434090
 author: Nick Peihl
 ---
 
-[stefanocudini/leaflet-panel-layers](star.repo.html_url)
+[stefanocudini/leaflet-panel-layers](https://github.com/stefanocudini/leaflet-panel-layers)
 
 **WRITE CONTENT**
 

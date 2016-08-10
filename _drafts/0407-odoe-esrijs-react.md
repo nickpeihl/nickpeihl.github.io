@@ -8,7 +8,7 @@ gh_id: 30518287
 author: Nick Peihl
 ---
 
-[odoe/esrijs-react](star.repo.html_url)
+[odoe/esrijs-react](https://github.com/odoe/esrijs-react)
 
 **WRITE CONTENT**
 

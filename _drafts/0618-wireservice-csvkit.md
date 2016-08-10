@@ -8,7 +8,7 @@ gh_id: 1553944
 author: Nick Peihl
 ---
 
-[wireservice/csvkit](star.repo.html_url)
+[wireservice/csvkit](https://github.com/wireservice/csvkit)
 
 **WRITE CONTENT**
 

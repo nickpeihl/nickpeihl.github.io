@@ -8,7 +8,7 @@ gh_id: 15728293
 author: Nick Peihl
 ---
 
-[sandstorm-io/sandstorm](star.repo.html_url)
+[sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm)
 
 **WRITE CONTENT**
 

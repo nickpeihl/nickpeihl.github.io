@@ -8,7 +8,7 @@ gh_id: 41698387
 author: Nick Peihl
 ---
 
-[mapbox/untiler](star.repo.html_url)
+[mapbox/untiler](https://github.com/mapbox/untiler)
 
 **WRITE CONTENT**
 

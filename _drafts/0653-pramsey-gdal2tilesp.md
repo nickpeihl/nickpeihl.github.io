@@ -8,7 +8,7 @@ gh_id: 31552853
 author: Nick Peihl
 ---
 
-[pramsey/gdal2tilesp](star.repo.html_url)
+[pramsey/gdal2tilesp](https://github.com/pramsey/gdal2tilesp)
 
 **WRITE CONTENT**
 

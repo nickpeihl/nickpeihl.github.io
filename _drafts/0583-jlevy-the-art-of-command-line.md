@@ -8,7 +8,7 @@ gh_id: 35955666
 author: Nick Peihl
 ---
 
-[jlevy/the-art-of-command-line](star.repo.html_url)
+[jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 41647602
 author: Nick Peihl
 ---
 
-[maxogden/linux](star.repo.html_url)
+[maxogden/linux](https://github.com/maxogden/linux)
 
 **WRITE CONTENT**
 

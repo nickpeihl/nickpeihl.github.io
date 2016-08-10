@@ -8,7 +8,7 @@ gh_id: 4687884
 author: Nick Peihl
 ---
 
-[ecprice/newsdiffs](star.repo.html_url)
+[ecprice/newsdiffs](https://github.com/ecprice/newsdiffs)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 23847698
 author: Nick Peihl
 ---
 
-[shime/creative-commons-media](star.repo.html_url)
+[shime/creative-commons-media](https://github.com/shime/creative-commons-media)
 
 **WRITE CONTENT**
 

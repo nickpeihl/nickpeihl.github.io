@@ -8,7 +8,7 @@ gh_id: 30108534
 author: Nick Peihl
 ---
 
-[saulmm/Material-Movies](star.repo.html_url)
+[saulmm/Material-Movies](https://github.com/saulmm/Material-Movies)
 
 **WRITE CONTENT**
 

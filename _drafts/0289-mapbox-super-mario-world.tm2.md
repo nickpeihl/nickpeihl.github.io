@@ -8,7 +8,7 @@ gh_id: 26927140
 author: Nick Peihl
 ---
 
-[mapbox/super-mario-world.tm2](star.repo.html_url)
+[mapbox/super-mario-world.tm2](https://github.com/mapbox/super-mario-world.tm2)
 
 **WRITE CONTENT**
 

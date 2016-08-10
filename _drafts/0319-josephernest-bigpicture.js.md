@@ -8,7 +8,7 @@ gh_id: 27382852
 author: Nick Peihl
 ---
 
-[josephernest/bigpicture.js](star.repo.html_url)
+[josephernest/bigpicture.js](https://github.com/josephernest/bigpicture.js)
 
 **WRITE CONTENT**
 

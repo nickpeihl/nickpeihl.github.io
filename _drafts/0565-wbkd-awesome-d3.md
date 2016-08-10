@@ -8,7 +8,7 @@ gh_id: 35890808
 author: Nick Peihl
 ---
 
-[wbkd/awesome-d3](star.repo.html_url)
+[wbkd/awesome-d3](https://github.com/wbkd/awesome-d3)
 
 **WRITE CONTENT**
 

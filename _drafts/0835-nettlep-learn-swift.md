@@ -8,7 +8,7 @@ gh_id: 20943052
 author: Nick Peihl
 ---
 
-[nettlep/learn-swift](star.repo.html_url)
+[nettlep/learn-swift](https://github.com/nettlep/learn-swift)
 
 **WRITE CONTENT**
 

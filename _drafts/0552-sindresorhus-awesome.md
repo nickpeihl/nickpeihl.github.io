@@ -8,7 +8,7 @@ gh_id: 21737465
 author: Nick Peihl
 ---
 
-[sindresorhus/awesome](star.repo.html_url)
+[sindresorhus/awesome](https://github.com/sindresorhus/awesome)
 
 **WRITE CONTENT**
 

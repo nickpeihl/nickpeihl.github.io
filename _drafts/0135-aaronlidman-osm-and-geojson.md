@@ -8,7 +8,7 @@ gh_id: 11515428
 author: Nick Peihl
 ---
 
-[aaronlidman/osm-and-geojson](star.repo.html_url)
+[aaronlidman/osm-and-geojson](https://github.com/aaronlidman/osm-and-geojson)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 19494344
 author: Nick Peihl
 ---
 
-[SINTEF-9012/PruneCluster](star.repo.html_url)
+[SINTEF-9012/PruneCluster](https://github.com/SINTEF-9012/PruneCluster)
 
 **WRITE CONTENT**
 

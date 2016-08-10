@@ -8,7 +8,7 @@ gh_id: 19816579
 author: Nick Peihl
 ---
 
-[dominictarr/excel-stream](star.repo.html_url)
+[dominictarr/excel-stream](https://github.com/dominictarr/excel-stream)
 
 **WRITE CONTENT**
 

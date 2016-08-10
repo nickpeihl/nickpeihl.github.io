@@ -8,7 +8,7 @@ gh_id: 11378786
 author: Nick Peihl
 ---
 
-[spatialdev/PGRestAPI](star.repo.html_url)
+[spatialdev/PGRestAPI](https://github.com/spatialdev/PGRestAPI)
 
 **WRITE CONTENT**
 

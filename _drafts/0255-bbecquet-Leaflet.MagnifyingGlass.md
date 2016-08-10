@@ -8,7 +8,7 @@ gh_id: 15203697
 author: Nick Peihl
 ---
 
-[bbecquet/Leaflet.MagnifyingGlass](star.repo.html_url)
+[bbecquet/Leaflet.MagnifyingGlass](https://github.com/bbecquet/Leaflet.MagnifyingGlass)
 
 **WRITE CONTENT**
 

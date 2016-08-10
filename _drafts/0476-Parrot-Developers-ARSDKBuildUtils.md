@@ -8,7 +8,7 @@ gh_id: 26963062
 author: Nick Peihl
 ---
 
-[Parrot-Developers/ARSDKBuildUtils](star.repo.html_url)
+[Parrot-Developers/ARSDKBuildUtils](https://github.com/Parrot-Developers/ARSDKBuildUtils)
 
 **WRITE CONTENT**
 

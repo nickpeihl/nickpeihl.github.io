@@ -8,7 +8,7 @@ gh_id: 821644
 author: Nick Peihl
 ---
 
-[kobolabs/Kobo-Reader](star.repo.html_url)
+[kobolabs/Kobo-Reader](https://github.com/kobolabs/Kobo-Reader)
 
 **WRITE CONTENT**
 

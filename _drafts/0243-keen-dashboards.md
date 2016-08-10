@@ -8,7 +8,7 @@ gh_id: 22765472
 author: Nick Peihl
 ---
 
-[keen/dashboards](star.repo.html_url)
+[keen/dashboards](https://github.com/keen/dashboards)
 
 **WRITE CONTENT**
 

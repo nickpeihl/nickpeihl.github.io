@@ -8,7 +8,7 @@ gh_id: 16294526
 author: Nick Peihl
 ---
 
-[jwasilgeo/choropleth-hillshade](star.repo.html_url)
+[jwasilgeo/choropleth-hillshade](https://github.com/jwasilgeo/choropleth-hillshade)
 
 **WRITE CONTENT**
 

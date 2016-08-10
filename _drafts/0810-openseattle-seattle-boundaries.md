@@ -8,7 +8,7 @@ gh_id: 30320599
 author: Nick Peihl
 ---
 
-[openseattle/seattle-boundaries](star.repo.html_url)
+[openseattle/seattle-boundaries](https://github.com/openseattle/seattle-boundaries)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 4661744
 author: Nick Peihl
 ---
 
-[geonetwork/core-geonetwork](star.repo.html_url)
+[geonetwork/core-geonetwork](https://github.com/geonetwork/core-geonetwork)
 
 **WRITE CONTENT**
 

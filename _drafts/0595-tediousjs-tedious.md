@@ -8,7 +8,7 @@ gh_id: 1719690
 author: Nick Peihl
 ---
 
-[tediousjs/tedious](star.repo.html_url)
+[tediousjs/tedious](https://github.com/tediousjs/tedious)
 
 **WRITE CONTENT**
 

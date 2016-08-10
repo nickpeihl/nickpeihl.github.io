@@ -8,7 +8,7 @@ gh_id: 17520696
 author: Nick Peihl
 ---
 
-[tomwayson/esri-jasmine-tutorial](star.repo.html_url)
+[tomwayson/esri-jasmine-tutorial](https://github.com/tomwayson/esri-jasmine-tutorial)
 
 **WRITE CONTENT**
 

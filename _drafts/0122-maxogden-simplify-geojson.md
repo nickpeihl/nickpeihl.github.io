@@ -8,7 +8,7 @@ gh_id: 17039436
 author: Nick Peihl
 ---
 
-[maxogden/simplify-geojson](star.repo.html_url)
+[maxogden/simplify-geojson](https://github.com/maxogden/simplify-geojson)
 
 **WRITE CONTENT**
 

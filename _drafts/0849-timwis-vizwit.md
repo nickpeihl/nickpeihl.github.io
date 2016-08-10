@@ -8,7 +8,7 @@ gh_id: 41299286
 author: Nick Peihl
 ---
 
-[timwis/vizwit](star.repo.html_url)
+[timwis/vizwit](https://github.com/timwis/vizwit)
 
 **WRITE CONTENT**
 

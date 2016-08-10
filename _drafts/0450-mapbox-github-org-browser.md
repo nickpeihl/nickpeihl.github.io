@@ -8,7 +8,7 @@ gh_id: 31341257
 author: Nick Peihl
 ---
 
-[mapbox/github-org-browser](star.repo.html_url)
+[mapbox/github-org-browser](https://github.com/mapbox/github-org-browser)
 
 **WRITE CONTENT**
 

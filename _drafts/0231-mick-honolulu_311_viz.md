@@ -8,7 +8,7 @@ gh_id: 4525879
 author: Nick Peihl
 ---
 
-[mick/honolulu_311_viz](star.repo.html_url)
+[mick/honolulu_311_viz](https://github.com/mick/honolulu_311_viz)
 
 **WRITE CONTENT**
 

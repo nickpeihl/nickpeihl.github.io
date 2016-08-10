@@ -8,7 +8,7 @@ gh_id: 8538132
 author: Nick Peihl
 ---
 
-[designmodo/Flat-UI](star.repo.html_url)
+[designmodo/Flat-UI](https://github.com/designmodo/Flat-UI)
 
 **WRITE CONTENT**
 

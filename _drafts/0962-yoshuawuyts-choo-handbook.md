@@ -8,7 +8,7 @@ gh_id: 61435630
 author: Nick Peihl
 ---
 
-[yoshuawuyts/choo-handbook](star.repo.html_url)
+[yoshuawuyts/choo-handbook](https://github.com/yoshuawuyts/choo-handbook)
 
 **WRITE CONTENT**
 

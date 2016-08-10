@@ -8,7 +8,7 @@ gh_id: 21834502
 author: Nick Peihl
 ---
 
-[mapbox/geobuf](star.repo.html_url)
+[mapbox/geobuf](https://github.com/mapbox/geobuf)
 
 **WRITE CONTENT**
 

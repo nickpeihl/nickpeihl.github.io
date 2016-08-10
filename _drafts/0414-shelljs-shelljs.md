@@ -8,7 +8,7 @@ gh_id: 3604157
 author: Nick Peihl
 ---
 
-[shelljs/shelljs](star.repo.html_url)
+[shelljs/shelljs](https://github.com/shelljs/shelljs)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 460848
 author: Nick Peihl
 ---
 
-[mRemoteNG/mRemoteNG](star.repo.html_url)
+[mRemoteNG/mRemoteNG](https://github.com/mRemoteNG/mRemoteNG)
 
 **WRITE CONTENT**
 

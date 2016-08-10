@@ -8,7 +8,7 @@ gh_id: 15480067
 author: Nick Peihl
 ---
 
-[react-bootstrap/react-bootstrap](star.repo.html_url)
+[react-bootstrap/react-bootstrap](https://github.com/react-bootstrap/react-bootstrap)
 
 **WRITE CONTENT**
 

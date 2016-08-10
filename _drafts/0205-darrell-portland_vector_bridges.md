@@ -8,7 +8,7 @@ gh_id: 6673785
 author: Nick Peihl
 ---
 
-[darrell/portland_vector_bridges](star.repo.html_url)
+[darrell/portland_vector_bridges](https://github.com/darrell/portland_vector_bridges)
 
 **WRITE CONTENT**
 

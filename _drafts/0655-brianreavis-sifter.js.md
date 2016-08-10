@@ -8,7 +8,7 @@ gh_id: 12032833
 author: Nick Peihl
 ---
 
-[brianreavis/sifter.js](star.repo.html_url)
+[brianreavis/sifter.js](https://github.com/brianreavis/sifter.js)
 
 **WRITE CONTENT**
 

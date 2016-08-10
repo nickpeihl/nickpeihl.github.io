@@ -8,7 +8,7 @@ gh_id: 9326259
 author: Nick Peihl
 ---
 
-[fritz-hh/OCRmyPDF](star.repo.html_url)
+[fritz-hh/OCRmyPDF](https://github.com/fritz-hh/OCRmyPDF)
 
 **WRITE CONTENT**
 

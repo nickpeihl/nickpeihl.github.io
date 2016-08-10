@@ -8,7 +8,7 @@ gh_id: 11750458
 author: Nick Peihl
 ---
 
-[bmcbride/bootleaf](star.repo.html_url)
+[bmcbride/bootleaf](https://github.com/bmcbride/bootleaf)
 
 **WRITE CONTENT**
 

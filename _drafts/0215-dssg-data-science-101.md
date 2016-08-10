@@ -8,7 +8,7 @@ gh_id: 20378715
 author: Nick Peihl
 ---
 
-[dssg/data-science-101](star.repo.html_url)
+[dssg/data-science-101](https://github.com/dssg/data-science-101)
 
 **WRITE CONTENT**
 

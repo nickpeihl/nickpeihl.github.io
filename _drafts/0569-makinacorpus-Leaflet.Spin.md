@@ -8,7 +8,7 @@ gh_id: 8557579
 author: Nick Peihl
 ---
 
-[makinacorpus/Leaflet.Spin](star.repo.html_url)
+[makinacorpus/Leaflet.Spin](https://github.com/makinacorpus/Leaflet.Spin)
 
 **WRITE CONTENT**
 

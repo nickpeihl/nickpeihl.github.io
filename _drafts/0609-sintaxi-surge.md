@@ -8,7 +8,7 @@ gh_id: 22282786
 author: Nick Peihl
 ---
 
-[sintaxi/surge](star.repo.html_url)
+[sintaxi/surge](https://github.com/sintaxi/surge)
 
 **WRITE CONTENT**
 

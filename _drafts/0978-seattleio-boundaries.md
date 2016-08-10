@@ -8,7 +8,7 @@ gh_id: 64078477
 author: Nick Peihl
 ---
 
-[seattleio/boundaries](star.repo.html_url)
+[seattleio/boundaries](https://github.com/seattleio/boundaries)
 
 **WRITE CONTENT**
 

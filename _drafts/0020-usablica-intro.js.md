@@ -8,7 +8,7 @@ gh_id: 8686855
 author: Nick Peihl
 ---
 
-[usablica/intro.js](star.repo.html_url)
+[usablica/intro.js](https://github.com/usablica/intro.js)
 
 **WRITE CONTENT**
 

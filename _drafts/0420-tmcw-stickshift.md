@@ -8,7 +8,7 @@ gh_id: 30472297
 author: Nick Peihl
 ---
 
-[tmcw/stickshift](star.repo.html_url)
+[tmcw/stickshift](https://github.com/tmcw/stickshift)
 
 **WRITE CONTENT**
 

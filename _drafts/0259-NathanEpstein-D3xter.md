@@ -8,7 +8,7 @@ gh_id: 25821876
 author: Nick Peihl
 ---
 
-[NathanEpstein/D3xter](star.repo.html_url)
+[NathanEpstein/D3xter](https://github.com/NathanEpstein/D3xter)
 
 **WRITE CONTENT**
 

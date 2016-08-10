@@ -8,7 +8,7 @@ gh_id: 60349259
 author: Nick Peihl
 ---
 
-[clkao/awesome-dat](star.repo.html_url)
+[clkao/awesome-dat](https://github.com/clkao/awesome-dat)
 
 **WRITE CONTENT**
 

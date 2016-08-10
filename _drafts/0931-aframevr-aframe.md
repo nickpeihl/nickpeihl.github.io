@@ -8,7 +8,7 @@ gh_id: 42488903
 author: Nick Peihl
 ---
 
-[aframevr/aframe](star.repo.html_url)
+[aframevr/aframe](https://github.com/aframevr/aframe)
 
 **WRITE CONTENT**
 

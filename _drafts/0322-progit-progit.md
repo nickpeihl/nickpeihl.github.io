@@ -8,7 +8,7 @@ gh_id: 261335
 author: Nick Peihl
 ---
 
-[progit/progit](star.repo.html_url)
+[progit/progit](https://github.com/progit/progit)
 
 **WRITE CONTENT**
 

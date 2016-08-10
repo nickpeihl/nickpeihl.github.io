@@ -8,7 +8,7 @@ gh_id: 9364764
 author: Nick Peihl
 ---
 
-[zk-phi/sublimity](star.repo.html_url)
+[zk-phi/sublimity](https://github.com/zk-phi/sublimity)
 
 **WRITE CONTENT**
 

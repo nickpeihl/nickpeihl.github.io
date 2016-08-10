@@ -8,7 +8,7 @@ gh_id: 4476332
 author: Nick Peihl
 ---
 
-[hrbrmstr/slopegraph](star.repo.html_url)
+[hrbrmstr/slopegraph](https://github.com/hrbrmstr/slopegraph)
 
 **WRITE CONTENT**
 

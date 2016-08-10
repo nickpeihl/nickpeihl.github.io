@@ -8,7 +8,7 @@ gh_id: 6709682
 author: Nick Peihl
 ---
 
-[novus/nvd3](star.repo.html_url)
+[novus/nvd3](https://github.com/novus/nvd3)
 
 **WRITE CONTENT**
 

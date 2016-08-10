@@ -8,7 +8,7 @@ gh_id: 14182809
 author: Nick Peihl
 ---
 
-[isisAnchalee/Frustrated.js](star.repo.html_url)
+[isisAnchalee/Frustrated.js](https://github.com/isisAnchalee/Frustrated.js)
 
 **WRITE CONTENT**
 

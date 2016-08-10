@@ -8,7 +8,7 @@ gh_id: 13162487
 author: Nick Peihl
 ---
 
-[ajashton/polarmap](star.repo.html_url)
+[ajashton/polarmap](https://github.com/ajashton/polarmap)
 
 **WRITE CONTENT**
 

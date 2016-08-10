@@ -8,7 +8,7 @@ gh_id: 22354745
 author: Nick Peihl
 ---
 
-[echen/sparta](star.repo.html_url)
+[echen/sparta](https://github.com/echen/sparta)
 
 **WRITE CONTENT**
 

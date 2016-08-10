@@ -8,7 +8,7 @@ gh_id: 29397594
 author: Nick Peihl
 ---
 
-[ssloy/tinyrenderer](star.repo.html_url)
+[ssloy/tinyrenderer](https://github.com/ssloy/tinyrenderer)
 
 **WRITE CONTENT**
 

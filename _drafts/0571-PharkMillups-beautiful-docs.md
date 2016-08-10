@@ -8,7 +8,7 @@ gh_id: 3105906
 author: Nick Peihl
 ---
 
-[PharkMillups/beautiful-docs](star.repo.html_url)
+[PharkMillups/beautiful-docs](https://github.com/PharkMillups/beautiful-docs)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 14259343
 author: Nick Peihl
 ---
 
-[openalpr/openalpr](star.repo.html_url)
+[openalpr/openalpr](https://github.com/openalpr/openalpr)
 
 **WRITE CONTENT**
 

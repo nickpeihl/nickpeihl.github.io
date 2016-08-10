@@ -8,7 +8,7 @@ gh_id: 37814279
 author: Nick Peihl
 ---
 
-[aleksandar-todorovic/awesome-linux](star.repo.html_url)
+[aleksandar-todorovic/awesome-linux](https://github.com/aleksandar-todorovic/awesome-linux)
 
 **WRITE CONTENT**
 

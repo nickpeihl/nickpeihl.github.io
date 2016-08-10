@@ -8,7 +8,7 @@ gh_id: 14008555
 author: Nick Peihl
 ---
 
-[voyagersearch/voyager-py](star.repo.html_url)
+[voyagersearch/voyager-py](https://github.com/voyagersearch/voyager-py)
 
 **WRITE CONTENT**
 

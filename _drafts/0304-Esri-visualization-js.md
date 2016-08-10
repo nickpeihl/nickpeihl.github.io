@@ -8,7 +8,7 @@ gh_id: 23597760
 author: Nick Peihl
 ---
 
-[Esri/visualization-js](star.repo.html_url)
+[Esri/visualization-js](https://github.com/Esri/visualization-js)
 
 **WRITE CONTENT**
 

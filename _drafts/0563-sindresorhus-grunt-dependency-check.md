@@ -8,7 +8,7 @@ gh_id: 35720528
 author: Nick Peihl
 ---
 
-[sindresorhus/grunt-dependency-check](star.repo.html_url)
+[sindresorhus/grunt-dependency-check](https://github.com/sindresorhus/grunt-dependency-check)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 15142548
 author: Nick Peihl
 ---
 
-[darsain/tooltip](star.repo.html_url)
+[darsain/tooltip](https://github.com/darsain/tooltip)
 
 **WRITE CONTENT**
 

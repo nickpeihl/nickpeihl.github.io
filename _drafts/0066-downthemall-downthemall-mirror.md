@@ -8,7 +8,7 @@ gh_id: 1336743
 author: Nick Peihl
 ---
 
-[downthemall/downthemall-mirror](star.repo.html_url)
+[downthemall/downthemall-mirror](https://github.com/downthemall/downthemall-mirror)
 
 **WRITE CONTENT**
 

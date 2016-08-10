@@ -8,7 +8,7 @@ gh_id: 7403331
 author: Nick Peihl
 ---
 
-[es-analysis/plato](star.repo.html_url)
+[es-analysis/plato](https://github.com/es-analysis/plato)
 
 **WRITE CONTENT**
 

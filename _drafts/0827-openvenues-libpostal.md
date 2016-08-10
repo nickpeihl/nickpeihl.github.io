@@ -8,7 +8,7 @@ gh_id: 31570906
 author: Nick Peihl
 ---
 
-[openvenues/libpostal](star.repo.html_url)
+[openvenues/libpostal](https://github.com/openvenues/libpostal)
 
 **WRITE CONTENT**
 

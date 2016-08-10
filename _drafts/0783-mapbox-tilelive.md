@@ -8,7 +8,7 @@ gh_id: 1336019
 author: Nick Peihl
 ---
 
-[mapbox/tilelive](star.repo.html_url)
+[mapbox/tilelive](https://github.com/mapbox/tilelive)
 
 **WRITE CONTENT**
 

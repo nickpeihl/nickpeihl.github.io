@@ -8,7 +8,7 @@ gh_id: 44838949
 author: Nick Peihl
 ---
 
-[apple/swift](star.repo.html_url)
+[apple/swift](https://github.com/apple/swift)
 
 **WRITE CONTENT**
 

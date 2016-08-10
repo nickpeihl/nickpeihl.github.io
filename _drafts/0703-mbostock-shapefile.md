@@ -8,7 +8,7 @@ gh_id: 8116086
 author: Nick Peihl
 ---
 
-[mbostock/shapefile](star.repo.html_url)
+[mbostock/shapefile](https://github.com/mbostock/shapefile)
 
 **WRITE CONTENT**
 

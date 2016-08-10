@@ -8,7 +8,7 @@ gh_id: 34766284
 author: Nick Peihl
 ---
 
-[hybridgroup/cylon-bebop](star.repo.html_url)
+[hybridgroup/cylon-bebop](https://github.com/hybridgroup/cylon-bebop)
 
 **WRITE CONTENT**
 

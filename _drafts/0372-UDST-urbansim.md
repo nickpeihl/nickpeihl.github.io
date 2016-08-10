@@ -8,7 +8,7 @@ gh_id: 12128390
 author: Nick Peihl
 ---
 
-[UDST/urbansim](star.repo.html_url)
+[UDST/urbansim](https://github.com/UDST/urbansim)
 
 **WRITE CONTENT**
 

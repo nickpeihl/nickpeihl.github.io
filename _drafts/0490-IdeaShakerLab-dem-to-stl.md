@@ -8,7 +8,7 @@ gh_id: 14375182
 author: Nick Peihl
 ---
 
-[IdeaShakerLab/dem-to-stl](star.repo.html_url)
+[IdeaShakerLab/dem-to-stl](https://github.com/IdeaShakerLab/dem-to-stl)
 
 **WRITE CONTENT**
 

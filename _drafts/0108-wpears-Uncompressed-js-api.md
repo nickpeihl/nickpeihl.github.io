@@ -8,7 +8,7 @@ gh_id: 15778181
 author: Nick Peihl
 ---
 
-[wpears/Uncompressed-js-api](star.repo.html_url)
+[wpears/Uncompressed-js-api](https://github.com/wpears/Uncompressed-js-api)
 
 **WRITE CONTENT**
 

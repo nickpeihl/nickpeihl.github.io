@@ -8,7 +8,7 @@ gh_id: 44709588
 author: Nick Peihl
 ---
 
-[geojson-xyz/geojson-xyz](star.repo.html_url)
+[geojson-xyz/geojson-xyz](https://github.com/geojson-xyz/geojson-xyz)
 
 **WRITE CONTENT**
 

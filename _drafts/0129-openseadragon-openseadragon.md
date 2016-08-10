@@ -8,7 +8,7 @@ gh_id: 7941882
 author: Nick Peihl
 ---
 
-[openseadragon/openseadragon](star.repo.html_url)
+[openseadragon/openseadragon](https://github.com/openseadragon/openseadragon)
 
 **WRITE CONTENT**
 

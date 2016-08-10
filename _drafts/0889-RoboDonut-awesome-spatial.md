@@ -8,7 +8,7 @@ gh_id: 44335930
 author: Nick Peihl
 ---
 
-[RoboDonut/awesome-spatial](star.repo.html_url)
+[RoboDonut/awesome-spatial](https://github.com/RoboDonut/awesome-spatial)
 
 **WRITE CONTENT**
 

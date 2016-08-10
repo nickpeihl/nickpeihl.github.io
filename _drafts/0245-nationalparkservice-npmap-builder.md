@@ -8,7 +8,7 @@ gh_id: 8638113
 author: Nick Peihl
 ---
 
-[nationalparkservice/npmap-builder](star.repo.html_url)
+[nationalparkservice/npmap-builder](https://github.com/nationalparkservice/npmap-builder)
 
 **WRITE CONTENT**
 

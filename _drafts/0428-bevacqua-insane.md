@@ -8,7 +8,7 @@ gh_id: 30989553
 author: Nick Peihl
 ---
 
-[bevacqua/insane](star.repo.html_url)
+[bevacqua/insane](https://github.com/bevacqua/insane)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 60100604
 author: Nick Peihl
 ---
 
-[keppel/weblearn](star.repo.html_url)
+[keppel/weblearn](https://github.com/keppel/weblearn)
 
 **WRITE CONTENT**
 

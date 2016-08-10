@@ -8,7 +8,7 @@ gh_id: 23892
 author: Nick Peihl
 ---
 
-[PromyLOPh/pianobar](star.repo.html_url)
+[PromyLOPh/pianobar](https://github.com/PromyLOPh/pianobar)
 
 **WRITE CONTENT**
 

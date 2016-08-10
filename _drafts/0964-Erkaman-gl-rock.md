@@ -8,7 +8,7 @@ gh_id: 57905258
 author: Nick Peihl
 ---
 
-[Erkaman/gl-rock](star.repo.html_url)
+[Erkaman/gl-rock](https://github.com/Erkaman/gl-rock)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 24466325
 author: Nick Peihl
 ---
 
-[BrianBunker/dojo-esri-nearby-widget](star.repo.html_url)
+[BrianBunker/dojo-esri-nearby-widget](https://github.com/BrianBunker/dojo-esri-nearby-widget)
 
 **WRITE CONTENT**
 

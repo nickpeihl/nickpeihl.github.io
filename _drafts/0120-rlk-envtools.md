@@ -8,7 +8,7 @@ gh_id: 9226273
 author: Nick Peihl
 ---
 
-[rlk/envtools](star.repo.html_url)
+[rlk/envtools](https://github.com/rlk/envtools)
 
 **WRITE CONTENT**
 

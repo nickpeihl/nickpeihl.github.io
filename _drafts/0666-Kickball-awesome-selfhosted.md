@@ -8,7 +8,7 @@ gh_id: 36633370
 author: Nick Peihl
 ---
 
-[Kickball/awesome-selfhosted](star.repo.html_url)
+[Kickball/awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted)
 
 **WRITE CONTENT**
 

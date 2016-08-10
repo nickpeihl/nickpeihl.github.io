@@ -8,7 +8,7 @@ gh_id: 30908955
 author: Nick Peihl
 ---
 
-[jedireza/aqua](star.repo.html_url)
+[jedireza/aqua](https://github.com/jedireza/aqua)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 54749395
 author: Nick Peihl
 ---
 
-[editdata/editdata-github](star.repo.html_url)
+[editdata/editdata-github](https://github.com/editdata/editdata-github)
 
 **WRITE CONTENT**
 

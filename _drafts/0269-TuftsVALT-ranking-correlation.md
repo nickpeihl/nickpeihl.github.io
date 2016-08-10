@@ -8,7 +8,7 @@ gh_id: 21992856
 author: Nick Peihl
 ---
 
-[TuftsVALT/ranking-correlation](star.repo.html_url)
+[TuftsVALT/ranking-correlation](https://github.com/TuftsVALT/ranking-correlation)
 
 **WRITE CONTENT**
 

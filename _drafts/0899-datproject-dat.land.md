@@ -8,7 +8,7 @@ gh_id: 24920781
 author: Nick Peihl
 ---
 
-[datproject/dat.land](star.repo.html_url)
+[datproject/dat.land](https://github.com/datproject/dat.land)
 
 **WRITE CONTENT**
 

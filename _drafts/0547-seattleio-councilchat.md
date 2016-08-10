@@ -8,7 +8,7 @@ gh_id: 35511204
 author: Nick Peihl
 ---
 
-[seattleio/councilchat](star.repo.html_url)
+[seattleio/councilchat](https://github.com/seattleio/councilchat)
 
 **WRITE CONTENT**
 

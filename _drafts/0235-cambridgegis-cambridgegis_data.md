@@ -8,7 +8,7 @@ gh_id: 12010334
 author: Nick Peihl
 ---
 
-[cambridgegis/cambridgegis_data](star.repo.html_url)
+[cambridgegis/cambridgegis_data](https://github.com/cambridgegis/cambridgegis_data)
 
 **WRITE CONTENT**
 

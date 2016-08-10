@@ -8,7 +8,7 @@ gh_id: 1861458
 author: Nick Peihl
 ---
 
-[hakimel/reveal.js](star.repo.html_url)
+[hakimel/reveal.js](https://github.com/hakimel/reveal.js)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 21137424
 author: Nick Peihl
 ---
 
-[stamen/toner-carto](star.repo.html_url)
+[stamen/toner-carto](https://github.com/stamen/toner-carto)
 
 **WRITE CONTENT**
 

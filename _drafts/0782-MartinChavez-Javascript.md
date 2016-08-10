@@ -8,7 +8,7 @@ gh_id: 34149711
 author: Nick Peihl
 ---
 
-[MartinChavez/Javascript](star.repo.html_url)
+[MartinChavez/Javascript](https://github.com/MartinChavez/Javascript)
 
 **WRITE CONTENT**
 

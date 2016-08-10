@@ -8,7 +8,7 @@ gh_id: 34752974
 author: Nick Peihl
 ---
 
-[mick/geojsonapp](star.repo.html_url)
+[mick/geojsonapp](https://github.com/mick/geojsonapp)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 7633010
 author: Nick Peihl
 ---
 
-[Esri/ago-assistant](star.repo.html_url)
+[Esri/ago-assistant](https://github.com/Esri/ago-assistant)
 
 **WRITE CONTENT**
 

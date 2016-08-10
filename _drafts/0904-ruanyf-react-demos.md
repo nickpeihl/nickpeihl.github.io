@@ -8,7 +8,7 @@ gh_id: 32726377
 author: Nick Peihl
 ---
 
-[ruanyf/react-demos](star.repo.html_url)
+[ruanyf/react-demos](https://github.com/ruanyf/react-demos)
 
 **WRITE CONTENT**
 

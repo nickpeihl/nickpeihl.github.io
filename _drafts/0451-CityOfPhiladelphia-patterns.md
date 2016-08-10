@@ -8,7 +8,7 @@ gh_id: 29756332
 author: Nick Peihl
 ---
 
-[CityOfPhiladelphia/patterns](star.repo.html_url)
+[CityOfPhiladelphia/patterns](https://github.com/CityOfPhiladelphia/patterns)
 
 **WRITE CONTENT**
 

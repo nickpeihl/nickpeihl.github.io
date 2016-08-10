@@ -8,7 +8,7 @@ gh_id: 11276147
 author: Nick Peihl
 ---
 
-[cmderdev/cmder](star.repo.html_url)
+[cmderdev/cmder](https://github.com/cmderdev/cmder)
 
 **WRITE CONTENT**
 

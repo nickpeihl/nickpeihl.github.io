@@ -8,7 +8,7 @@ gh_id: 36911395
 author: Nick Peihl
 ---
 
-[morganherlocker/washington-ferries-feed](star.repo.html_url)
+[morganherlocker/washington-ferries-feed](https://github.com/morganherlocker/washington-ferries-feed)
 
 **WRITE CONTENT**
 

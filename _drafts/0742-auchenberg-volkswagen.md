@@ -8,7 +8,7 @@ gh_id: 43830564
 author: Nick Peihl
 ---
 
-[auchenberg/volkswagen](star.repo.html_url)
+[auchenberg/volkswagen](https://github.com/auchenberg/volkswagen)
 
 **WRITE CONTENT**
 

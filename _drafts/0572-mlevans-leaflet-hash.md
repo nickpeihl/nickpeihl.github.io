@@ -8,7 +8,7 @@ gh_id: 4754038
 author: Nick Peihl
 ---
 
-[mlevans/leaflet-hash](star.repo.html_url)
+[mlevans/leaflet-hash](https://github.com/mlevans/leaflet-hash)
 
 **WRITE CONTENT**
 

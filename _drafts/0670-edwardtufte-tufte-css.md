@@ -8,7 +8,7 @@ gh_id: 25253178
 author: Nick Peihl
 ---
 
-[edwardtufte/tufte-css](star.repo.html_url)
+[edwardtufte/tufte-css](https://github.com/edwardtufte/tufte-css)
 
 **WRITE CONTENT**
 

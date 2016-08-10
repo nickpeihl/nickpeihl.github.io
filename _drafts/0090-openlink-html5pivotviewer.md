@@ -8,7 +8,7 @@ gh_id: 7140970
 author: Nick Peihl
 ---
 
-[openlink/html5pivotviewer](star.repo.html_url)
+[openlink/html5pivotviewer](https://github.com/openlink/html5pivotviewer)
 
 **WRITE CONTENT**
 

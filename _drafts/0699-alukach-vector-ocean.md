@@ -8,7 +8,7 @@ gh_id: 38993682
 author: Nick Peihl
 ---
 
-[alukach/vector-ocean](star.repo.html_url)
+[alukach/vector-ocean](https://github.com/alukach/vector-ocean)
 
 **WRITE CONTENT**
 

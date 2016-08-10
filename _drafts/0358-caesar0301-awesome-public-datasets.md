@@ -8,7 +8,7 @@ gh_id: 26898879
 author: Nick Peihl
 ---
 
-[caesar0301/awesome-public-datasets](star.repo.html_url)
+[caesar0301/awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets)
 
 **WRITE CONTENT**
 

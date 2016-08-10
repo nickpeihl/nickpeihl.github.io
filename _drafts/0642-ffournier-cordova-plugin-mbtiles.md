@@ -8,7 +8,7 @@ gh_id: 17591820
 author: Nick Peihl
 ---
 
-[ffournier/cordova-plugin-mbtiles](star.repo.html_url)
+[ffournier/cordova-plugin-mbtiles](https://github.com/ffournier/cordova-plugin-mbtiles)
 
 **WRITE CONTENT**
 

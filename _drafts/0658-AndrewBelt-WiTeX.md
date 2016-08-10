@@ -8,7 +8,7 @@ gh_id: 30632222
 author: Nick Peihl
 ---
 
-[AndrewBelt/WiTeX](star.repo.html_url)
+[AndrewBelt/WiTeX](https://github.com/AndrewBelt/WiTeX)
 
 **WRITE CONTENT**
 

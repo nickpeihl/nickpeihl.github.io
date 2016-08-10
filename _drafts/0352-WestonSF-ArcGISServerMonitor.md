@@ -8,7 +8,7 @@ gh_id: 14706368
 author: Nick Peihl
 ---
 
-[WestonSF/ArcGISServerMonitor](star.repo.html_url)
+[WestonSF/ArcGISServerMonitor](https://github.com/WestonSF/ArcGISServerMonitor)
 
 **WRITE CONTENT**
 

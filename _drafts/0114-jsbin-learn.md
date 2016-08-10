@@ -8,7 +8,7 @@ gh_id: 11449404
 author: Nick Peihl
 ---
 
-[jsbin/learn](star.repo.html_url)
+[jsbin/learn](https://github.com/jsbin/learn)
 
 **WRITE CONTENT**
 

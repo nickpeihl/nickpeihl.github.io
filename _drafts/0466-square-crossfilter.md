@@ -8,7 +8,7 @@ gh_id: 3598373
 author: Nick Peihl
 ---
 
-[square/crossfilter](star.repo.html_url)
+[square/crossfilter](https://github.com/square/crossfilter)
 
 **WRITE CONTENT**
 

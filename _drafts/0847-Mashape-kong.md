@@ -8,7 +8,7 @@ gh_id: 26783295
 author: Nick Peihl
 ---
 
-[Mashape/kong](star.repo.html_url)
+[Mashape/kong](https://github.com/Mashape/kong)
 
 **WRITE CONTENT**
 

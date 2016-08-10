@@ -8,7 +8,7 @@ gh_id: 48716639
 author: Nick Peihl
 ---
 
-[sitespeedio/coach](star.repo.html_url)
+[sitespeedio/coach](https://github.com/sitespeedio/coach)
 
 **WRITE CONTENT**
 

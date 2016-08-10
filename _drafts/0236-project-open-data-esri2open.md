@@ -8,7 +8,7 @@ gh_id: 8718832
 author: Nick Peihl
 ---
 
-[project-open-data/esri2open](star.repo.html_url)
+[project-open-data/esri2open](https://github.com/project-open-data/esri2open)
 
 **WRITE CONTENT**
 

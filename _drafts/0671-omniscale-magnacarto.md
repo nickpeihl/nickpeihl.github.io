@@ -8,7 +8,7 @@ gh_id: 39430500
 author: Nick Peihl
 ---
 
-[omniscale/magnacarto](star.repo.html_url)
+[omniscale/magnacarto](https://github.com/omniscale/magnacarto)
 
 **WRITE CONTENT**
 

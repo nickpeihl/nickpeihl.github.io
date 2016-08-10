@@ -8,7 +8,7 @@ gh_id: 4410509
 author: Nick Peihl
 ---
 
-[GSA/open311-simple-crm](star.repo.html_url)
+[GSA/open311-simple-crm](https://github.com/GSA/open311-simple-crm)
 
 **WRITE CONTENT**
 

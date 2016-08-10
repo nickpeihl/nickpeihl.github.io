@@ -8,7 +8,7 @@ gh_id: 36746055
 author: Nick Peihl
 ---
 
-[nolanlawson/mingz](star.repo.html_url)
+[nolanlawson/mingz](https://github.com/nolanlawson/mingz)
 
 **WRITE CONTENT**
 

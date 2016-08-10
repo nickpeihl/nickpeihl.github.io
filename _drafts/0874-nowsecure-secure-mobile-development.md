@@ -8,7 +8,7 @@ gh_id: 26873945
 author: Nick Peihl
 ---
 
-[nowsecure/secure-mobile-development](star.repo.html_url)
+[nowsecure/secure-mobile-development](https://github.com/nowsecure/secure-mobile-development)
 
 **WRITE CONTENT**
 

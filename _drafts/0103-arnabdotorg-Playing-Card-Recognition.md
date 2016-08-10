@@ -8,7 +8,7 @@ gh_id: 10726488
 author: Nick Peihl
 ---
 
-[arnabdotorg/Playing-Card-Recognition](star.repo.html_url)
+[arnabdotorg/Playing-Card-Recognition](https://github.com/arnabdotorg/Playing-Card-Recognition)
 
 **WRITE CONTENT**
 

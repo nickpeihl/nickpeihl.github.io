@@ -8,7 +8,7 @@ gh_id: 5196951
 author: Nick Peihl
 ---
 
-[codeforamerica/srtracker](star.repo.html_url)
+[codeforamerica/srtracker](https://github.com/codeforamerica/srtracker)
 
 **WRITE CONTENT**
 

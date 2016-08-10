@@ -8,7 +8,7 @@ gh_id: 20897561
 author: Nick Peihl
 ---
 
-[mapbox/mapbox-gl-styles](star.repo.html_url)
+[mapbox/mapbox-gl-styles](https://github.com/mapbox/mapbox-gl-styles)
 
 **WRITE CONTENT**
 

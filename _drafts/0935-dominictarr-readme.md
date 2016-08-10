@@ -8,7 +8,7 @@ gh_id: 5132929
 author: Nick Peihl
 ---
 
-[dominictarr/readme](star.repo.html_url)
+[dominictarr/readme](https://github.com/dominictarr/readme)
 
 **WRITE CONTENT**
 

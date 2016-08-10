@@ -8,7 +8,7 @@ gh_id: 13455274
 author: Nick Peihl
 ---
 
-[odoe/webmaputils](star.repo.html_url)
+[odoe/webmaputils](https://github.com/odoe/webmaputils)
 
 **WRITE CONTENT**
 

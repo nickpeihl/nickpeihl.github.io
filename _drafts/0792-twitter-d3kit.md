@@ -8,7 +8,7 @@ gh_id: 29063384
 author: Nick Peihl
 ---
 
-[twitter/d3kit](star.repo.html_url)
+[twitter/d3kit](https://github.com/twitter/d3kit)
 
 **WRITE CONTENT**
 

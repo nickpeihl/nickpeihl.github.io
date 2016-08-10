@@ -8,7 +8,7 @@ gh_id: 10728088
 author: Nick Peihl
 ---
 
-[gavinr/csv-to-geojson](star.repo.html_url)
+[gavinr/csv-to-geojson](https://github.com/gavinr/csv-to-geojson)
 
 **WRITE CONTENT**
 

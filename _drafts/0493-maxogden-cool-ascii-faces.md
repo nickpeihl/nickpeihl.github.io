@@ -8,7 +8,7 @@ gh_id: 15920530
 author: Nick Peihl
 ---
 
-[maxogden/cool-ascii-faces](star.repo.html_url)
+[maxogden/cool-ascii-faces](https://github.com/maxogden/cool-ascii-faces)
 
 **WRITE CONTENT**
 

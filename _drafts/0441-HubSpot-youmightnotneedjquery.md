@@ -8,7 +8,7 @@ gh_id: 15953199
 author: Nick Peihl
 ---
 
-[HubSpot/youmightnotneedjquery](star.repo.html_url)
+[HubSpot/youmightnotneedjquery](https://github.com/HubSpot/youmightnotneedjquery)
 
 **WRITE CONTENT**
 

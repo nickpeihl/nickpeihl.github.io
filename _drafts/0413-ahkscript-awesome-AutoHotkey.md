@@ -8,7 +8,7 @@ gh_id: 22615356
 author: Nick Peihl
 ---
 
-[ahkscript/awesome-AutoHotkey](star.repo.html_url)
+[ahkscript/awesome-AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey)
 
 **WRITE CONTENT**
 

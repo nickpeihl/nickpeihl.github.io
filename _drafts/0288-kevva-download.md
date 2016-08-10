@@ -8,7 +8,7 @@ gh_id: 12325488
 author: Nick Peihl
 ---
 
-[kevva/download](star.repo.html_url)
+[kevva/download](https://github.com/kevva/download)
 
 **WRITE CONTENT**
 

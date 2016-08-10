@@ -8,7 +8,7 @@ gh_id: 21600440
 author: Nick Peihl
 ---
 
-[bayandin/awesome-awesomeness](star.repo.html_url)
+[bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
 
 **WRITE CONTENT**
 

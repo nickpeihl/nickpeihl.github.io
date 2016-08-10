@@ -8,7 +8,7 @@ gh_id: 5156866
 author: Nick Peihl
 ---
 
-[applegrew/django-select2](star.repo.html_url)
+[applegrew/django-select2](https://github.com/applegrew/django-select2)
 
 **WRITE CONTENT**
 

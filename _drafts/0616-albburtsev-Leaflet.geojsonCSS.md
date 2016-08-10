@@ -8,7 +8,7 @@ gh_id: 20179122
 author: Nick Peihl
 ---
 
-[albburtsev/Leaflet.geojsonCSS](star.repo.html_url)
+[albburtsev/Leaflet.geojsonCSS](https://github.com/albburtsev/Leaflet.geojsonCSS)
 
 **WRITE CONTENT**
 

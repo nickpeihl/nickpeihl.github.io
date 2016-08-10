@@ -8,7 +8,7 @@ gh_id: 8655318
 author: Nick Peihl
 ---
 
-[pnitsch/GSVPano.js](star.repo.html_url)
+[pnitsch/GSVPano.js](https://github.com/pnitsch/GSVPano.js)
 
 **WRITE CONTENT**
 

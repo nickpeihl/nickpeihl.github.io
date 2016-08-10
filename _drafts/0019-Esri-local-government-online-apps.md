@@ -8,7 +8,7 @@ gh_id: 6621856
 author: Nick Peihl
 ---
 
-[Esri/local-government-online-apps](star.repo.html_url)
+[Esri/local-government-online-apps](https://github.com/Esri/local-government-online-apps)
 
 **WRITE CONTENT**
 

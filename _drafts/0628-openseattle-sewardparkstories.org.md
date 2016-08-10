@@ -8,7 +8,7 @@ gh_id: 24160180
 author: Nick Peihl
 ---
 
-[openseattle/sewardparkstories.org](star.repo.html_url)
+[openseattle/sewardparkstories.org](https://github.com/openseattle/sewardparkstories.org)
 
 **WRITE CONTENT**
 

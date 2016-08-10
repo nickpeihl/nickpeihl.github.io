@@ -8,7 +8,7 @@ gh_id: 53693596
 author: Nick Peihl
 ---
 
-[maxogden/yo-yo](star.repo.html_url)
+[maxogden/yo-yo](https://github.com/maxogden/yo-yo)
 
 **WRITE CONTENT**
 

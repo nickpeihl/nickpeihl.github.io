@@ -8,7 +8,7 @@ gh_id: 24470090
 author: Nick Peihl
 ---
 
-[OpenDroneMap/OpenDroneMap](star.repo.html_url)
+[OpenDroneMap/OpenDroneMap](https://github.com/OpenDroneMap/OpenDroneMap)
 
 **WRITE CONTENT**
 

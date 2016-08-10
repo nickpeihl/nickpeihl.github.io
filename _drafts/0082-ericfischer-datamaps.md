@@ -8,7 +8,7 @@ gh_id: 10353962
 author: Nick Peihl
 ---
 
-[ericfischer/datamaps](star.repo.html_url)
+[ericfischer/datamaps](https://github.com/ericfischer/datamaps)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 2710379
 author: Nick Peihl
 ---
 
-[editorconfig/editorconfig-emacs](star.repo.html_url)
+[editorconfig/editorconfig-emacs](https://github.com/editorconfig/editorconfig-emacs)
 
 **WRITE CONTENT**
 

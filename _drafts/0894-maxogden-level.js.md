@@ -8,7 +8,7 @@ gh_id: 9764166
 author: Nick Peihl
 ---
 
-[maxogden/level.js](star.repo.html_url)
+[maxogden/level.js](https://github.com/maxogden/level.js)
 
 **WRITE CONTENT**
 

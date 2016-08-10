@@ -8,7 +8,7 @@ gh_id: 21568519
 author: Nick Peihl
 ---
 
-[b-g/tilehut](star.repo.html_url)
+[b-g/tilehut](https://github.com/b-g/tilehut)
 
 **WRITE CONTENT**
 

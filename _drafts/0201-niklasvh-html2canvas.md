@@ -8,7 +8,7 @@ gh_id: 2056312
 author: Nick Peihl
 ---
 
-[niklasvh/html2canvas](star.repo.html_url)
+[niklasvh/html2canvas](https://github.com/niklasvh/html2canvas)
 
 **WRITE CONTENT**
 

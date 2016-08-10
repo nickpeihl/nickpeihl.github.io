@@ -8,7 +8,7 @@ gh_id: 1062897
 author: Nick Peihl
 ---
 
-[github/gitignore](star.repo.html_url)
+[github/gitignore](https://github.com/github/gitignore)
 
 **WRITE CONTENT**
 

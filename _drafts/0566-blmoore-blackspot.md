@@ -8,7 +8,7 @@ gh_id: 35743653
 author: Nick Peihl
 ---
 
-[blmoore/blackspot](star.repo.html_url)
+[blmoore/blackspot](https://github.com/blmoore/blackspot)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 8297971
 author: Nick Peihl
 ---
 
-[mbloch/mapshaper](star.repo.html_url)
+[mbloch/mapshaper](https://github.com/mbloch/mapshaper)
 
 **WRITE CONTENT**
 

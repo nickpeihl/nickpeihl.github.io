@@ -8,7 +8,7 @@ gh_id: 271854
 author: Nick Peihl
 ---
 
-[openzoom/deepzoom.py](star.repo.html_url)
+[openzoom/deepzoom.py](https://github.com/openzoom/deepzoom.py)
 
 **WRITE CONTENT**
 

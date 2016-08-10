@@ -8,7 +8,7 @@ gh_id: 17375436
 author: Nick Peihl
 ---
 
-[lukehoban/es6features](star.repo.html_url)
+[lukehoban/es6features](https://github.com/lukehoban/es6features)
 
 **WRITE CONTENT**
 

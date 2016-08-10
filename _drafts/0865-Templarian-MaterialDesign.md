@@ -8,7 +8,7 @@ gh_id: 21314224
 author: Nick Peihl
 ---
 
-[Templarian/MaterialDesign](star.repo.html_url)
+[Templarian/MaterialDesign](https://github.com/Templarian/MaterialDesign)
 
 **WRITE CONTENT**
 

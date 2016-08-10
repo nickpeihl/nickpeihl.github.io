@@ -8,7 +8,7 @@ gh_id: 1267320
 author: Nick Peihl
 ---
 
-[mapbox/node-srs](star.repo.html_url)
+[mapbox/node-srs](https://github.com/mapbox/node-srs)
 
 **WRITE CONTENT**
 

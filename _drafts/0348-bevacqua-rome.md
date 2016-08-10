@@ -8,7 +8,7 @@ gh_id: 21982076
 author: Nick Peihl
 ---
 
-[bevacqua/rome](star.repo.html_url)
+[bevacqua/rome](https://github.com/bevacqua/rome)
 
 **WRITE CONTENT**
 

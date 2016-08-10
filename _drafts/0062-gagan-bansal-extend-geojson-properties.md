@@ -8,7 +8,7 @@ gh_id: 18984119
 author: Nick Peihl
 ---
 
-[gagan-bansal/extend-geojson-properties](star.repo.html_url)
+[gagan-bansal/extend-geojson-properties](https://github.com/gagan-bansal/extend-geojson-properties)
 
 **WRITE CONTENT**
 

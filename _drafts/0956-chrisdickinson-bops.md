@@ -8,7 +8,7 @@ gh_id: 9850926
 author: Nick Peihl
 ---
 
-[chrisdickinson/bops](star.repo.html_url)
+[chrisdickinson/bops](https://github.com/chrisdickinson/bops)
 
 **WRITE CONTENT**
 

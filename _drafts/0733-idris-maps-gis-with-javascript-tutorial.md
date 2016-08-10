@@ -8,7 +8,7 @@ gh_id: 42448779
 author: Nick Peihl
 ---
 
-[idris-maps/gis-with-javascript-tutorial](star.repo.html_url)
+[idris-maps/gis-with-javascript-tutorial](https://github.com/idris-maps/gis-with-javascript-tutorial)
 
 **WRITE CONTENT**
 

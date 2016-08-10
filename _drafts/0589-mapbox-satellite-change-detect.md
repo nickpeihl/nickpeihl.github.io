@@ -8,7 +8,7 @@ gh_id: 34868657
 author: Nick Peihl
 ---
 
-[mapbox/satellite-change-detect](star.repo.html_url)
+[mapbox/satellite-change-detect](https://github.com/mapbox/satellite-change-detect)
 
 **WRITE CONTENT**
 

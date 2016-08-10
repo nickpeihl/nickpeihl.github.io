@@ -8,7 +8,7 @@ gh_id: 18175827
 author: Nick Peihl
 ---
 
-[geoblacklight/geoblacklight-schema](star.repo.html_url)
+[geoblacklight/geoblacklight-schema](https://github.com/geoblacklight/geoblacklight-schema)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 3673976
 author: Nick Peihl
 ---
 
-[sdelements/lets-chat](star.repo.html_url)
+[sdelements/lets-chat](https://github.com/sdelements/lets-chat)
 
 **WRITE CONTENT**
 

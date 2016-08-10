@@ -8,7 +8,7 @@ gh_id: 36095122
 author: Nick Peihl
 ---
 
-[moebiolabs/moebio_framework](star.repo.html_url)
+[moebiolabs/moebio_framework](https://github.com/moebiolabs/moebio_framework)
 
 **WRITE CONTENT**
 

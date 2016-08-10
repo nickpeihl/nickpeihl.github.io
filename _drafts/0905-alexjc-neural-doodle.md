@@ -8,7 +8,7 @@ gh_id: 53228513
 author: Nick Peihl
 ---
 
-[alexjc/neural-doodle](star.repo.html_url)
+[alexjc/neural-doodle](https://github.com/alexjc/neural-doodle)
 
 **WRITE CONTENT**
 

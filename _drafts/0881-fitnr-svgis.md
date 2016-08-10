@@ -8,7 +8,7 @@ gh_id: 37198649
 author: Nick Peihl
 ---
 
-[fitnr/svgis](star.repo.html_url)
+[fitnr/svgis](https://github.com/fitnr/svgis)
 
 **WRITE CONTENT**
 

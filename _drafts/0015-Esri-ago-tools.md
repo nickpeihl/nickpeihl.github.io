@@ -8,7 +8,7 @@ gh_id: 8316533
 author: Nick Peihl
 ---
 
-[Esri/ago-tools](star.repo.html_url)
+[Esri/ago-tools](https://github.com/Esri/ago-tools)
 
 **WRITE CONTENT**
 

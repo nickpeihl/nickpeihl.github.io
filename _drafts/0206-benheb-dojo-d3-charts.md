@@ -8,7 +8,7 @@ gh_id: 24850487
 author: Nick Peihl
 ---
 
-[benheb/dojo-d3-charts](star.repo.html_url)
+[benheb/dojo-d3-charts](https://github.com/benheb/dojo-d3-charts)
 
 **WRITE CONTENT**
 

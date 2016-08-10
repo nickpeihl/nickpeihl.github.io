@@ -8,7 +8,7 @@ gh_id: 22918613
 author: Nick Peihl
 ---
 
-[mourner/seidel](star.repo.html_url)
+[mourner/seidel](https://github.com/mourner/seidel)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 9102339
 author: Nick Peihl
 ---
 
-[Esri/geoservices-js](star.repo.html_url)
+[Esri/geoservices-js](https://github.com/Esri/geoservices-js)
 
 **WRITE CONTENT**
 

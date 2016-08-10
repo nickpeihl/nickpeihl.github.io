@@ -8,7 +8,7 @@ gh_id: 34676546
 author: Nick Peihl
 ---
 
-[nerik/leaflet-graphicscale](star.repo.html_url)
+[nerik/leaflet-graphicscale](https://github.com/nerik/leaflet-graphicscale)
 
 **WRITE CONTENT**
 

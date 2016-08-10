@@ -8,7 +8,7 @@ gh_id: 22932849
 author: Nick Peihl
 ---
 
-[ConnorAtherton/walkway](star.repo.html_url)
+[ConnorAtherton/walkway](https://github.com/ConnorAtherton/walkway)
 
 **WRITE CONTENT**
 

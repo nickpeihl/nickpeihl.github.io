@@ -8,7 +8,7 @@ gh_id: 35110132
 author: Nick Peihl
 ---
 
-[mapzen/hoverboard](star.repo.html_url)
+[mapzen/hoverboard](https://github.com/mapzen/hoverboard)
 
 **WRITE CONTENT**
 

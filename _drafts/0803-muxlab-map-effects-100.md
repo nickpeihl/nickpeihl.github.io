@@ -8,7 +8,7 @@ gh_id: 46058327
 author: Nick Peihl
 ---
 
-[muxlab/map-effects-100](star.repo.html_url)
+[muxlab/map-effects-100](https://github.com/muxlab/map-effects-100)
 
 **WRITE CONTENT**
 

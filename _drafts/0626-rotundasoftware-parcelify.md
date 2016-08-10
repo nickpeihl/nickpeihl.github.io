@@ -8,7 +8,7 @@ gh_id: 17040839
 author: Nick Peihl
 ---
 
-[rotundasoftware/parcelify](star.repo.html_url)
+[rotundasoftware/parcelify](https://github.com/rotundasoftware/parcelify)
 
 **WRITE CONTENT**
 

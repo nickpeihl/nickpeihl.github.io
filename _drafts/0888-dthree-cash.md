@@ -8,7 +8,7 @@ gh_id: 52287768
 author: Nick Peihl
 ---
 
-[dthree/cash](star.repo.html_url)
+[dthree/cash](https://github.com/dthree/cash)
 
 **WRITE CONTENT**
 

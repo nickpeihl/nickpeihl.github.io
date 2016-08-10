@@ -8,7 +8,7 @@ gh_id: 3709690
 author: Nick Peihl
 ---
 
-[pjekel/cbtree](star.repo.html_url)
+[pjekel/cbtree](https://github.com/pjekel/cbtree)
 
 **WRITE CONTENT**
 

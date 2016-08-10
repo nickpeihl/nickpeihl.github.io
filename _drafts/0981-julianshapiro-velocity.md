@@ -8,7 +8,7 @@ gh_id: 18611173
 author: Nick Peihl
 ---
 
-[julianshapiro/velocity](star.repo.html_url)
+[julianshapiro/velocity](https://github.com/julianshapiro/velocity)
 
 **WRITE CONTENT**
 

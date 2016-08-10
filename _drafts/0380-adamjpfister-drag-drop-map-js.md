@@ -8,7 +8,7 @@ gh_id: 14629936
 author: Nick Peihl
 ---
 
-[adamjpfister/drag-drop-map-js](star.repo.html_url)
+[adamjpfister/drag-drop-map-js](https://github.com/adamjpfister/drag-drop-map-js)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 31745502
 author: Nick Peihl
 ---
 
-[Esri/cluster-layer-js](star.repo.html_url)
+[Esri/cluster-layer-js](https://github.com/Esri/cluster-layer-js)
 
 **WRITE CONTENT**
 

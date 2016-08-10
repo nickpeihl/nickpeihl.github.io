@@ -8,7 +8,7 @@ gh_id: 25345234
 author: Nick Peihl
 ---
 
-[AGV-IIT-KGP/awesome-computer-vision](star.repo.html_url)
+[AGV-IIT-KGP/awesome-computer-vision](https://github.com/AGV-IIT-KGP/awesome-computer-vision)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 6637895
 author: Nick Peihl
 ---
 
-[simon04/whodidit](star.repo.html_url)
+[simon04/whodidit](https://github.com/simon04/whodidit)
 
 **WRITE CONTENT**
 

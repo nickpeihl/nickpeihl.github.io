@@ -8,7 +8,7 @@ gh_id: 18405734
 author: Nick Peihl
 ---
 
-[jwagner/smartcrop.js](star.repo.html_url)
+[jwagner/smartcrop.js](https://github.com/jwagner/smartcrop.js)
 
 **WRITE CONTENT**
 

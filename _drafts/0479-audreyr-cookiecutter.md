@@ -8,7 +8,7 @@ gh_id: 11407242
 author: Nick Peihl
 ---
 
-[audreyr/cookiecutter](star.repo.html_url)
+[audreyr/cookiecutter](https://github.com/audreyr/cookiecutter)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 4693675
 author: Nick Peihl
 ---
 
-[fxbois/web-mode](star.repo.html_url)
+[fxbois/web-mode](https://github.com/fxbois/web-mode)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 5508088
 author: Nick Peihl
 ---
 
-[svg/svgo](star.repo.html_url)
+[svg/svgo](https://github.com/svg/svgo)
 
 **WRITE CONTENT**
 

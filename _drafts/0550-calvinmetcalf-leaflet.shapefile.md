@@ -8,7 +8,7 @@ gh_id: 11978268
 author: Nick Peihl
 ---
 
-[calvinmetcalf/leaflet.shapefile](star.repo.html_url)
+[calvinmetcalf/leaflet.shapefile](https://github.com/calvinmetcalf/leaflet.shapefile)
 
 **WRITE CONTENT**
 

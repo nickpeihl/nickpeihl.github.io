@@ -8,7 +8,7 @@ gh_id: 976103
 author: Nick Peihl
 ---
 
-[guard/guard-livereload](star.repo.html_url)
+[guard/guard-livereload](https://github.com/guard/guard-livereload)
 
 **WRITE CONTENT**
 

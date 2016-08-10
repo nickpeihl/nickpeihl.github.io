@@ -8,7 +8,7 @@ gh_id: 22571796
 author: Nick Peihl
 ---
 
-[PaulLeCam/react-leaflet](star.repo.html_url)
+[PaulLeCam/react-leaflet](https://github.com/PaulLeCam/react-leaflet)
 
 **WRITE CONTENT**
 

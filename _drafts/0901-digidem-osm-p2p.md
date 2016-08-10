@@ -8,7 +8,7 @@ gh_id: 50558859
 author: Nick Peihl
 ---
 
-[digidem/osm-p2p](star.repo.html_url)
+[digidem/osm-p2p](https://github.com/digidem/osm-p2p)
 
 **WRITE CONTENT**
 

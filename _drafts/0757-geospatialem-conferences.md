@@ -8,7 +8,7 @@ gh_id: 40742921
 author: Nick Peihl
 ---
 
-[geospatialem/conferences](star.repo.html_url)
+[geospatialem/conferences](https://github.com/geospatialem/conferences)
 
 **WRITE CONTENT**
 

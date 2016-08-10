@@ -8,7 +8,7 @@ gh_id: 22246920
 author: Nick Peihl
 ---
 
-[perliedman/query-overpass](star.repo.html_url)
+[perliedman/query-overpass](https://github.com/perliedman/query-overpass)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 44443866
 author: Nick Peihl
 ---
 
-[mariusGundersen/descartes](star.repo.html_url)
+[mariusGundersen/descartes](https://github.com/mariusGundersen/descartes)
 
 **WRITE CONTENT**
 

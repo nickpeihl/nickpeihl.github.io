@@ -8,7 +8,7 @@ gh_id: 2061153
 author: Nick Peihl
 ---
 
-[winterTTr/ace-jump-mode](star.repo.html_url)
+[winterTTr/ace-jump-mode](https://github.com/winterTTr/ace-jump-mode)
 
 **WRITE CONTENT**
 

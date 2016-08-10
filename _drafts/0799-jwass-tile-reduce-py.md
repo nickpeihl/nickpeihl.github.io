@@ -8,7 +8,7 @@ gh_id: 47138524
 author: Nick Peihl
 ---
 
-[jwass/tile-reduce-py](star.repo.html_url)
+[jwass/tile-reduce-py](https://github.com/jwass/tile-reduce-py)
 
 **WRITE CONTENT**
 

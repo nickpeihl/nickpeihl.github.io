@@ -8,7 +8,7 @@ gh_id: 46319841
 author: Nick Peihl
 ---
 
-[CreativeInquiry/terrapattern](star.repo.html_url)
+[CreativeInquiry/terrapattern](https://github.com/CreativeInquiry/terrapattern)
 
 **WRITE CONTENT**
 

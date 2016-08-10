@@ -8,7 +8,7 @@ gh_id: 15181484
 author: Nick Peihl
 ---
 
-[denizyuret/dlib](star.repo.html_url)
+[denizyuret/dlib](https://github.com/denizyuret/dlib)
 
 **WRITE CONTENT**
 

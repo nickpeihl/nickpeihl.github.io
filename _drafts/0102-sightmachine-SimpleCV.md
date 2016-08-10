@@ -8,7 +8,7 @@ gh_id: 2217282
 author: Nick Peihl
 ---
 
-[sightmachine/SimpleCV](star.repo.html_url)
+[sightmachine/SimpleCV](https://github.com/sightmachine/SimpleCV)
 
 **WRITE CONTENT**
 

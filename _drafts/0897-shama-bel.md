@@ -8,7 +8,7 @@ gh_id: 52651469
 author: Nick Peihl
 ---
 
-[shama/bel](star.repo.html_url)
+[shama/bel](https://github.com/shama/bel)
 
 **WRITE CONTENT**
 

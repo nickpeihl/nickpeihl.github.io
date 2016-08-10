@@ -8,7 +8,7 @@ gh_id: 576201
 author: Nick Peihl
 ---
 
-[mrdoob/three.js](star.repo.html_url)
+[mrdoob/three.js](https://github.com/mrdoob/three.js)
 
 **WRITE CONTENT**
 

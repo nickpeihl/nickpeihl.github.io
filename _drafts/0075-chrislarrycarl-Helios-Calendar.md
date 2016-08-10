@@ -8,7 +8,7 @@ gh_id: 20144632
 author: Nick Peihl
 ---
 
-[chrislarrycarl/Helios-Calendar](star.repo.html_url)
+[chrislarrycarl/Helios-Calendar](https://github.com/chrislarrycarl/Helios-Calendar)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 26150099
 author: Nick Peihl
 ---
 
-[mapbox/shapefile-fairy](star.repo.html_url)
+[mapbox/shapefile-fairy](https://github.com/mapbox/shapefile-fairy)
 
 **WRITE CONTENT**
 

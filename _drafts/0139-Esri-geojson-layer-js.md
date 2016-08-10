@@ -8,7 +8,7 @@ gh_id: 22997244
 author: Nick Peihl
 ---
 
-[Esri/geojson-layer-js](star.repo.html_url)
+[Esri/geojson-layer-js](https://github.com/Esri/geojson-layer-js)
 
 **WRITE CONTENT**
 

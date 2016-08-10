@@ -8,7 +8,7 @@ gh_id: 1424470
 author: Nick Peihl
 ---
 
-[moment/moment](star.repo.html_url)
+[moment/moment](https://github.com/moment/moment)
 
 **WRITE CONTENT**
 

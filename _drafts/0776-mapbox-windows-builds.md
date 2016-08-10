@@ -8,7 +8,7 @@ gh_id: 18224999
 author: Nick Peihl
 ---
 
-[mapbox/windows-builds](star.repo.html_url)
+[mapbox/windows-builds](https://github.com/mapbox/windows-builds)
 
 **WRITE CONTENT**
 

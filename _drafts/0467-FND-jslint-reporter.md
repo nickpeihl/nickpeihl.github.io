@@ -8,7 +8,7 @@ gh_id: 1296593
 author: Nick Peihl
 ---
 
-[FND/jslint-reporter](star.repo.html_url)
+[FND/jslint-reporter](https://github.com/FND/jslint-reporter)
 
 **WRITE CONTENT**
 

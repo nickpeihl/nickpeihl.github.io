@@ -8,7 +8,7 @@ gh_id: 15177251
 author: Nick Peihl
 ---
 
-[driskull/brackets-arcgis-js](star.repo.html_url)
+[driskull/brackets-arcgis-js](https://github.com/driskull/brackets-arcgis-js)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 24965109
 author: Nick Peihl
 ---
 
-[hughsk/smokestack](star.repo.html_url)
+[hughsk/smokestack](https://github.com/hughsk/smokestack)
 
 **WRITE CONTENT**
 

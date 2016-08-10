@@ -8,7 +8,7 @@ gh_id: 45137369
 author: Nick Peihl
 ---
 
-[ryankiros/neural-storyteller](star.repo.html_url)
+[ryankiros/neural-storyteller](https://github.com/ryankiros/neural-storyteller)
 
 **WRITE CONTENT**
 

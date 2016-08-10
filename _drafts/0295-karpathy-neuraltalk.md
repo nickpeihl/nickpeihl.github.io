@@ -8,7 +8,7 @@ gh_id: 27244649
 author: Nick Peihl
 ---
 
-[karpathy/neuraltalk](star.repo.html_url)
+[karpathy/neuraltalk](https://github.com/karpathy/neuraltalk)
 
 **WRITE CONTENT**
 

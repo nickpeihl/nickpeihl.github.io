@@ -8,7 +8,7 @@ gh_id: 33564268
 author: Nick Peihl
 ---
 
-[delight-im/FreeGeoDB](star.repo.html_url)
+[delight-im/FreeGeoDB](https://github.com/delight-im/FreeGeoDB)
 
 **WRITE CONTENT**
 

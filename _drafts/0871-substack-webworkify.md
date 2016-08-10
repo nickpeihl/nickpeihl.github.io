@@ -8,7 +8,7 @@ gh_id: 11858687
 author: Nick Peihl
 ---
 
-[substack/webworkify](star.repo.html_url)
+[substack/webworkify](https://github.com/substack/webworkify)
 
 **WRITE CONTENT**
 

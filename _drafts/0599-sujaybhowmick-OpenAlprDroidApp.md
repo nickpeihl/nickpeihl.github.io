@@ -8,7 +8,7 @@ gh_id: 27209909
 author: Nick Peihl
 ---
 
-[sujaybhowmick/OpenAlprDroidApp](star.repo.html_url)
+[sujaybhowmick/OpenAlprDroidApp](https://github.com/sujaybhowmick/OpenAlprDroidApp)
 
 **WRITE CONTENT**
 

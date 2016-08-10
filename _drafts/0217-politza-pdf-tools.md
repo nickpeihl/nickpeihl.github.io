@@ -8,7 +8,7 @@ gh_id: 9309261
 author: Nick Peihl
 ---
 
-[politza/pdf-tools](star.repo.html_url)
+[politza/pdf-tools](https://github.com/politza/pdf-tools)
 
 **WRITE CONTENT**
 

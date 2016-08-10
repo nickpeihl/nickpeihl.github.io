@@ -8,7 +8,7 @@ gh_id: 12194665
 author: Nick Peihl
 ---
 
-[ashleydw/lightbox](star.repo.html_url)
+[ashleydw/lightbox](https://github.com/ashleydw/lightbox)
 
 **WRITE CONTENT**
 

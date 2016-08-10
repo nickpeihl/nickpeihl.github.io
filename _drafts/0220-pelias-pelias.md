@@ -8,7 +8,7 @@ gh_id: 14150535
 author: Nick Peihl
 ---
 
-[pelias/pelias](star.repo.html_url)
+[pelias/pelias](https://github.com/pelias/pelias)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 21246279
 author: Nick Peihl
 ---
 
-[googlesamples/android-Camera2Basic](star.repo.html_url)
+[googlesamples/android-Camera2Basic](https://github.com/googlesamples/android-Camera2Basic)
 
 **WRITE CONTENT**
 

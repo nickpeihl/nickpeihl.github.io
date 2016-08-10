@@ -8,7 +8,7 @@ gh_id: 25522684
 author: Nick Peihl
 ---
 
-[cityofasheville/simplicity-ui](star.repo.html_url)
+[cityofasheville/simplicity-ui](https://github.com/cityofasheville/simplicity-ui)
 
 **WRITE CONTENT**
 

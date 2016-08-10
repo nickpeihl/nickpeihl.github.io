@@ -8,7 +8,7 @@ gh_id: 18971656
 author: Nick Peihl
 ---
 
-[NicolasPetton/amd-mode.el](star.repo.html_url)
+[NicolasPetton/amd-mode.el](https://github.com/NicolasPetton/amd-mode.el)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 25714655
 author: Nick Peihl
 ---
 
-[BlackrockDigital/startbootstrap-simple-sidebar](star.repo.html_url)
+[BlackrockDigital/startbootstrap-simple-sidebar](https://github.com/BlackrockDigital/startbootstrap-simple-sidebar)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 20206631
 author: Nick Peihl
 ---
 
-[antiboredom/videogrep](star.repo.html_url)
+[antiboredom/videogrep](https://github.com/antiboredom/videogrep)
 
 **WRITE CONTENT**
 

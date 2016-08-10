@@ -8,7 +8,7 @@ gh_id: 774606
 author: Nick Peihl
 ---
 
-[bmatzelle/gow](star.repo.html_url)
+[bmatzelle/gow](https://github.com/bmatzelle/gow)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 29259281
 author: Nick Peihl
 ---
 
-[tuplejump/FiloDB](star.repo.html_url)
+[tuplejump/FiloDB](https://github.com/tuplejump/FiloDB)
 
 **WRITE CONTENT**
 

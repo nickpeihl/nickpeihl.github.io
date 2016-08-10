@@ -8,7 +8,7 @@ gh_id: 15857755
 author: Nick Peihl
 ---
 
-[DenisCarriere/geocoder](star.repo.html_url)
+[DenisCarriere/geocoder](https://github.com/DenisCarriere/geocoder)
 
 **WRITE CONTENT**
 

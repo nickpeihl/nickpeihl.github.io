@@ -8,7 +8,7 @@ gh_id: 84822
 author: Nick Peihl
 ---
 
-[beautify-web/js-beautify](star.repo.html_url)
+[beautify-web/js-beautify](https://github.com/beautify-web/js-beautify)
 
 **WRITE CONTENT**
 

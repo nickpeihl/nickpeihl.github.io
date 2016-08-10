@@ -8,7 +8,7 @@ gh_id: 39225669
 author: Nick Peihl
 ---
 
-[iandees/wtf-zipcodes](star.repo.html_url)
+[iandees/wtf-zipcodes](https://github.com/iandees/wtf-zipcodes)
 
 **WRITE CONTENT**
 

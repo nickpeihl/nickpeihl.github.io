@@ -8,7 +8,7 @@ gh_id: 26890199
 author: Nick Peihl
 ---
 
-[SamHerbert/SVG-Loaders](star.repo.html_url)
+[SamHerbert/SVG-Loaders](https://github.com/SamHerbert/SVG-Loaders)
 
 **WRITE CONTENT**
 

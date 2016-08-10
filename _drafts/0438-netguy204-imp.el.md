@@ -8,7 +8,7 @@ gh_id: 5393879
 author: Nick Peihl
 ---
 
-[netguy204/imp.el](star.repo.html_url)
+[netguy204/imp.el](https://github.com/netguy204/imp.el)
 
 **WRITE CONTENT**
 

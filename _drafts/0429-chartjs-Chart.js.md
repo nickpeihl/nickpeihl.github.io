@@ -8,7 +8,7 @@ gh_id: 8843683
 author: Nick Peihl
 ---
 
-[chartjs/Chart.js](star.repo.html_url)
+[chartjs/Chart.js](https://github.com/chartjs/Chart.js)
 
 **WRITE CONTENT**
 

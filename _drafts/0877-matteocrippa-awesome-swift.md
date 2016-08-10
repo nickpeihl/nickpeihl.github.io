@@ -8,7 +8,7 @@ gh_id: 21696302
 author: Nick Peihl
 ---
 
-[matteocrippa/awesome-swift](star.repo.html_url)
+[matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift)
 
 **WRITE CONTENT**
 

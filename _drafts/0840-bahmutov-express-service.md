@@ -8,7 +8,7 @@ gh_id: 48822832
 author: Nick Peihl
 ---
 
-[bahmutov/express-service](star.repo.html_url)
+[bahmutov/express-service](https://github.com/bahmutov/express-service)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 5273916
 author: Nick Peihl
 ---
 
-[Esri/playlist-storytelling-template-js](star.repo.html_url)
+[Esri/playlist-storytelling-template-js](https://github.com/Esri/playlist-storytelling-template-js)
 
 **WRITE CONTENT**
 

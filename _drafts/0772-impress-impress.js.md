@@ -8,7 +8,7 @@ gh_id: 3065454
 author: Nick Peihl
 ---
 
-[impress/impress.js](star.repo.html_url)
+[impress/impress.js](https://github.com/impress/impress.js)
 
 **WRITE CONTENT**
 

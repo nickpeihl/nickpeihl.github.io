@@ -8,7 +8,7 @@ gh_id: 19722536
 author: Nick Peihl
 ---
 
-[CliffCloud/Leaflet.EasyButton](star.repo.html_url)
+[CliffCloud/Leaflet.EasyButton](https://github.com/CliffCloud/Leaflet.EasyButton)
 
 **WRITE CONTENT**
 

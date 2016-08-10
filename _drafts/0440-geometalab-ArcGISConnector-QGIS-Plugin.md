@@ -8,7 +8,7 @@ gh_id: 30418639
 author: Nick Peihl
 ---
 
-[geometalab/ArcGISConnector-QGIS-Plugin](star.repo.html_url)
+[geometalab/ArcGISConnector-QGIS-Plugin](https://github.com/geometalab/ArcGISConnector-QGIS-Plugin)
 
 **WRITE CONTENT**
 

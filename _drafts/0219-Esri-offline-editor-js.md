@@ -8,7 +8,7 @@ gh_id: 12958791
 author: Nick Peihl
 ---
 
-[Esri/offline-editor-js](star.repo.html_url)
+[Esri/offline-editor-js](https://github.com/Esri/offline-editor-js)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 33893076
 author: Nick Peihl
 ---
 
-[datamade/data-making-guidelines](star.repo.html_url)
+[datamade/data-making-guidelines](https://github.com/datamade/data-making-guidelines)
 
 **WRITE CONTENT**
 

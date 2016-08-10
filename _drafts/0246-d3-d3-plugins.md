@@ -8,7 +8,7 @@ gh_id: 3878981
 author: Nick Peihl
 ---
 
-[d3/d3-plugins](star.repo.html_url)
+[d3/d3-plugins](https://github.com/d3/d3-plugins)
 
 **WRITE CONTENT**
 

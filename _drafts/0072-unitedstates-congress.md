@@ -8,7 +8,7 @@ gh_id: 5509992
 author: Nick Peihl
 ---
 
-[unitedstates/congress](star.repo.html_url)
+[unitedstates/congress](https://github.com/unitedstates/congress)
 
 **WRITE CONTENT**
 

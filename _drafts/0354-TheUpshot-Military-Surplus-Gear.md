@@ -8,7 +8,7 @@ gh_id: 23112378
 author: Nick Peihl
 ---
 
-[TheUpshot/Military-Surplus-Gear](star.repo.html_url)
+[TheUpshot/Military-Surplus-Gear](https://github.com/TheUpshot/Military-Surplus-Gear)
 
 **WRITE CONTENT**
 

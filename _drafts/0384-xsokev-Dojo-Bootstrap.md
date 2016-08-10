@@ -8,7 +8,7 @@ gh_id: 5081931
 author: Nick Peihl
 ---
 
-[xsokev/Dojo-Bootstrap](star.repo.html_url)
+[xsokev/Dojo-Bootstrap](https://github.com/xsokev/Dojo-Bootstrap)
 
 **WRITE CONTENT**
 

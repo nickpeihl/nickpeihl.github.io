@@ -8,7 +8,7 @@ gh_id: 8763604
 author: Nick Peihl
 ---
 
-[osmlab/editor-layer-index](star.repo.html_url)
+[osmlab/editor-layer-index](https://github.com/osmlab/editor-layer-index)
 
 **WRITE CONTENT**
 

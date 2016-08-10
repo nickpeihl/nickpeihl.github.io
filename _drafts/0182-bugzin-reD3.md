@@ -8,7 +8,7 @@ gh_id: 10668139
 author: Nick Peihl
 ---
 
-[bugzin/reD3](star.repo.html_url)
+[bugzin/reD3](https://github.com/bugzin/reD3)
 
 **WRITE CONTENT**
 

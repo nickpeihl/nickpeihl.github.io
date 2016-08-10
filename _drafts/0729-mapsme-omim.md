@@ -8,7 +8,7 @@ gh_id: 42798033
 author: Nick Peihl
 ---
 
-[mapsme/omim](star.repo.html_url)
+[mapsme/omim](https://github.com/mapsme/omim)
 
 **WRITE CONTENT**
 

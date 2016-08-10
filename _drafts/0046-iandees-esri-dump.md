@@ -8,7 +8,7 @@ gh_id: 14985553
 author: Nick Peihl
 ---
 
-[iandees/esri-dump](star.repo.html_url)
+[iandees/esri-dump](https://github.com/iandees/esri-dump)
 
 **WRITE CONTENT**
 

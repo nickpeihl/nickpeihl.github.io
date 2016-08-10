@@ -8,7 +8,7 @@ gh_id: 13462160
 author: Nick Peihl
 ---
 
-[Esri/bootstrap-map-js](star.repo.html_url)
+[Esri/bootstrap-map-js](https://github.com/Esri/bootstrap-map-js)
 
 **WRITE CONTENT**
 

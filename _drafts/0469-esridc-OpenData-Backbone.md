@@ -8,7 +8,7 @@ gh_id: 29366591
 author: Nick Peihl
 ---
 
-[esridc/OpenData-Backbone](star.repo.html_url)
+[esridc/OpenData-Backbone](https://github.com/esridc/OpenData-Backbone)
 
 **WRITE CONTENT**
 

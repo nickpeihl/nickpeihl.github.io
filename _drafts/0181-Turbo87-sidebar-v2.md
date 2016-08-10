@@ -8,7 +8,7 @@ gh_id: 22547188
 author: Nick Peihl
 ---
 
-[Turbo87/sidebar-v2](star.repo.html_url)
+[Turbo87/sidebar-v2](https://github.com/Turbo87/sidebar-v2)
 
 **WRITE CONTENT**
 

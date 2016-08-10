@@ -8,7 +8,7 @@ gh_id: 26889551
 author: Nick Peihl
 ---
 
-[Esri/cedar](star.repo.html_url)
+[Esri/cedar](https://github.com/Esri/cedar)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 6220644
 author: Nick Peihl
 ---
 
-[OpenRefine/OpenRefine](star.repo.html_url)
+[OpenRefine/OpenRefine](https://github.com/OpenRefine/OpenRefine)
 
 **WRITE CONTENT**
 

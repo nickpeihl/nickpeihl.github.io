@@ -8,7 +8,7 @@ gh_id: 4983184
 author: Nick Peihl
 ---
 
-[Leaflet/Leaflet.markercluster](star.repo.html_url)
+[Leaflet/Leaflet.markercluster](https://github.com/Leaflet/Leaflet.markercluster)
 
 **WRITE CONTENT**
 

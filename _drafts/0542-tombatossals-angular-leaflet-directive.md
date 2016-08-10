@@ -8,7 +8,7 @@ gh_id: 5853229
 author: Nick Peihl
 ---
 
-[tombatossals/angular-leaflet-directive](star.repo.html_url)
+[tombatossals/angular-leaflet-directive](https://github.com/tombatossals/angular-leaflet-directive)
 
 **WRITE CONTENT**
 

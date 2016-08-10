@@ -8,7 +8,7 @@ gh_id: 52130214
 author: Nick Peihl
 ---
 
-[anandthakker/gjv](star.repo.html_url)
+[anandthakker/gjv](https://github.com/anandthakker/gjv)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 13112297
 author: Nick Peihl
 ---
 
-[cpettitt/dagre-d3](star.repo.html_url)
+[cpettitt/dagre-d3](https://github.com/cpettitt/dagre-d3)
 
 **WRITE CONTENT**
 

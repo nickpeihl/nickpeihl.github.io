@@ -8,7 +8,7 @@ gh_id: 12241750
 author: Nick Peihl
 ---
 
-[hadley/adv-r](star.repo.html_url)
+[hadley/adv-r](https://github.com/hadley/adv-r)
 
 **WRITE CONTENT**
 

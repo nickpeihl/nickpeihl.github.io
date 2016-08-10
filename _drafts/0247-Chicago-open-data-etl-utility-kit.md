@@ -8,7 +8,7 @@ gh_id: 23943874
 author: Nick Peihl
 ---
 
-[Chicago/open-data-etl-utility-kit](star.repo.html_url)
+[Chicago/open-data-etl-utility-kit](https://github.com/Chicago/open-data-etl-utility-kit)
 
 **WRITE CONTENT**
 

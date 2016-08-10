@@ -8,7 +8,7 @@ gh_id: 24694651
 author: Nick Peihl
 ---
 
-[brandoncopeland/node-arcgisserver](star.repo.html_url)
+[brandoncopeland/node-arcgisserver](https://github.com/brandoncopeland/node-arcgisserver)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 20655369
 author: Nick Peihl
 ---
 
-[tomwayson/generator-esri-widget](star.repo.html_url)
+[tomwayson/generator-esri-widget](https://github.com/tomwayson/generator-esri-widget)
 
 **WRITE CONTENT**
 

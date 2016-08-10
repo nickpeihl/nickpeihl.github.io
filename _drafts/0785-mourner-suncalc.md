@@ -8,7 +8,7 @@ gh_id: 2267529
 author: Nick Peihl
 ---
 
-[mourner/suncalc](star.repo.html_url)
+[mourner/suncalc](https://github.com/mourner/suncalc)
 
 **WRITE CONTENT**
 

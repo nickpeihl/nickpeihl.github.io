@@ -8,7 +8,7 @@ gh_id: 14095175
 author: Nick Peihl
 ---
 
-[SFTtech/openage](star.repo.html_url)
+[SFTtech/openage](https://github.com/SFTtech/openage)
 
 **WRITE CONTENT**
 

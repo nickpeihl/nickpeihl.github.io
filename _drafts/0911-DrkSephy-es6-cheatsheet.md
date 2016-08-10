@@ -8,7 +8,7 @@ gh_id: 50134307
 author: Nick Peihl
 ---
 
-[DrkSephy/es6-cheatsheet](star.repo.html_url)
+[DrkSephy/es6-cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)
 
 **WRITE CONTENT**
 

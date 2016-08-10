@@ -8,7 +8,7 @@ gh_id: 20342051
 author: Nick Peihl
 ---
 
-[SilviaTerra/offline_map_poc_v2](star.repo.html_url)
+[SilviaTerra/offline_map_poc_v2](https://github.com/SilviaTerra/offline_map_poc_v2)
 
 **WRITE CONTENT**
 

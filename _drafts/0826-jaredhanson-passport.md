@@ -8,7 +8,7 @@ gh_id: 2540368
 author: Nick Peihl
 ---
 
-[jaredhanson/passport](star.repo.html_url)
+[jaredhanson/passport](https://github.com/jaredhanson/passport)
 
 **WRITE CONTENT**
 

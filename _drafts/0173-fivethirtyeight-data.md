@@ -8,7 +8,7 @@ gh_id: 17829481
 author: Nick Peihl
 ---
 
-[fivethirtyeight/data](star.repo.html_url)
+[fivethirtyeight/data](https://github.com/fivethirtyeight/data)
 
 **WRITE CONTENT**
 

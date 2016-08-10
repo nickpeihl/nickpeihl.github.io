@@ -8,7 +8,7 @@ gh_id: 28404999
 author: Nick Peihl
 ---
 
-[mapbox/mapbox-studio-space-station.tm2](star.repo.html_url)
+[mapbox/mapbox-studio-space-station.tm2](https://github.com/mapbox/mapbox-studio-space-station.tm2)
 
 **WRITE CONTENT**
 

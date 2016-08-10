@@ -8,7 +8,7 @@ gh_id: 7707315
 author: Nick Peihl
 ---
 
-[ftorghele/worldMap](star.repo.html_url)
+[ftorghele/worldMap](https://github.com/ftorghele/worldMap)
 
 **WRITE CONTENT**
 

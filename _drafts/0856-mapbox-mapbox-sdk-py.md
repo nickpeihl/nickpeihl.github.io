@@ -8,7 +8,7 @@ gh_id: 39404445
 author: Nick Peihl
 ---
 
-[mapbox/mapbox-sdk-py](star.repo.html_url)
+[mapbox/mapbox-sdk-py](https://github.com/mapbox/mapbox-sdk-py)
 
 **WRITE CONTENT**
 

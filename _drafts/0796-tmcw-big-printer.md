@@ -8,7 +8,7 @@ gh_id: 34028453
 author: Nick Peihl
 ---
 
-[tmcw/big-printer](star.repo.html_url)
+[tmcw/big-printer](https://github.com/tmcw/big-printer)
 
 **WRITE CONTENT**
 

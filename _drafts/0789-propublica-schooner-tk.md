@@ -8,7 +8,7 @@ gh_id: 31612039
 author: Nick Peihl
 ---
 
-[propublica/schooner-tk](star.repo.html_url)
+[propublica/schooner-tk](https://github.com/propublica/schooner-tk)
 
 **WRITE CONTENT**
 

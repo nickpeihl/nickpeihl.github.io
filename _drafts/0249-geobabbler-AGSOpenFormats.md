@@ -8,7 +8,7 @@ gh_id: 10567500
 author: Nick Peihl
 ---
 
-[geobabbler/AGSOpenFormats](star.repo.html_url)
+[geobabbler/AGSOpenFormats](https://github.com/geobabbler/AGSOpenFormats)
 
 **WRITE CONTENT**
 

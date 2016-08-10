@@ -8,7 +8,7 @@ gh_id: 35302070
 author: Nick Peihl
 ---
 
-[township/township-prototype](star.repo.html_url)
+[township/township-prototype](https://github.com/township/township-prototype)
 
 **WRITE CONTENT**
 

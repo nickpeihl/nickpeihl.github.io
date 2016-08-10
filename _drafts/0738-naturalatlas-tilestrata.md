@@ -8,7 +8,7 @@ gh_id: 27924727
 author: Nick Peihl
 ---
 
-[naturalatlas/tilestrata](star.repo.html_url)
+[naturalatlas/tilestrata](https://github.com/naturalatlas/tilestrata)
 
 **WRITE CONTENT**
 

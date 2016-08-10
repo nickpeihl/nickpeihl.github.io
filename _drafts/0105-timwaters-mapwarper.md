@@ -8,7 +8,7 @@ gh_id: 749491
 author: Nick Peihl
 ---
 
-[timwaters/mapwarper](star.repo.html_url)
+[timwaters/mapwarper](https://github.com/timwaters/mapwarper)
 
 **WRITE CONTENT**
 

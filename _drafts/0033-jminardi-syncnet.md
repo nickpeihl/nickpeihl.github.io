@@ -8,7 +8,7 @@ gh_id: 15667854
 author: Nick Peihl
 ---
 
-[jminardi/syncnet](star.repo.html_url)
+[jminardi/syncnet](https://github.com/jminardi/syncnet)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 7845579
 author: Nick Peihl
 ---
 
-[openoakland/openbudgetoakland](star.repo.html_url)
+[openoakland/openbudgetoakland](https://github.com/openoakland/openbudgetoakland)
 
 **WRITE CONTENT**
 

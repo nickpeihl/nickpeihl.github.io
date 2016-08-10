@@ -8,7 +8,7 @@ gh_id: 12226786
 author: Nick Peihl
 ---
 
-[lovell/sharp](star.repo.html_url)
+[lovell/sharp](https://github.com/lovell/sharp)
 
 **WRITE CONTENT**
 

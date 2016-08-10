@@ -8,7 +8,7 @@ gh_id: 5291075
 author: Nick Peihl
 ---
 
-[samdutton/simpl](star.repo.html_url)
+[samdutton/simpl](https://github.com/samdutton/simpl)
 
 **WRITE CONTENT**
 

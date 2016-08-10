@@ -8,7 +8,7 @@ gh_id: 24617689
 author: Nick Peihl
 ---
 
-[ainsleywagon/color-chart](star.repo.html_url)
+[ainsleywagon/color-chart](https://github.com/ainsleywagon/color-chart)
 
 **WRITE CONTENT**
 

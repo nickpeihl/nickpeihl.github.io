@@ -8,7 +8,7 @@ gh_id: 34100816
 author: Nick Peihl
 ---
 
-[substack/omega-projects](star.repo.html_url)
+[substack/omega-projects](https://github.com/substack/omega-projects)
 
 **WRITE CONTENT**
 

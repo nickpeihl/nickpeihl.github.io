@@ -8,7 +8,7 @@ gh_id: 46653709
 author: Nick Peihl
 ---
 
-[mortenjust/cleartext-mac](star.repo.html_url)
+[mortenjust/cleartext-mac](https://github.com/mortenjust/cleartext-mac)
 
 **WRITE CONTENT**
 

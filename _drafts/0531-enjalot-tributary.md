@@ -8,7 +8,7 @@ gh_id: 3745075
 author: Nick Peihl
 ---
 
-[enjalot/tributary](star.repo.html_url)
+[enjalot/tributary](https://github.com/enjalot/tributary)
 
 **WRITE CONTENT**
 

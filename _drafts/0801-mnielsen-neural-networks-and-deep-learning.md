@@ -8,7 +8,7 @@ gh_id: 6671099
 author: Nick Peihl
 ---
 
-[mnielsen/neural-networks-and-deep-learning](star.repo.html_url)
+[mnielsen/neural-networks-and-deep-learning](https://github.com/mnielsen/neural-networks-and-deep-learning)
 
 **WRITE CONTENT**
 

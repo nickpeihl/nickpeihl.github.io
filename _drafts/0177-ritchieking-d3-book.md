@@ -8,7 +8,7 @@ gh_id: 22702885
 author: Nick Peihl
 ---
 
-[ritchieking/d3-book](star.repo.html_url)
+[ritchieking/d3-book](https://github.com/ritchieking/d3-book)
 
 **WRITE CONTENT**
 

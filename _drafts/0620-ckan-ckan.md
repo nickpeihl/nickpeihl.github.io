@@ -8,7 +8,7 @@ gh_id: 2750721
 author: Nick Peihl
 ---
 
-[ckan/ckan](star.repo.html_url)
+[ckan/ckan](https://github.com/ckan/ckan)
 
 **WRITE CONTENT**
 

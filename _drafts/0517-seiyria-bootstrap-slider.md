@@ -8,7 +8,7 @@ gh_id: 11111023
 author: Nick Peihl
 ---
 
-[seiyria/bootstrap-slider](star.repo.html_url)
+[seiyria/bootstrap-slider](https://github.com/seiyria/bootstrap-slider)
 
 **WRITE CONTENT**
 

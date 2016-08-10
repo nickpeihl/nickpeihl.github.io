@@ -8,7 +8,7 @@ gh_id: 14542334
 author: Nick Peihl
 ---
 
-[cascadiajs/cjs-meatspace](star.repo.html_url)
+[cascadiajs/cjs-meatspace](https://github.com/cascadiajs/cjs-meatspace)
 
 **WRITE CONTENT**
 

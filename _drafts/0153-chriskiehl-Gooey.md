@@ -8,7 +8,7 @@ gh_id: 15570122
 author: Nick Peihl
 ---
 
-[chriskiehl/Gooey](star.repo.html_url)
+[chriskiehl/Gooey](https://github.com/chriskiehl/Gooey)
 
 **WRITE CONTENT**
 

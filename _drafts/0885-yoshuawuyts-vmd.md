@@ -8,7 +8,7 @@ gh_id: 30476886
 author: Nick Peihl
 ---
 
-[yoshuawuyts/vmd](star.repo.html_url)
+[yoshuawuyts/vmd](https://github.com/yoshuawuyts/vmd)
 
 **WRITE CONTENT**
 

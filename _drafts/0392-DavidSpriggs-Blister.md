@@ -8,7 +8,7 @@ gh_id: 16388134
 author: Nick Peihl
 ---
 
-[DavidSpriggs/Blister](star.repo.html_url)
+[DavidSpriggs/Blister](https://github.com/DavidSpriggs/Blister)
 
 **WRITE CONTENT**
 

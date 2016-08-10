@@ -8,7 +8,7 @@ gh_id: 4893903
 author: Nick Peihl
 ---
 
-[vafada/chosen-dojo](star.repo.html_url)
+[vafada/chosen-dojo](https://github.com/vafada/chosen-dojo)
 
 **WRITE CONTENT**
 

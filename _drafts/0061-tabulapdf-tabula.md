@@ -8,7 +8,7 @@ gh_id: 8711354
 author: Nick Peihl
 ---
 
-[tabulapdf/tabula](star.repo.html_url)
+[tabulapdf/tabula](https://github.com/tabulapdf/tabula)
 
 **WRITE CONTENT**
 

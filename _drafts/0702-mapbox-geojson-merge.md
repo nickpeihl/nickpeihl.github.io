@@ -8,7 +8,7 @@ gh_id: 22392390
 author: Nick Peihl
 ---
 
-[mapbox/geojson-merge](star.repo.html_url)
+[mapbox/geojson-merge](https://github.com/mapbox/geojson-merge)
 
 **WRITE CONTENT**
 

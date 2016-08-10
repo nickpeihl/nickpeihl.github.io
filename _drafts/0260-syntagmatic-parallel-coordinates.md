@@ -8,7 +8,7 @@ gh_id: 4518934
 author: Nick Peihl
 ---
 
-[syntagmatic/parallel-coordinates](star.repo.html_url)
+[syntagmatic/parallel-coordinates](https://github.com/syntagmatic/parallel-coordinates)
 
 **WRITE CONTENT**
 

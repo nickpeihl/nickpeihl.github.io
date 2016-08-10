@@ -8,7 +8,7 @@ gh_id: 9496329
 author: Nick Peihl
 ---
 
-[densitydesign/raw](star.repo.html_url)
+[densitydesign/raw](https://github.com/densitydesign/raw)
 
 **WRITE CONTENT**
 

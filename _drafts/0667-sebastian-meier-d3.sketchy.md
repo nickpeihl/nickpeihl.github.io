@@ -8,7 +8,7 @@ gh_id: 39861741
 author: Nick Peihl
 ---
 
-[sebastian-meier/d3.sketchy](star.repo.html_url)
+[sebastian-meier/d3.sketchy](https://github.com/sebastian-meier/d3.sketchy)
 
 **WRITE CONTENT**
 

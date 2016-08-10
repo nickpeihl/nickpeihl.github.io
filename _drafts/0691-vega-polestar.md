@@ -8,7 +8,7 @@ gh_id: 28117310
 author: Nick Peihl
 ---
 
-[vega/polestar](star.repo.html_url)
+[vega/polestar](https://github.com/vega/polestar)
 
 **WRITE CONTENT**
 

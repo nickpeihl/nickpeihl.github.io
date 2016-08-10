@@ -8,7 +8,7 @@ gh_id: 39250787
 author: Nick Peihl
 ---
 
-[elgerlambert/redux-localstorage](star.repo.html_url)
+[elgerlambert/redux-localstorage](https://github.com/elgerlambert/redux-localstorage)
 
 **WRITE CONTENT**
 

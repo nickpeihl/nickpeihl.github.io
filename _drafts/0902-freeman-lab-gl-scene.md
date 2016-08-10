@@ -8,7 +8,7 @@ gh_id: 50706447
 author: Nick Peihl
 ---
 
-[freeman-lab/gl-scene](star.repo.html_url)
+[freeman-lab/gl-scene](https://github.com/freeman-lab/gl-scene)
 
 **WRITE CONTENT**
 

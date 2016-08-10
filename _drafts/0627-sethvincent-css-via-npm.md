@@ -8,7 +8,7 @@ gh_id: 38651082
 author: Nick Peihl
 ---
 
-[sethvincent/css-via-npm](star.repo.html_url)
+[sethvincent/css-via-npm](https://github.com/sethvincent/css-via-npm)
 
 **WRITE CONTENT**
 

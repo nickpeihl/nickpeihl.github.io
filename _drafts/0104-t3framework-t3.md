@@ -8,7 +8,7 @@ gh_id: 7769690
 author: Nick Peihl
 ---
 
-[t3framework/t3](star.repo.html_url)
+[t3framework/t3](https://github.com/t3framework/t3)
 
 **WRITE CONTENT**
 

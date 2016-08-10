@@ -8,7 +8,7 @@ gh_id: 24513454
 author: Nick Peihl
 ---
 
-[pdxosgeo/foss4g2014-slides](star.repo.html_url)
+[pdxosgeo/foss4g2014-slides](https://github.com/pdxosgeo/foss4g2014-slides)
 
 **WRITE CONTENT**
 

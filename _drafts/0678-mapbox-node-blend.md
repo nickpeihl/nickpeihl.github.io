@@ -8,7 +8,7 @@ gh_id: 1815594
 author: Nick Peihl
 ---
 
-[mapbox/node-blend](star.repo.html_url)
+[mapbox/node-blend](https://github.com/mapbox/node-blend)
 
 **WRITE CONTENT**
 

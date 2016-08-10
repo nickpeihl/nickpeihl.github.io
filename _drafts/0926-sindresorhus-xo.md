@@ -8,7 +8,7 @@ gh_id: 40053602
 author: Nick Peihl
 ---
 
-[sindresorhus/xo](star.repo.html_url)
+[sindresorhus/xo](https://github.com/sindresorhus/xo)
 
 **WRITE CONTENT**
 

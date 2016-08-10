@@ -8,7 +8,7 @@ gh_id: 49752505
 author: Nick Peihl
 ---
 
-[nickpeihl/sjcMap-android](star.repo.html_url)
+[nickpeihl/sjcMap-android](https://github.com/nickpeihl/sjcMap-android)
 
 **WRITE CONTENT**
 

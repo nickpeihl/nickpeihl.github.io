@@ -8,7 +8,7 @@ gh_id: 16179237
 author: Nick Peihl
 ---
 
-[Matt-Esch/virtual-dom](star.repo.html_url)
+[Matt-Esch/virtual-dom](https://github.com/Matt-Esch/virtual-dom)
 
 **WRITE CONTENT**
 

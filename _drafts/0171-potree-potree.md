@@ -8,7 +8,7 @@ gh_id: 5296705
 author: Nick Peihl
 ---
 
-[potree/potree](star.repo.html_url)
+[potree/potree](https://github.com/potree/potree)
 
 **WRITE CONTENT**
 

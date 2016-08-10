@@ -8,7 +8,7 @@ gh_id: 35968578
 author: Nick Peihl
 ---
 
-[18F/web-design-standards](star.repo.html_url)
+[18F/web-design-standards](https://github.com/18F/web-design-standards)
 
 **WRITE CONTENT**
 

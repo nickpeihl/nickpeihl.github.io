@@ -8,7 +8,7 @@ gh_id: 30364633
 author: Nick Peihl
 ---
 
-[kekscom/L.Line3](star.repo.html_url)
+[kekscom/L.Line3](https://github.com/kekscom/L.Line3)
 
 **WRITE CONTENT**
 

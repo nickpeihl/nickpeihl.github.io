@@ -8,7 +8,7 @@ gh_id: 11451430
 author: Nick Peihl
 ---
 
-[unorthodox123/RacialDotMap](star.repo.html_url)
+[unorthodox123/RacialDotMap](https://github.com/unorthodox123/RacialDotMap)
 
 **WRITE CONTENT**
 

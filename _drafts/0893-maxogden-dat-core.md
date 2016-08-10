@@ -8,7 +8,7 @@ gh_id: 31226570
 author: Nick Peihl
 ---
 
-[maxogden/dat-core](star.repo.html_url)
+[maxogden/dat-core](https://github.com/maxogden/dat-core)
 
 **WRITE CONTENT**
 

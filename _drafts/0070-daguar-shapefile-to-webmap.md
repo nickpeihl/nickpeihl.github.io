@@ -8,7 +8,7 @@ gh_id: 16655999
 author: Nick Peihl
 ---
 
-[daguar/shapefile-to-webmap](star.repo.html_url)
+[daguar/shapefile-to-webmap](https://github.com/daguar/shapefile-to-webmap)
 
 **WRITE CONTENT**
 

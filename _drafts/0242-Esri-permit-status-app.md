@@ -8,7 +8,7 @@ gh_id: 11157531
 author: Nick Peihl
 ---
 
-[Esri/permit-status-app](star.repo.html_url)
+[Esri/permit-status-app](https://github.com/Esri/permit-status-app)
 
 **WRITE CONTENT**
 

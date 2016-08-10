@@ -8,7 +8,7 @@ gh_id: 1825406
 author: Nick Peihl
 ---
 
-[sigma/gh.el](star.repo.html_url)
+[sigma/gh.el](https://github.com/sigma/gh.el)
 
 **WRITE CONTENT**
 

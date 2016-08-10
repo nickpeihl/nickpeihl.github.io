@@ -8,7 +8,7 @@ gh_id: 31395054
 author: Nick Peihl
 ---
 
-[bcgov/BC-Policy-Framework-For-GitHub](star.repo.html_url)
+[bcgov/BC-Policy-Framework-For-GitHub](https://github.com/bcgov/BC-Policy-Framework-For-GitHub)
 
 **WRITE CONTENT**
 

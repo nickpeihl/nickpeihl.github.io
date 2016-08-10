@@ -8,7 +8,7 @@ gh_id: 2237869
 author: Nick Peihl
 ---
 
-[substack/http-browserify](star.repo.html_url)
+[substack/http-browserify](https://github.com/substack/http-browserify)
 
 **WRITE CONTENT**
 

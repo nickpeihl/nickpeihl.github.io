@@ -8,7 +8,7 @@ gh_id: 5144863
 author: Nick Peihl
 ---
 
-[mweisman/gdbflee](star.repo.html_url)
+[mweisman/gdbflee](https://github.com/mweisman/gdbflee)
 
 **WRITE CONTENT**
 

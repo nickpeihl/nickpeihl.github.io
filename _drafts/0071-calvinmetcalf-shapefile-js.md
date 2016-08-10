@@ -8,7 +8,7 @@ gh_id: 4483646
 author: Nick Peihl
 ---
 
-[calvinmetcalf/shapefile-js](star.repo.html_url)
+[calvinmetcalf/shapefile-js](https://github.com/calvinmetcalf/shapefile-js)
 
 **WRITE CONTENT**
 

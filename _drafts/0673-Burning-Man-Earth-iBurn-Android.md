@@ -8,7 +8,7 @@ gh_id: 11870341
 author: Nick Peihl
 ---
 
-[Burning-Man-Earth/iBurn-Android](star.repo.html_url)
+[Burning-Man-Earth/iBurn-Android](https://github.com/Burning-Man-Earth/iBurn-Android)
 
 **WRITE CONTENT**
 

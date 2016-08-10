@@ -8,7 +8,7 @@ gh_id: 13622018
 author: Nick Peihl
 ---
 
-[abo-abo/org-download](star.repo.html_url)
+[abo-abo/org-download](https://github.com/abo-abo/org-download)
 
 **WRITE CONTENT**
 

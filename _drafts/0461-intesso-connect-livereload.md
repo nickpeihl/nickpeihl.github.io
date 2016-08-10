@@ -8,7 +8,7 @@ gh_id: 9465621
 author: Nick Peihl
 ---
 
-[intesso/connect-livereload](star.repo.html_url)
+[intesso/connect-livereload](https://github.com/intesso/connect-livereload)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 2528090
 author: Nick Peihl
 ---
 
-[bbatsov/prelude](star.repo.html_url)
+[bbatsov/prelude](https://github.com/bbatsov/prelude)
 
 **WRITE CONTENT**
 

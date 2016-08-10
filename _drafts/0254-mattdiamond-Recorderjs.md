@@ -8,7 +8,7 @@ gh_id: 5787154
 author: Nick Peihl
 ---
 
-[mattdiamond/Recorderjs](star.repo.html_url)
+[mattdiamond/Recorderjs](https://github.com/mattdiamond/Recorderjs)
 
 **WRITE CONTENT**
 

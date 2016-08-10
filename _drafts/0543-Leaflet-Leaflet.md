@@ -8,7 +8,7 @@ gh_id: 931135
 author: Nick Peihl
 ---
 
-[Leaflet/Leaflet](star.repo.html_url)
+[Leaflet/Leaflet](https://github.com/Leaflet/Leaflet)
 
 **WRITE CONTENT**
 

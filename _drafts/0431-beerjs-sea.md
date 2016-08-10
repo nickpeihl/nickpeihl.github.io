@@ -8,7 +8,7 @@ gh_id: 19332603
 author: Nick Peihl
 ---
 
-[beerjs/sea](star.repo.html_url)
+[beerjs/sea](https://github.com/beerjs/sea)
 
 **WRITE CONTENT**
 

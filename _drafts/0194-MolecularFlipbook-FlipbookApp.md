@@ -8,7 +8,7 @@ gh_id: 21670582
 author: Nick Peihl
 ---
 
-[MolecularFlipbook/FlipbookApp](star.repo.html_url)
+[MolecularFlipbook/FlipbookApp](https://github.com/MolecularFlipbook/FlipbookApp)
 
 **WRITE CONTENT**
 

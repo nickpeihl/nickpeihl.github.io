@@ -8,7 +8,7 @@ gh_id: 6061462
 author: Nick Peihl
 ---
 
-[geobabbler/mbutil](star.repo.html_url)
+[geobabbler/mbutil](https://github.com/geobabbler/mbutil)
 
 **WRITE CONTENT**
 

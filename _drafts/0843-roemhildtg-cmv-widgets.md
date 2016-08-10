@@ -8,7 +8,7 @@ gh_id: 23877802
 author: Nick Peihl
 ---
 
-[roemhildtg/cmv-widgets](star.repo.html_url)
+[roemhildtg/cmv-widgets](https://github.com/roemhildtg/cmv-widgets)
 
 **WRITE CONTENT**
 

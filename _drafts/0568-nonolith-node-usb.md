@@ -8,7 +8,7 @@ gh_id: 4176043
 author: Nick Peihl
 ---
 
-[nonolith/node-usb](star.repo.html_url)
+[nonolith/node-usb](https://github.com/nonolith/node-usb)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 10765289
 author: Nick Peihl
 ---
 
-[dssg/data-portal-treemap](star.repo.html_url)
+[dssg/data-portal-treemap](https://github.com/dssg/data-portal-treemap)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 24617126
 author: Nick Peihl
 ---
 
-[sethvincent/javascripting](star.repo.html_url)
+[sethvincent/javascripting](https://github.com/sethvincent/javascripting)
 
 **WRITE CONTENT**
 

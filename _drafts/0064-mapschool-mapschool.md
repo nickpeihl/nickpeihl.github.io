@@ -8,7 +8,7 @@ gh_id: 14407880
 author: Nick Peihl
 ---
 
-[mapschool/mapschool](star.repo.html_url)
+[mapschool/mapschool](https://github.com/mapschool/mapschool)
 
 **WRITE CONTENT**
 

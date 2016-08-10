@@ -8,7 +8,7 @@ gh_id: 39080841
 author: Nick Peihl
 ---
 
-[DataTacticsCorp/ArcGIS_Tweets](star.repo.html_url)
+[DataTacticsCorp/ArcGIS_Tweets](https://github.com/DataTacticsCorp/ArcGIS_Tweets)
 
 **WRITE CONTENT**
 

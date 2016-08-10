@@ -8,7 +8,7 @@ gh_id: 29151501
 author: Nick Peihl
 ---
 
-[xaranke/chroniton](star.repo.html_url)
+[xaranke/chroniton](https://github.com/xaranke/chroniton)
 
 **WRITE CONTENT**
 

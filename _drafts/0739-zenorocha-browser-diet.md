@@ -8,7 +8,7 @@ gh_id: 3089049
 author: Nick Peihl
 ---
 
-[zenorocha/browser-diet](star.repo.html_url)
+[zenorocha/browser-diet](https://github.com/zenorocha/browser-diet)
 
 **WRITE CONTENT**
 

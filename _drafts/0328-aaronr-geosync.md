@@ -8,7 +8,7 @@ gh_id: 28118447
 author: Nick Peihl
 ---
 
-[aaronr/geosync](star.repo.html_url)
+[aaronr/geosync](https://github.com/aaronr/geosync)
 
 **WRITE CONTENT**
 

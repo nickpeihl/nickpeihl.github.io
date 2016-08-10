@@ -8,7 +8,7 @@ gh_id: 1783117
 author: Nick Peihl
 ---
 
-[wellflat/imageprocessing-labs](star.repo.html_url)
+[wellflat/imageprocessing-labs](https://github.com/wellflat/imageprocessing-labs)
 
 **WRITE CONTENT**
 

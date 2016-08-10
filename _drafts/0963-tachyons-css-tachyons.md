@@ -8,7 +8,7 @@ gh_id: 14106970
 author: Nick Peihl
 ---
 
-[tachyons-css/tachyons](star.repo.html_url)
+[tachyons-css/tachyons](https://github.com/tachyons-css/tachyons)
 
 **WRITE CONTENT**
 

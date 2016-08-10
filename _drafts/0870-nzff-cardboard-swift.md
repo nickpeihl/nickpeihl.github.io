@@ -8,7 +8,7 @@ gh_id: 51165925
 author: Nick Peihl
 ---
 
-[nzff/cardboard-swift](star.repo.html_url)
+[nzff/cardboard-swift](https://github.com/nzff/cardboard-swift)
 
 **WRITE CONTENT**
 

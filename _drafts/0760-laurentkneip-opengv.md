@@ -8,7 +8,7 @@ gh_id: 12015273
 author: Nick Peihl
 ---
 
-[laurentkneip/opengv](star.repo.html_url)
+[laurentkneip/opengv](https://github.com/laurentkneip/opengv)
 
 **WRITE CONTENT**
 

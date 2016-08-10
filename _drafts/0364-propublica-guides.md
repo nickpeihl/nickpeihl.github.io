@@ -8,7 +8,7 @@ gh_id: 8206095
 author: Nick Peihl
 ---
 
-[propublica/guides](star.repo.html_url)
+[propublica/guides](https://github.com/propublica/guides)
 
 **WRITE CONTENT**
 

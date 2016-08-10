@@ -8,7 +8,7 @@ gh_id: 26738953
 author: Nick Peihl
 ---
 
-[zsup/charm](star.repo.html_url)
+[zsup/charm](https://github.com/zsup/charm)
 
 **WRITE CONTENT**
 

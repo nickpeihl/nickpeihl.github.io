@@ -8,7 +8,7 @@ gh_id: 9158764
 author: Nick Peihl
 ---
 
-[agrc/AddressPointEditor](star.repo.html_url)
+[agrc/AddressPointEditor](https://github.com/agrc/AddressPointEditor)
 
 **WRITE CONTENT**
 

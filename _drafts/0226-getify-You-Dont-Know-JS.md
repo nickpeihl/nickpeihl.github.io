@@ -8,7 +8,7 @@ gh_id: 14440270
 author: Nick Peihl
 ---
 
-[getify/You-Dont-Know-JS](star.repo.html_url)
+[getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
 
 **WRITE CONTENT**
 

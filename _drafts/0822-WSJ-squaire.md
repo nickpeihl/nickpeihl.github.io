@@ -8,7 +8,7 @@ gh_id: 47366468
 author: Nick Peihl
 ---
 
-[WSJ/squaire](star.repo.html_url)
+[WSJ/squaire](https://github.com/WSJ/squaire)
 
 **WRITE CONTENT**
 

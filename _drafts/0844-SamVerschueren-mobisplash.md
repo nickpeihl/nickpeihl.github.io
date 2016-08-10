@@ -8,7 +8,7 @@ gh_id: 49019124
 author: Nick Peihl
 ---
 
-[SamVerschueren/mobisplash](star.repo.html_url)
+[SamVerschueren/mobisplash](https://github.com/SamVerschueren/mobisplash)
 
 **WRITE CONTENT**
 

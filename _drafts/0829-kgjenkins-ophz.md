@@ -8,7 +8,7 @@ gh_id: 11927822
 author: Nick Peihl
 ---
 
-[kgjenkins/ophz](star.repo.html_url)
+[kgjenkins/ophz](https://github.com/kgjenkins/ophz)
 
 **WRITE CONTENT**
 

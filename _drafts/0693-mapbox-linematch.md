@@ -8,7 +8,7 @@ gh_id: 42108427
 author: Nick Peihl
 ---
 
-[mapbox/linematch](star.repo.html_url)
+[mapbox/linematch](https://github.com/mapbox/linematch)
 
 **WRITE CONTENT**
 

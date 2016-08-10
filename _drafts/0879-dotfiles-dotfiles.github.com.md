@@ -8,7 +8,7 @@ gh_id: 4107031
 author: Nick Peihl
 ---
 
-[dotfiles/dotfiles.github.com](star.repo.html_url)
+[dotfiles/dotfiles.github.com](https://github.com/dotfiles/dotfiles.github.com)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 38969857
 author: Nick Peihl
 ---
 
-[mattdesl/npm-install-analytics](star.repo.html_url)
+[mattdesl/npm-install-analytics](https://github.com/mattdesl/npm-install-analytics)
 
 **WRITE CONTENT**
 

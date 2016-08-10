@@ -8,7 +8,7 @@ gh_id: 6149455
 author: Nick Peihl
 ---
 
-[stamen/maptcha-v2](star.repo.html_url)
+[stamen/maptcha-v2](https://github.com/stamen/maptcha-v2)
 
 **WRITE CONTENT**
 

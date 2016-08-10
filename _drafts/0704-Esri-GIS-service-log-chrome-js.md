@@ -8,7 +8,7 @@ gh_id: 20337566
 author: Nick Peihl
 ---
 
-[Esri/GIS-service-log-chrome-js](star.repo.html_url)
+[Esri/GIS-service-log-chrome-js](https://github.com/Esri/GIS-service-log-chrome-js)
 
 **WRITE CONTENT**
 

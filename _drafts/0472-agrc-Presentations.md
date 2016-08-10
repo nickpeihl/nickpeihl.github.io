@@ -8,7 +8,7 @@ gh_id: 31231391
 author: Nick Peihl
 ---
 
-[agrc/Presentations](star.repo.html_url)
+[agrc/Presentations](https://github.com/agrc/Presentations)
 
 **WRITE CONTENT**
 

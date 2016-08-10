@@ -8,7 +8,7 @@ gh_id: 2777268
 author: Nick Peihl
 ---
 
-[holman/spark](star.repo.html_url)
+[holman/spark](https://github.com/holman/spark)
 
 **WRITE CONTENT**
 

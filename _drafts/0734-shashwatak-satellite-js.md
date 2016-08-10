@@ -8,7 +8,7 @@ gh_id: 10022627
 author: Nick Peihl
 ---
 
-[shashwatak/satellite-js](star.repo.html_url)
+[shashwatak/satellite-js](https://github.com/shashwatak/satellite-js)
 
 **WRITE CONTENT**
 

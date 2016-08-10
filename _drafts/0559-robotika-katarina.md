@@ -8,7 +8,7 @@ gh_id: 30117918
 author: Nick Peihl
 ---
 
-[robotika/katarina](star.repo.html_url)
+[robotika/katarina](https://github.com/robotika/katarina)
 
 **WRITE CONTENT**
 

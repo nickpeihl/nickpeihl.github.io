@@ -8,7 +8,7 @@ gh_id: 23680612
 author: Nick Peihl
 ---
 
-[BrianBunker/dojo-esri-dnd-widget](star.repo.html_url)
+[BrianBunker/dojo-esri-dnd-widget](https://github.com/BrianBunker/dojo-esri-dnd-widget)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 8629417
 author: Nick Peihl
 ---
 
-[mapbox/mapbox-gl-js](star.repo.html_url)
+[mapbox/mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js)
 
 **WRITE CONTENT**
 

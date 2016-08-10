@@ -8,7 +8,7 @@ gh_id: 3881862
 author: Nick Peihl
 ---
 
-[cugos/cugos.github.com](star.repo.html_url)
+[cugos/cugos.github.com](https://github.com/cugos/cugos.github.com)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 2212432
 author: Nick Peihl
 ---
 
-[Burning-Man-Earth/iBurn-iOS](star.repo.html_url)
+[Burning-Man-Earth/iBurn-iOS](https://github.com/Burning-Man-Earth/iBurn-iOS)
 
 **WRITE CONTENT**
 

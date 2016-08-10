@@ -8,7 +8,7 @@ gh_id: 24173819
 author: Nick Peihl
 ---
 
-[yiweima/flatdojo](star.repo.html_url)
+[yiweima/flatdojo](https://github.com/yiweima/flatdojo)
 
 **WRITE CONTENT**
 

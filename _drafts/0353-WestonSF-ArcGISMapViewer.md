@@ -8,7 +8,7 @@ gh_id: 19439978
 author: Nick Peihl
 ---
 
-[WestonSF/ArcGISMapViewer](star.repo.html_url)
+[WestonSF/ArcGISMapViewer](https://github.com/WestonSF/ArcGISMapViewer)
 
 **WRITE CONTENT**
 

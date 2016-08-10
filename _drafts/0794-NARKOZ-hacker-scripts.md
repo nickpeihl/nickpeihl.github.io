@@ -8,7 +8,7 @@ gh_id: 46629305
 author: Nick Peihl
 ---
 
-[NARKOZ/hacker-scripts](star.repo.html_url)
+[NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 38788457
 author: Nick Peihl
 ---
 
-[ungoldman/sitedown](star.repo.html_url)
+[ungoldman/sitedown](https://github.com/ungoldman/sitedown)
 
 **WRITE CONTENT**
 

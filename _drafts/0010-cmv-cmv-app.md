@@ -8,7 +8,7 @@ gh_id: 8299434
 author: Nick Peihl
 ---
 
-[cmv/cmv-app](star.repo.html_url)
+[cmv/cmv-app](https://github.com/cmv/cmv-app)
 
 **WRITE CONTENT**
 

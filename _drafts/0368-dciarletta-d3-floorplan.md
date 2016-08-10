@@ -8,7 +8,7 @@ gh_id: 6659447
 author: Nick Peihl
 ---
 
-[dciarletta/d3-floorplan](star.repo.html_url)
+[dciarletta/d3-floorplan](https://github.com/dciarletta/d3-floorplan)
 
 **WRITE CONTENT**
 

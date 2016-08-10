@@ -8,7 +8,7 @@ gh_id: 16853718
 author: Nick Peihl
 ---
 
-[Esri/dojo-theme-flat](star.repo.html_url)
+[Esri/dojo-theme-flat](https://github.com/Esri/dojo-theme-flat)
 
 **WRITE CONTENT**
 

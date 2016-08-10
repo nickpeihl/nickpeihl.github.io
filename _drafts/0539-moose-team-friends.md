@@ -8,7 +8,7 @@ gh_id: 34597195
 author: Nick Peihl
 ---
 
-[moose-team/friends](star.repo.html_url)
+[moose-team/friends](https://github.com/moose-team/friends)
 
 **WRITE CONTENT**
 

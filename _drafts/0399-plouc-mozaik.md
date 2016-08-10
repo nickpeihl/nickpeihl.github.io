@@ -8,7 +8,7 @@ gh_id: 28498113
 author: Nick Peihl
 ---
 
-[plouc/mozaik](star.repo.html_url)
+[plouc/mozaik](https://github.com/plouc/mozaik)
 
 **WRITE CONTENT**
 

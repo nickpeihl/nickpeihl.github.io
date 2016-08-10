@@ -8,7 +8,7 @@ gh_id: 16594532
 author: Nick Peihl
 ---
 
-[openaddresses/openaddresses](star.repo.html_url)
+[openaddresses/openaddresses](https://github.com/openaddresses/openaddresses)
 
 **WRITE CONTENT**
 

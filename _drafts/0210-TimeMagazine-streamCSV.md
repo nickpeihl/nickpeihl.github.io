@@ -8,7 +8,7 @@ gh_id: 24729426
 author: Nick Peihl
 ---
 
-[TimeMagazine/streamCSV](star.repo.html_url)
+[TimeMagazine/streamCSV](https://github.com/TimeMagazine/streamCSV)
 
 **WRITE CONTENT**
 

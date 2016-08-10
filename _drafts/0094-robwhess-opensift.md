@@ -8,7 +8,7 @@ gh_id: 5187970
 author: Nick Peihl
 ---
 
-[robwhess/opensift](star.repo.html_url)
+[robwhess/opensift](https://github.com/robwhess/opensift)
 
 **WRITE CONTENT**
 

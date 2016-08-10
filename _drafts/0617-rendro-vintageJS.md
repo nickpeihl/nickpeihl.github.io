@@ -8,7 +8,7 @@ gh_id: 1450644
 author: Nick Peihl
 ---
 
-[rendro/vintageJS](star.repo.html_url)
+[rendro/vintageJS](https://github.com/rendro/vintageJS)
 
 **WRITE CONTENT**
 

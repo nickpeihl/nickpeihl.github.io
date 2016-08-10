@@ -8,7 +8,7 @@ gh_id: 8805592
 author: Nick Peihl
 ---
 
-[szimek/signature_pad](star.repo.html_url)
+[szimek/signature_pad](https://github.com/szimek/signature_pad)
 
 **WRITE CONTENT**
 

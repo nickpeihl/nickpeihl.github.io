@@ -8,7 +8,7 @@ gh_id: 13365390
 author: Nick Peihl
 ---
 
-[turban/webgl-terrain](star.repo.html_url)
+[turban/webgl-terrain](https://github.com/turban/webgl-terrain)
 
 **WRITE CONTENT**
 

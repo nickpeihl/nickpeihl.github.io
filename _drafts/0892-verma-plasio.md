@@ -8,7 +8,7 @@ gh_id: 17297511
 author: Nick Peihl
 ---
 
-[verma/plasio](star.repo.html_url)
+[verma/plasio](https://github.com/verma/plasio)
 
 **WRITE CONTENT**
 

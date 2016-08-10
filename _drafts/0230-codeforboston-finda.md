@@ -8,7 +8,7 @@ gh_id: 13428942
 author: Nick Peihl
 ---
 
-[codeforboston/finda](star.repo.html_url)
+[codeforboston/finda](https://github.com/codeforboston/finda)
 
 **WRITE CONTENT**
 

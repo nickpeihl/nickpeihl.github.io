@@ -8,7 +8,7 @@ gh_id: 9746599
 author: Nick Peihl
 ---
 
-[axismaps/colorbrewer](star.repo.html_url)
+[axismaps/colorbrewer](https://github.com/axismaps/colorbrewer)
 
 **WRITE CONTENT**
 

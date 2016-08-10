@@ -8,7 +8,7 @@ gh_id: 11010098
 author: Nick Peihl
 ---
 
-[epochjs/epoch](star.repo.html_url)
+[epochjs/epoch](https://github.com/epochjs/epoch)
 
 **WRITE CONTENT**
 

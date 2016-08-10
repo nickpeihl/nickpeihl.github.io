@@ -8,7 +8,7 @@ gh_id: 7402352
 author: Nick Peihl
 ---
 
-[d3noob/D3-Tips-and-Tricks](star.repo.html_url)
+[d3noob/D3-Tips-and-Tricks](https://github.com/d3noob/D3-Tips-and-Tricks)
 
 **WRITE CONTENT**
 

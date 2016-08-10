@@ -8,7 +8,7 @@ gh_id: 19818186
 author: Nick Peihl
 ---
 
-[zer0infinity/OGR2GUI](star.repo.html_url)
+[zer0infinity/OGR2GUI](https://github.com/zer0infinity/OGR2GUI)
 
 **WRITE CONTENT**
 

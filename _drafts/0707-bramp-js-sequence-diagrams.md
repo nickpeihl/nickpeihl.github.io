@@ -8,7 +8,7 @@ gh_id: 6736646
 author: Nick Peihl
 ---
 
-[bramp/js-sequence-diagrams](star.repo.html_url)
+[bramp/js-sequence-diagrams](https://github.com/bramp/js-sequence-diagrams)
 
 **WRITE CONTENT**
 

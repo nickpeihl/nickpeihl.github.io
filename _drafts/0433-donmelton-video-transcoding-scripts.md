@@ -8,7 +8,7 @@ gh_id: 25670347
 author: Nick Peihl
 ---
 
-[donmelton/video-transcoding-scripts](star.repo.html_url)
+[donmelton/video-transcoding-scripts](https://github.com/donmelton/video-transcoding-scripts)
 
 **WRITE CONTENT**
 

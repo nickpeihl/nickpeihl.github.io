@@ -8,7 +8,7 @@ gh_id: 37088652
 author: Nick Peihl
 ---
 
-[BloombergMedia/whatiscode](star.repo.html_url)
+[BloombergMedia/whatiscode](https://github.com/BloombergMedia/whatiscode)
 
 **WRITE CONTENT**
 

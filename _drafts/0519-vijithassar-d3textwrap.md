@@ -8,7 +8,7 @@ gh_id: 15323141
 author: Nick Peihl
 ---
 
-[vijithassar/d3textwrap](star.repo.html_url)
+[vijithassar/d3textwrap](https://github.com/vijithassar/d3textwrap)
 
 **WRITE CONTENT**
 

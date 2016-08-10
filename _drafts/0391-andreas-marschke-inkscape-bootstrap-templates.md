@@ -8,7 +8,7 @@ gh_id: 7607889
 author: Nick Peihl
 ---
 
-[andreas-marschke/inkscape-bootstrap-templates](star.repo.html_url)
+[andreas-marschke/inkscape-bootstrap-templates](https://github.com/andreas-marschke/inkscape-bootstrap-templates)
 
 **WRITE CONTENT**
 

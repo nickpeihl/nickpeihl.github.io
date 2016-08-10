@@ -8,7 +8,7 @@ gh_id: 2163263
 author: Nick Peihl
 ---
 
-[hapijs/hapi](star.repo.html_url)
+[hapijs/hapi](https://github.com/hapijs/hapi)
 
 **WRITE CONTENT**
 

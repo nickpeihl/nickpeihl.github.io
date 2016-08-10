@@ -8,7 +8,7 @@ gh_id: 18845024
 author: Nick Peihl
 ---
 
-[google/closure-compiler](star.repo.html_url)
+[google/closure-compiler](https://github.com/google/closure-compiler)
 
 **WRITE CONTENT**
 

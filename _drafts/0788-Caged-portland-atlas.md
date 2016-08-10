@@ -8,7 +8,7 @@ gh_id: 11379975
 author: Nick Peihl
 ---
 
-[Caged/portland-atlas](star.repo.html_url)
+[Caged/portland-atlas](https://github.com/Caged/portland-atlas)
 
 **WRITE CONTENT**
 

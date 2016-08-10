@@ -8,7 +8,7 @@ gh_id: 32108905
 author: Nick Peihl
 ---
 
-[prikhi/pencil](star.repo.html_url)
+[prikhi/pencil](https://github.com/prikhi/pencil)
 
 **WRITE CONTENT**
 

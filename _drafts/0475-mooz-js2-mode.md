@@ -8,7 +8,7 @@ gh_id: 563066
 author: Nick Peihl
 ---
 
-[mooz/js2-mode](star.repo.html_url)
+[mooz/js2-mode](https://github.com/mooz/js2-mode)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 8608216
 author: Nick Peihl
 ---
 
-[mlehman/kmeans-javascript](star.repo.html_url)
+[mlehman/kmeans-javascript](https://github.com/mlehman/kmeans-javascript)
 
 **WRITE CONTENT**
 

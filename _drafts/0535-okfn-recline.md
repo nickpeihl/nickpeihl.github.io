@@ -8,7 +8,7 @@ gh_id: 2579069
 author: Nick Peihl
 ---
 
-[okfn/recline](star.repo.html_url)
+[okfn/recline](https://github.com/okfn/recline)
 
 **WRITE CONTENT**
 

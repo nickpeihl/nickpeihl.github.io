@@ -8,7 +8,7 @@ gh_id: 33947393
 author: Nick Peihl
 ---
 
-[vega/datalib](star.repo.html_url)
+[vega/datalib](https://github.com/vega/datalib)
 
 **WRITE CONTENT**
 

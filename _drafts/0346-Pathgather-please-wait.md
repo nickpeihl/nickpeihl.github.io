@@ -8,7 +8,7 @@ gh_id: 26649719
 author: Nick Peihl
 ---
 
-[Pathgather/please-wait](star.repo.html_url)
+[Pathgather/please-wait](https://github.com/Pathgather/please-wait)
 
 **WRITE CONTENT**
 

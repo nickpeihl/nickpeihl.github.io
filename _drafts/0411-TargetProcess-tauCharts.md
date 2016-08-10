@@ -8,7 +8,7 @@ gh_id: 15994863
 author: Nick Peihl
 ---
 
-[TargetProcess/tauCharts](star.repo.html_url)
+[TargetProcess/tauCharts](https://github.com/TargetProcess/tauCharts)
 
 **WRITE CONTENT**
 

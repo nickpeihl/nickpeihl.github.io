@@ -8,7 +8,7 @@ gh_id: 23069399
 author: Nick Peihl
 ---
 
-[FezVrasta/bootstrap-material-design](star.repo.html_url)
+[FezVrasta/bootstrap-material-design](https://github.com/FezVrasta/bootstrap-material-design)
 
 **WRITE CONTENT**
 

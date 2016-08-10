@@ -8,7 +8,7 @@ gh_id: 27553117
 author: Nick Peihl
 ---
 
-[driskull/arcgis-dijit-expand-map-button-js](star.repo.html_url)
+[driskull/arcgis-dijit-expand-map-button-js](https://github.com/driskull/arcgis-dijit-expand-map-button-js)
 
 **WRITE CONTENT**
 

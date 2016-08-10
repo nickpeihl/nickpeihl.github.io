@@ -8,7 +8,7 @@ gh_id: 5513742
 author: Nick Peihl
 ---
 
-[rstudio/shiny-server](star.repo.html_url)
+[rstudio/shiny-server](https://github.com/rstudio/shiny-server)
 
 **WRITE CONTENT**
 

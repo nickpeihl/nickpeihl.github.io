@@ -8,7 +8,7 @@ gh_id: 26066727
 author: Nick Peihl
 ---
 
-[knsv/mermaid](star.repo.html_url)
+[knsv/mermaid](https://github.com/knsv/mermaid)
 
 **WRITE CONTENT**
 

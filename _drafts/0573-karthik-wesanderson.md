@@ -8,7 +8,7 @@ gh_id: 17856544
 author: Nick Peihl
 ---
 
-[karthik/wesanderson](star.repo.html_url)
+[karthik/wesanderson](https://github.com/karthik/wesanderson)
 
 **WRITE CONTENT**
 

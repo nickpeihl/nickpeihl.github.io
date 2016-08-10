@@ -8,7 +8,7 @@ gh_id: 37330235
 author: Nick Peihl
 ---
 
-[Esri/arcgis-cookbook](star.repo.html_url)
+[Esri/arcgis-cookbook](https://github.com/Esri/arcgis-cookbook)
 
 **WRITE CONTENT**
 

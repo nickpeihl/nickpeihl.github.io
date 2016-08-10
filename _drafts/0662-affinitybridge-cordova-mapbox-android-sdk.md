@@ -8,7 +8,7 @@ gh_id: 33899494
 author: Nick Peihl
 ---
 
-[affinitybridge/cordova-mapbox-android-sdk](star.repo.html_url)
+[affinitybridge/cordova-mapbox-android-sdk](https://github.com/affinitybridge/cordova-mapbox-android-sdk)
 
 **WRITE CONTENT**
 

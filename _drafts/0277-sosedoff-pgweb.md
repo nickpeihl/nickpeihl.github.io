@@ -8,7 +8,7 @@ gh_id: 24968828
 author: Nick Peihl
 ---
 
-[sosedoff/pgweb](star.repo.html_url)
+[sosedoff/pgweb](https://github.com/sosedoff/pgweb)
 
 **WRITE CONTENT**
 

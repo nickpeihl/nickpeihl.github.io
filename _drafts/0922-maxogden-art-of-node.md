@@ -8,7 +8,7 @@ gh_id: 8936633
 author: Nick Peihl
 ---
 
-[maxogden/art-of-node](star.repo.html_url)
+[maxogden/art-of-node](https://github.com/maxogden/art-of-node)
 
 **WRITE CONTENT**
 

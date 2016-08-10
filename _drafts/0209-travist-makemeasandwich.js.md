@@ -8,7 +8,7 @@ gh_id: 12547190
 author: Nick Peihl
 ---
 
-[travist/makemeasandwich.js](star.repo.html_url)
+[travist/makemeasandwich.js](https://github.com/travist/makemeasandwich.js)
 
 **WRITE CONTENT**
 

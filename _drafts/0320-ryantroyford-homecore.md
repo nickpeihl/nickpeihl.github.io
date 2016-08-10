@@ -8,7 +8,7 @@ gh_id: 24904464
 author: Nick Peihl
 ---
 
-[ryantroyford/homecore](star.repo.html_url)
+[ryantroyford/homecore](https://github.com/ryantroyford/homecore)
 
 **WRITE CONTENT**
 

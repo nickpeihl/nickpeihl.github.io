@@ -8,7 +8,7 @@ gh_id: 26663083
 author: Nick Peihl
 ---
 
-[mikesall/charted](star.repo.html_url)
+[mikesall/charted](https://github.com/mikesall/charted)
 
 **WRITE CONTENT**
 

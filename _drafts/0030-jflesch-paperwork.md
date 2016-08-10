@@ -8,7 +8,7 @@ gh_id: 1955800
 author: Nick Peihl
 ---
 
-[jflesch/paperwork](star.repo.html_url)
+[jflesch/paperwork](https://github.com/jflesch/paperwork)
 
 **WRITE CONTENT**
 

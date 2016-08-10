@@ -8,7 +8,7 @@ gh_id: 32750399
 author: Nick Peihl
 ---
 
-[JasonSanford/arcgis-feature-matrix](star.repo.html_url)
+[JasonSanford/arcgis-feature-matrix](https://github.com/JasonSanford/arcgis-feature-matrix)
 
 **WRITE CONTENT**
 

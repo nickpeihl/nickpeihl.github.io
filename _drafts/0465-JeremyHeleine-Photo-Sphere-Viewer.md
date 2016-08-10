@@ -8,7 +8,7 @@ gh_id: 17211085
 author: Nick Peihl
 ---
 
-[JeremyHeleine/Photo-Sphere-Viewer](star.repo.html_url)
+[JeremyHeleine/Photo-Sphere-Viewer](https://github.com/JeremyHeleine/Photo-Sphere-Viewer)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 8635901
 author: Nick Peihl
 ---
 
-[ternjs/tern](star.repo.html_url)
+[ternjs/tern](https://github.com/ternjs/tern)
 
 **WRITE CONTENT**
 

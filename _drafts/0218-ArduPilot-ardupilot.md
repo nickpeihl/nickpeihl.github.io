@@ -8,7 +8,7 @@ gh_id: 7512484
 author: Nick Peihl
 ---
 
-[ArduPilot/ardupilot](star.repo.html_url)
+[ArduPilot/ardupilot](https://github.com/ArduPilot/ardupilot)
 
 **WRITE CONTENT**
 

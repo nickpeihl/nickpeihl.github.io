@@ -8,7 +8,7 @@ gh_id: 24758659
 author: Nick Peihl
 ---
 
-[obazoud/awesome-dashboard](star.repo.html_url)
+[obazoud/awesome-dashboard](https://github.com/obazoud/awesome-dashboard)
 
 **WRITE CONTENT**
 

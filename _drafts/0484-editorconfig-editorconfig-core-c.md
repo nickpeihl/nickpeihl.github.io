@@ -8,7 +8,7 @@ gh_id: 3776214
 author: Nick Peihl
 ---
 
-[editorconfig/editorconfig-core-c](star.repo.html_url)
+[editorconfig/editorconfig-core-c](https://github.com/editorconfig/editorconfig-core-c)
 
 **WRITE CONTENT**
 

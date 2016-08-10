@@ -8,7 +8,7 @@ gh_id: 32170718
 author: Nick Peihl
 ---
 
-[ABQOpenData/ABQGeoJSON](star.repo.html_url)
+[ABQOpenData/ABQGeoJSON](https://github.com/ABQOpenData/ABQGeoJSON)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 3859306
 author: Nick Peihl
 ---
 
-[square/cubism](star.repo.html_url)
+[square/cubism](https://github.com/square/cubism)
 
 **WRITE CONTENT**
 

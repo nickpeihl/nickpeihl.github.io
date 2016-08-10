@@ -8,7 +8,7 @@ gh_id: 31544175
 author: Nick Peihl
 ---
 
-[gavinr/grunt-ags-admin](star.repo.html_url)
+[gavinr/grunt-ags-admin](https://github.com/gavinr/grunt-ags-admin)
 
 **WRITE CONTENT**
 

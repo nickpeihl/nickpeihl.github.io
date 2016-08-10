@@ -8,7 +8,7 @@ gh_id: 34453060
 author: Nick Peihl
 ---
 
-[sindresorhus/awesome-electron](star.repo.html_url)
+[sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron)
 
 **WRITE CONTENT**
 

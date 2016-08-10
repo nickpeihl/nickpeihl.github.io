@@ -8,7 +8,7 @@ gh_id: 41621910
 author: Nick Peihl
 ---
 
-[rubo77/rsync-homedir-excludes](star.repo.html_url)
+[rubo77/rsync-homedir-excludes](https://github.com/rubo77/rsync-homedir-excludes)
 
 **WRITE CONTENT**
 

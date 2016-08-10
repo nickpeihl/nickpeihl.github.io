@@ -8,7 +8,7 @@ gh_id: 9378371
 author: Nick Peihl
 ---
 
-[gilesbowkett/rewind](star.repo.html_url)
+[gilesbowkett/rewind](https://github.com/gilesbowkett/rewind)
 
 **WRITE CONTENT**
 

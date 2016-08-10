@@ -8,7 +8,7 @@ gh_id: 36267537
 author: Nick Peihl
 ---
 
-[purifycss/purifycss](star.repo.html_url)
+[purifycss/purifycss](https://github.com/purifycss/purifycss)
 
 **WRITE CONTENT**
 

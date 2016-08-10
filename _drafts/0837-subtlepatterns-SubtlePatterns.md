@@ -8,7 +8,7 @@ gh_id: 4667315
 author: Nick Peihl
 ---
 
-[subtlepatterns/SubtlePatterns](star.repo.html_url)
+[subtlepatterns/SubtlePatterns](https://github.com/subtlepatterns/SubtlePatterns)
 
 **WRITE CONTENT**
 

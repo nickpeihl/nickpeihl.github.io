@@ -8,7 +8,7 @@ gh_id: 4892935
 author: Nick Peihl
 ---
 
-[ajdamico/asdfree](star.repo.html_url)
+[ajdamico/asdfree](https://github.com/ajdamico/asdfree)
 
 **WRITE CONTENT**
 

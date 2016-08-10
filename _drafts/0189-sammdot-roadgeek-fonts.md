@@ -8,7 +8,7 @@ gh_id: 21999253
 author: Nick Peihl
 ---
 
-[sammdot/roadgeek-fonts](star.repo.html_url)
+[sammdot/roadgeek-fonts](https://github.com/sammdot/roadgeek-fonts)
 
 **WRITE CONTENT**
 

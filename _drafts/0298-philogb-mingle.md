@@ -8,7 +8,7 @@ gh_id: 15168564
 author: Nick Peihl
 ---
 
-[philogb/mingle](star.repo.html_url)
+[philogb/mingle](https://github.com/philogb/mingle)
 
 **WRITE CONTENT**
 

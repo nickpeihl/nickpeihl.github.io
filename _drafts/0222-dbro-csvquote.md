@@ -8,7 +8,7 @@ gh_id: 9836634
 author: Nick Peihl
 ---
 
-[dbro/csvquote](star.repo.html_url)
+[dbro/csvquote](https://github.com/dbro/csvquote)
 
 **WRITE CONTENT**
 

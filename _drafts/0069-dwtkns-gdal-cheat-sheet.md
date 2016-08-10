@@ -8,7 +8,7 @@ gh_id: 7845525
 author: Nick Peihl
 ---
 
-[dwtkns/gdal-cheat-sheet](star.repo.html_url)
+[dwtkns/gdal-cheat-sheet](https://github.com/dwtkns/gdal-cheat-sheet)
 
 **WRITE CONTENT**
 

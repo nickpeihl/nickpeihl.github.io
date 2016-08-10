@@ -8,7 +8,7 @@ gh_id: 22141388
 author: Nick Peihl
 ---
 
-[yourdeveloper/node-imagemagick](star.repo.html_url)
+[yourdeveloper/node-imagemagick](https://github.com/yourdeveloper/node-imagemagick)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 17029250
 author: Nick Peihl
 ---
 
-[steveoh/generator-dojo-widget](star.repo.html_url)
+[steveoh/generator-dojo-widget](https://github.com/steveoh/generator-dojo-widget)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 12028300
 author: Nick Peihl
 ---
 
-[patriksimek/node-mssql](star.repo.html_url)
+[patriksimek/node-mssql](https://github.com/patriksimek/node-mssql)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 23199592
 author: Nick Peihl
 ---
 
-[benbalter/government-glossary](star.repo.html_url)
+[benbalter/government-glossary](https://github.com/benbalter/government-glossary)
 
 **WRITE CONTENT**
 

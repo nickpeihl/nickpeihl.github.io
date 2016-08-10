@@ -8,7 +8,7 @@ gh_id: 41861984
 author: Nick Peihl
 ---
 
-[mapbox/awesome-vector-tiles](star.repo.html_url)
+[mapbox/awesome-vector-tiles](https://github.com/mapbox/awesome-vector-tiles)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 11625126
 author: Nick Peihl
 ---
 
-[shancarter/ucb-dataviz-fall-2013](star.repo.html_url)
+[shancarter/ucb-dataviz-fall-2013](https://github.com/shancarter/ucb-dataviz-fall-2013)
 
 **WRITE CONTENT**
 

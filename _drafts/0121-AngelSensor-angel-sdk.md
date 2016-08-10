@@ -8,7 +8,7 @@ gh_id: 18098944
 author: Nick Peihl
 ---
 
-[AngelSensor/angel-sdk](star.repo.html_url)
+[AngelSensor/angel-sdk](https://github.com/AngelSensor/angel-sdk)
 
 **WRITE CONTENT**
 

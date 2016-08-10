@@ -8,7 +8,7 @@ gh_id: 6786202
 author: Nick Peihl
 ---
 
-[Esri/citizen-service-request](star.repo.html_url)
+[Esri/citizen-service-request](https://github.com/Esri/citizen-service-request)
 
 **WRITE CONTENT**
 

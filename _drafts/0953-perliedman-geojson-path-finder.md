@@ -8,7 +8,7 @@ gh_id: 57132041
 author: Nick Peihl
 ---
 
-[perliedman/geojson-path-finder](star.repo.html_url)
+[perliedman/geojson-path-finder](https://github.com/perliedman/geojson-path-finder)
 
 **WRITE CONTENT**
 

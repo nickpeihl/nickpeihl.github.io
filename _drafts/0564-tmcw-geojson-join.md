@@ -8,7 +8,7 @@ gh_id: 36702187
 author: Nick Peihl
 ---
 
-[tmcw/geojson-join](star.repo.html_url)
+[tmcw/geojson-join](https://github.com/tmcw/geojson-join)
 
 **WRITE CONTENT**
 

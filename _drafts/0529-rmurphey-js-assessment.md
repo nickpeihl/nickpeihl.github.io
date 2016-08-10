@@ -8,7 +8,7 @@ gh_id: 3995635
 author: Nick Peihl
 ---
 
-[rmurphey/js-assessment](star.repo.html_url)
+[rmurphey/js-assessment](https://github.com/rmurphey/js-assessment)
 
 **WRITE CONTENT**
 

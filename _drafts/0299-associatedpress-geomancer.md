@@ -8,7 +8,7 @@ gh_id: 21957737
 author: Nick Peihl
 ---
 
-[associatedpress/geomancer](star.repo.html_url)
+[associatedpress/geomancer](https://github.com/associatedpress/geomancer)
 
 **WRITE CONTENT**
 

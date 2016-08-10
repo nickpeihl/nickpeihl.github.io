@@ -8,7 +8,7 @@ gh_id: 26531519
 author: Nick Peihl
 ---
 
-[mapillary/OpenSfM](star.repo.html_url)
+[mapillary/OpenSfM](https://github.com/mapillary/OpenSfM)
 
 **WRITE CONTENT**
 

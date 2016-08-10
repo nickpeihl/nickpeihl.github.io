@@ -8,7 +8,7 @@ gh_id: 6180186
 author: Nick Peihl
 ---
 
-[bgrins/devtools-snippets](star.repo.html_url)
+[bgrins/devtools-snippets](https://github.com/bgrins/devtools-snippets)
 
 **WRITE CONTENT**
 

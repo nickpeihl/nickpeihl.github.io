@@ -8,7 +8,7 @@ gh_id: 58074871
 author: Nick Peihl
 ---
 
-[nomosproject/smc](star.repo.html_url)
+[nomosproject/smc](https://github.com/nomosproject/smc)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 46622323
 author: Nick Peihl
 ---
 
-[oneuijs/You-Dont-Need-jQuery](star.repo.html_url)
+[oneuijs/You-Dont-Need-jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery)
 
 **WRITE CONTENT**
 

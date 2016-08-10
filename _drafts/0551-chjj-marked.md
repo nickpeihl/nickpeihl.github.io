@@ -8,7 +8,7 @@ gh_id: 2096579
 author: Nick Peihl
 ---
 
-[chjj/marked](star.repo.html_url)
+[chjj/marked](https://github.com/chjj/marked)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 55267261
 author: Nick Peihl
 ---
 
-[sethvincent/experiment-d3-yo-yo](star.repo.html_url)
+[sethvincent/experiment-d3-yo-yo](https://github.com/sethvincent/experiment-d3-yo-yo)
 
 **WRITE CONTENT**
 

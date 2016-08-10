@@ -8,7 +8,7 @@ gh_id: 402046
 author: Nick Peihl
 ---
 
-[MrRio/jsPDF](star.repo.html_url)
+[MrRio/jsPDF](https://github.com/MrRio/jsPDF)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 16640012
 author: Nick Peihl
 ---
 
-[potree/PotreeConverter](star.repo.html_url)
+[potree/PotreeConverter](https://github.com/potree/PotreeConverter)
 
 **WRITE CONTENT**
 

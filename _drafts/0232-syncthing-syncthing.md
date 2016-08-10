@@ -8,7 +8,7 @@ gh_id: 14712850
 author: Nick Peihl
 ---
 
-[syncthing/syncthing](star.repo.html_url)
+[syncthing/syncthing](https://github.com/syncthing/syncthing)
 
 **WRITE CONTENT**
 

@@ -35,7 +35,7 @@ gh_id: ${star.repo.id}
 author: Nick Peihl
 ---
 
-[${star.repo.full_name}](star.repo.html_url)
+[${star.repo.full_name}](${star.repo.html_url})
 
 **WRITE CONTENT**
 

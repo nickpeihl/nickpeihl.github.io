@@ -8,7 +8,7 @@ gh_id: 7216759
 author: Nick Peihl
 ---
 
-[rvernagus/node-geoservices](star.repo.html_url)
+[rvernagus/node-geoservices](https://github.com/rvernagus/node-geoservices)
 
 **WRITE CONTENT**
 

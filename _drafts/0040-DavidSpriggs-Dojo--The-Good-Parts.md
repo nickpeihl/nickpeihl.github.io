@@ -8,7 +8,7 @@ gh_id: 16739236
 author: Nick Peihl
 ---
 
-[DavidSpriggs/Dojo--The-Good-Parts](star.repo.html_url)
+[DavidSpriggs/Dojo--The-Good-Parts](https://github.com/DavidSpriggs/Dojo--The-Good-Parts)
 
 **WRITE CONTENT**
 

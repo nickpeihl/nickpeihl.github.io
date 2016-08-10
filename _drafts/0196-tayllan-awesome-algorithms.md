@@ -8,7 +8,7 @@ gh_id: 21911597
 author: Nick Peihl
 ---
 
-[tayllan/awesome-algorithms](star.repo.html_url)
+[tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms)
 
 **WRITE CONTENT**
 

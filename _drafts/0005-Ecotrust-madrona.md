@@ -8,7 +8,7 @@ gh_id: 2991596
 author: Nick Peihl
 ---
 
-[Ecotrust/madrona](star.repo.html_url)
+[Ecotrust/madrona](https://github.com/Ecotrust/madrona)
 
 **WRITE CONTENT**
 

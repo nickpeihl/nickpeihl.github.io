@@ -8,7 +8,7 @@ gh_id: 31974346
 author: Nick Peihl
 ---
 
-[mateogianolio/ocr](star.repo.html_url)
+[mateogianolio/ocr](https://github.com/mateogianolio/ocr)
 
 **WRITE CONTENT**
 

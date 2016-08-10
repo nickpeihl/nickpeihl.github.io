@@ -8,7 +8,7 @@ gh_id: 2133437
 author: Nick Peihl
 ---
 
-[bbatsov/projectile](star.repo.html_url)
+[bbatsov/projectile](https://github.com/bbatsov/projectile)
 
 **WRITE CONTENT**
 

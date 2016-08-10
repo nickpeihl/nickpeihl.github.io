@@ -8,7 +8,7 @@ gh_id: 55738791
 author: Nick Peihl
 ---
 
-[mourner/kdbush](star.repo.html_url)
+[mourner/kdbush](https://github.com/mourner/kdbush)
 
 **WRITE CONTENT**
 

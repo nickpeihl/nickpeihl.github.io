@@ -8,7 +8,7 @@ gh_id: 50134753
 author: Nick Peihl
 ---
 
-[nickpeihl/tilelive-download-example](star.repo.html_url)
+[nickpeihl/tilelive-download-example](https://github.com/nickpeihl/tilelive-download-example)
 
 **WRITE CONTENT**
 

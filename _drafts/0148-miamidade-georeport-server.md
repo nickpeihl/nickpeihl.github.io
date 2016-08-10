@@ -8,7 +8,7 @@ gh_id: 2689971
 author: Nick Peihl
 ---
 
-[miamidade/georeport-server](star.repo.html_url)
+[miamidade/georeport-server](https://github.com/miamidade/georeport-server)
 
 **WRITE CONTENT**
 

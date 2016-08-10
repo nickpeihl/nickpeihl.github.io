@@ -8,7 +8,7 @@ gh_id: 13296600
 author: Nick Peihl
 ---
 
-[tyrasd/osmtogeojson](star.repo.html_url)
+[tyrasd/osmtogeojson](https://github.com/tyrasd/osmtogeojson)
 
 **WRITE CONTENT**
 

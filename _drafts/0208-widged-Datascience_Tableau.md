@@ -8,7 +8,7 @@ gh_id: 10881277
 author: Nick Peihl
 ---
 
-[widged/Datascience_Tableau](star.repo.html_url)
+[widged/Datascience_Tableau](https://github.com/widged/Datascience_Tableau)
 
 **WRITE CONTENT**
 

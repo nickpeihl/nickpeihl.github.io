@@ -8,7 +8,7 @@ gh_id: 17603844
 author: Nick Peihl
 ---
 
-[Mashape/mockbin](star.repo.html_url)
+[Mashape/mockbin](https://github.com/Mashape/mockbin)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 30193163
 author: Nick Peihl
 ---
 
-[Telerik-Verified-Plugins/Mapbox](star.repo.html_url)
+[Telerik-Verified-Plugins/Mapbox](https://github.com/Telerik-Verified-Plugins/Mapbox)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 12689343
 author: Nick Peihl
 ---
 
-[msurguy/ladda-bootstrap](star.repo.html_url)
+[msurguy/ladda-bootstrap](https://github.com/msurguy/ladda-bootstrap)
 
 **WRITE CONTENT**
 

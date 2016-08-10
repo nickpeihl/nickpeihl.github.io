@@ -8,7 +8,7 @@ gh_id: 3202717
 author: Nick Peihl
 ---
 
-[nvkelso/geo-how-to](star.repo.html_url)
+[nvkelso/geo-how-to](https://github.com/nvkelso/geo-how-to)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 20367262
 author: Nick Peihl
 ---
 
-[volkhin/RoadTrafficSimulator](star.repo.html_url)
+[volkhin/RoadTrafficSimulator](https://github.com/volkhin/RoadTrafficSimulator)
 
 **WRITE CONTENT**
 

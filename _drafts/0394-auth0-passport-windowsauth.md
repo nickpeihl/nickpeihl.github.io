@@ -8,7 +8,7 @@ gh_id: 8274348
 author: Nick Peihl
 ---
 
-[auth0/passport-windowsauth](star.repo.html_url)
+[auth0/passport-windowsauth](https://github.com/auth0/passport-windowsauth)
 
 **WRITE CONTENT**
 

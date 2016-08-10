@@ -8,7 +8,7 @@ gh_id: 3606738
 author: Nick Peihl
 ---
 
-[AnalyticalGraphicsInc/cesium](star.repo.html_url)
+[AnalyticalGraphicsInc/cesium](https://github.com/AnalyticalGraphicsInc/cesium)
 
 **WRITE CONTENT**
 

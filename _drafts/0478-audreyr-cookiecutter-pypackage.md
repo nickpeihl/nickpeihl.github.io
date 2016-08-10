@@ -8,7 +8,7 @@ gh_id: 11407567
 author: Nick Peihl
 ---
 
-[audreyr/cookiecutter-pypackage](star.repo.html_url)
+[audreyr/cookiecutter-pypackage](https://github.com/audreyr/cookiecutter-pypackage)
 
 **WRITE CONTENT**
 

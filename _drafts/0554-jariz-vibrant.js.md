@@ -8,7 +8,7 @@ gh_id: 36187165
 author: Nick Peihl
 ---
 
-[jariz/vibrant.js](star.repo.html_url)
+[jariz/vibrant.js](https://github.com/jariz/vibrant.js)
 
 **WRITE CONTENT**
 

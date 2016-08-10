@@ -8,7 +8,7 @@ gh_id: 25419858
 author: Nick Peihl
 ---
 
-[LAStools/LAStools](star.repo.html_url)
+[LAStools/LAStools](https://github.com/LAStools/LAStools)
 
 **WRITE CONTENT**
 

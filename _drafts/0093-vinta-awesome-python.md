@@ -8,7 +8,7 @@ gh_id: 21289110
 author: Nick Peihl
 ---
 
-[vinta/awesome-python](star.repo.html_url)
+[vinta/awesome-python](https://github.com/vinta/awesome-python)
 
 **WRITE CONTENT**
 

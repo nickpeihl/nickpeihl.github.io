@@ -8,7 +8,7 @@ gh_id: 29247444
 author: Nick Peihl
 ---
 
-[yaronn/blessed-contrib](star.repo.html_url)
+[yaronn/blessed-contrib](https://github.com/yaronn/blessed-contrib)
 
 **WRITE CONTENT**
 

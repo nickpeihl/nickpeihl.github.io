@@ -8,7 +8,7 @@ gh_id: 4245245
 author: Nick Peihl
 ---
 
-[unitedstates/citation](star.repo.html_url)
+[unitedstates/citation](https://github.com/unitedstates/citation)
 
 **WRITE CONTENT**
 

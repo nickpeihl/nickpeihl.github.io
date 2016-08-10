@@ -8,7 +8,7 @@ gh_id: 12370378
 author: Nick Peihl
 ---
 
-[nationalparkservice/npmap.js](star.repo.html_url)
+[nationalparkservice/npmap.js](https://github.com/nationalparkservice/npmap.js)
 
 **WRITE CONTENT**
 

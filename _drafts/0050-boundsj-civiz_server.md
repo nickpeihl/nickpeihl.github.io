@@ -8,7 +8,7 @@ gh_id: 3885865
 author: Nick Peihl
 ---
 
-[boundsj/civiz_server](star.repo.html_url)
+[boundsj/civiz_server](https://github.com/boundsj/civiz_server)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 24069597
 author: Nick Peihl
 ---
 
-[openvenues/openvenues](star.repo.html_url)
+[openvenues/openvenues](https://github.com/openvenues/openvenues)
 
 **WRITE CONTENT**
 

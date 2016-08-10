@@ -8,7 +8,7 @@ gh_id: 10332822
 author: Nick Peihl
 ---
 
-[kovidgoyal/calibre](star.repo.html_url)
+[kovidgoyal/calibre](https://github.com/kovidgoyal/calibre)
 
 **WRITE CONTENT**
 

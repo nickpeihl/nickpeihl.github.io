@@ -8,7 +8,7 @@ gh_id: 7925078
 author: Nick Peihl
 ---
 
-[biovisualize/d3visualization](star.repo.html_url)
+[biovisualize/d3visualization](https://github.com/biovisualize/d3visualization)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 24518405
 author: Nick Peihl
 ---
 
-[datproject/datscript](star.repo.html_url)
+[datproject/datscript](https://github.com/datproject/datscript)
 
 **WRITE CONTENT**
 

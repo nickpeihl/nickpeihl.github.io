@@ -8,7 +8,7 @@ gh_id: 11533212
 author: Nick Peihl
 ---
 
-[tevko/Resources](star.repo.html_url)
+[tevko/Resources](https://github.com/tevko/Resources)
 
 **WRITE CONTENT**
 

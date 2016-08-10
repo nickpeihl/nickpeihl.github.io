@@ -8,7 +8,7 @@ gh_id: 40416236
 author: Nick Peihl
 ---
 
-[minimaxir/big-list-of-naughty-strings](star.repo.html_url)
+[minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings)
 
 **WRITE CONTENT**
 

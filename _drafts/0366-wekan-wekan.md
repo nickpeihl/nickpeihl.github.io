@@ -8,7 +8,7 @@ gh_id: 16089035
 author: Nick Peihl
 ---
 
-[wekan/wekan](star.repo.html_url)
+[wekan/wekan](https://github.com/wekan/wekan)
 
 **WRITE CONTENT**
 

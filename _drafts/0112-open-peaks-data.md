@@ -8,7 +8,7 @@ gh_id: 18455562
 author: Nick Peihl
 ---
 
-[open-peaks/data](star.repo.html_url)
+[open-peaks/data](https://github.com/open-peaks/data)
 
 **WRITE CONTENT**
 

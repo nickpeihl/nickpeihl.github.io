@@ -8,7 +8,7 @@ gh_id: 20030872
 author: Nick Peihl
 ---
 
-[opendata/How-To](star.repo.html_url)
+[opendata/How-To](https://github.com/opendata/How-To)
 
 **WRITE CONTENT**
 

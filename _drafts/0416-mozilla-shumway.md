@@ -8,7 +8,7 @@ gh_id: 3006455
 author: Nick Peihl
 ---
 
-[mozilla/shumway](star.repo.html_url)
+[mozilla/shumway](https://github.com/mozilla/shumway)
 
 **WRITE CONTENT**
 

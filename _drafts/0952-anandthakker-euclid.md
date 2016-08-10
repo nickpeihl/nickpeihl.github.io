@@ -8,7 +8,7 @@ gh_id: 27503733
 author: Nick Peihl
 ---
 
-[anandthakker/euclid](star.repo.html_url)
+[anandthakker/euclid](https://github.com/anandthakker/euclid)
 
 **WRITE CONTENT**
 

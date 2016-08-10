@@ -8,7 +8,7 @@ gh_id: 4164482
 author: Nick Peihl
 ---
 
-[django/django](star.repo.html_url)
+[django/django](https://github.com/django/django)
 
 **WRITE CONTENT**
 

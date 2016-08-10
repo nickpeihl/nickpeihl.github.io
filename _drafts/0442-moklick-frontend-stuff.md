@@ -8,7 +8,7 @@ gh_id: 24817507
 author: Nick Peihl
 ---
 
-[moklick/frontend-stuff](star.repo.html_url)
+[moklick/frontend-stuff](https://github.com/moklick/frontend-stuff)
 
 **WRITE CONTENT**
 

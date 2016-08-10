@@ -8,7 +8,7 @@ gh_id: 9533251
 author: Nick Peihl
 ---
 
-[nvkelso/color-oracle-java](star.repo.html_url)
+[nvkelso/color-oracle-java](https://github.com/nvkelso/color-oracle-java)
 
 **WRITE CONTENT**
 

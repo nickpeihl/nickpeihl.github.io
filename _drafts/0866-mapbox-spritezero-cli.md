@@ -8,7 +8,7 @@ gh_id: 41808385
 author: Nick Peihl
 ---
 
-[mapbox/spritezero-cli](star.repo.html_url)
+[mapbox/spritezero-cli](https://github.com/mapbox/spritezero-cli)
 
 **WRITE CONTENT**
 

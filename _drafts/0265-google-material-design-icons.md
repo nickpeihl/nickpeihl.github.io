@@ -8,7 +8,7 @@ gh_id: 24953448
 author: Nick Peihl
 ---
 
-[google/material-design-icons](star.repo.html_url)
+[google/material-design-icons](https://github.com/google/material-design-icons)
 
 **WRITE CONTENT**
 

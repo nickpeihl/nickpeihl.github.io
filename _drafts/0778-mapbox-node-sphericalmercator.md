@@ -8,7 +8,7 @@ gh_id: 1947745
 author: Nick Peihl
 ---
 
-[mapbox/node-sphericalmercator](star.repo.html_url)
+[mapbox/node-sphericalmercator](https://github.com/mapbox/node-sphericalmercator)
 
 **WRITE CONTENT**
 

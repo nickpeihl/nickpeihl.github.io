@@ -8,7 +8,7 @@ gh_id: 11726302
 author: Nick Peihl
 ---
 
-[Freeboard/freeboard](star.repo.html_url)
+[Freeboard/freeboard](https://github.com/Freeboard/freeboard)
 
 **WRITE CONTENT**
 

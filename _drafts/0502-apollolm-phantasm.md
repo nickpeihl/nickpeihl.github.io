@@ -8,7 +8,7 @@ gh_id: 11796578
 author: Nick Peihl
 ---
 
-[apollolm/phantasm](star.repo.html_url)
+[apollolm/phantasm](https://github.com/apollolm/phantasm)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 5960825
 author: Nick Peihl
 ---
 
-[rgordon/vesselwatch-info](star.repo.html_url)
+[rgordon/vesselwatch-info](https://github.com/rgordon/vesselwatch-info)
 
 **WRITE CONTENT**
 

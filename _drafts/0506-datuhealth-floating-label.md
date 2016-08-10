@@ -8,7 +8,7 @@ gh_id: 32706657
 author: Nick Peihl
 ---
 
-[datuhealth/floating-label](star.repo.html_url)
+[datuhealth/floating-label](https://github.com/datuhealth/floating-label)
 
 **WRITE CONTENT**
 

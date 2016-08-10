@@ -8,7 +8,7 @@ gh_id: 20299642
 author: Nick Peihl
 ---
 
-[tafsiri/filmstrip](star.repo.html_url)
+[tafsiri/filmstrip](https://github.com/tafsiri/filmstrip)
 
 **WRITE CONTENT**
 

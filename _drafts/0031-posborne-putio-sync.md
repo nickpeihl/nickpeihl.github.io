@@ -8,7 +8,7 @@ gh_id: 15988216
 author: Nick Peihl
 ---
 
-[posborne/putio-sync](star.repo.html_url)
+[posborne/putio-sync](https://github.com/posborne/putio-sync)
 
 **WRITE CONTENT**
 

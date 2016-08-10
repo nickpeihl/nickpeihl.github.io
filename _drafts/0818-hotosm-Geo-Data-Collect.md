@@ -8,7 +8,7 @@ gh_id: 44361648
 author: Nick Peihl
 ---
 
-[hotosm/Geo-Data-Collect](star.repo.html_url)
+[hotosm/Geo-Data-Collect](https://github.com/hotosm/Geo-Data-Collect)
 
 **WRITE CONTENT**
 

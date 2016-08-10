@@ -8,7 +8,7 @@ gh_id: 23994289
 author: Nick Peihl
 ---
 
-[fniessen/org-html-themes](star.repo.html_url)
+[fniessen/org-html-themes](https://github.com/fniessen/org-html-themes)
 
 **WRITE CONTENT**
 

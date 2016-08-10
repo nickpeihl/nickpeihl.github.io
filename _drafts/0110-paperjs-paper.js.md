@@ -8,7 +8,7 @@ gh_id: 1338813
 author: Nick Peihl
 ---
 
-[paperjs/paper.js](star.repo.html_url)
+[paperjs/paper.js](https://github.com/paperjs/paper.js)
 
 **WRITE CONTENT**
 

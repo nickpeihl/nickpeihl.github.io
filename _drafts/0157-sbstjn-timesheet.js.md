@@ -8,7 +8,7 @@ gh_id: 20167283
 author: Nick Peihl
 ---
 
-[sbstjn/timesheet.js](star.repo.html_url)
+[sbstjn/timesheet.js](https://github.com/sbstjn/timesheet.js)
 
 **WRITE CONTENT**
 

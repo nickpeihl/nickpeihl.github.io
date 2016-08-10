@@ -8,7 +8,7 @@ gh_id: 58169665
 author: Nick Peihl
 ---
 
-[mapbox/mbview](star.repo.html_url)
+[mapbox/mbview](https://github.com/mapbox/mbview)
 
 **WRITE CONTENT**
 

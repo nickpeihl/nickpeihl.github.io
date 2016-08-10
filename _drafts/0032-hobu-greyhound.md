@@ -8,7 +8,7 @@ gh_id: 12387751
 author: Nick Peihl
 ---
 
-[hobu/greyhound](star.repo.html_url)
+[hobu/greyhound](https://github.com/hobu/greyhound)
 
 **WRITE CONTENT**
 

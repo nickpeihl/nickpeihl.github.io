@@ -8,7 +8,7 @@ gh_id: 42789965
 author: Nick Peihl
 ---
 
-[wbinnssmith/awesome-promises](star.repo.html_url)
+[wbinnssmith/awesome-promises](https://github.com/wbinnssmith/awesome-promises)
 
 **WRITE CONTENT**
 

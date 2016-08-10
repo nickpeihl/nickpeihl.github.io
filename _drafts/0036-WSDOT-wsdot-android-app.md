@@ -8,7 +8,7 @@ gh_id: 648892
 author: Nick Peihl
 ---
 
-[WSDOT/wsdot-android-app](star.repo.html_url)
+[WSDOT/wsdot-android-app](https://github.com/WSDOT/wsdot-android-app)
 
 **WRITE CONTENT**
 

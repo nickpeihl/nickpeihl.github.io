@@ -8,7 +8,7 @@ gh_id: 8596156
 author: Nick Peihl
 ---
 
-[Quadrus/jugglingdb-mssql](star.repo.html_url)
+[Quadrus/jugglingdb-mssql](https://github.com/Quadrus/jugglingdb-mssql)
 
 **WRITE CONTENT**
 

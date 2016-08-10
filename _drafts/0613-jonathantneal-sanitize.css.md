@@ -8,7 +8,7 @@ gh_id: 6566489
 author: Nick Peihl
 ---
 
-[jonathantneal/sanitize.css](star.repo.html_url)
+[jonathantneal/sanitize.css](https://github.com/jonathantneal/sanitize.css)
 
 **WRITE CONTENT**
 

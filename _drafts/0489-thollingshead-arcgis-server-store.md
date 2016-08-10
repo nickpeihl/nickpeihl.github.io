@@ -8,7 +8,7 @@ gh_id: 25977752
 author: Nick Peihl
 ---
 
-[thollingshead/arcgis-server-store](star.repo.html_url)
+[thollingshead/arcgis-server-store](https://github.com/thollingshead/arcgis-server-store)
 
 **WRITE CONTENT**
 

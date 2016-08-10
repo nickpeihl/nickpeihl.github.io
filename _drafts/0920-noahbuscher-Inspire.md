@@ -8,7 +8,7 @@ gh_id: 12633247
 author: Nick Peihl
 ---
 
-[noahbuscher/Inspire](star.repo.html_url)
+[noahbuscher/Inspire](https://github.com/noahbuscher/Inspire)
 
 **WRITE CONTENT**
 

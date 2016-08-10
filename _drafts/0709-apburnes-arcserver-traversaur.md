@@ -8,7 +8,7 @@ gh_id: 38861268
 author: Nick Peihl
 ---
 
-[apburnes/arcserver-traversaur](star.repo.html_url)
+[apburnes/arcserver-traversaur](https://github.com/apburnes/arcserver-traversaur)
 
 **WRITE CONTENT**
 

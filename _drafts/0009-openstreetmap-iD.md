@@ -8,7 +8,7 @@ gh_id: 4989235
 author: Nick Peihl
 ---
 
-[openstreetmap/iD](star.repo.html_url)
+[openstreetmap/iD](https://github.com/openstreetmap/iD)
 
 **WRITE CONTENT**
 

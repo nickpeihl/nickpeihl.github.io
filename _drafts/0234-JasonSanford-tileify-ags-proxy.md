@@ -8,7 +8,7 @@ gh_id: 25825105
 author: Nick Peihl
 ---
 
-[JasonSanford/tileify-ags-proxy](star.repo.html_url)
+[JasonSanford/tileify-ags-proxy](https://github.com/JasonSanford/tileify-ags-proxy)
 
 **WRITE CONTENT**
 

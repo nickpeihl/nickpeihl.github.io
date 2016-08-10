@@ -8,7 +8,7 @@ gh_id: 27138669
 author: Nick Peihl
 ---
 
-[ondrae/ferguson-grand-jury-transcripts](star.repo.html_url)
+[ondrae/ferguson-grand-jury-transcripts](https://github.com/ondrae/ferguson-grand-jury-transcripts)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 23976871
 author: Nick Peihl
 ---
 
-[SpatialServer/Leaflet.MapboxVectorTile](star.repo.html_url)
+[SpatialServer/Leaflet.MapboxVectorTile](https://github.com/SpatialServer/Leaflet.MapboxVectorTile)
 
 **WRITE CONTENT**
 

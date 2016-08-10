@@ -8,7 +8,7 @@ gh_id: 11751805
 author: Nick Peihl
 ---
 
-[Esri/solutions-geoprocessing-toolbox](star.repo.html_url)
+[Esri/solutions-geoprocessing-toolbox](https://github.com/Esri/solutions-geoprocessing-toolbox)
 
 **WRITE CONTENT**
 

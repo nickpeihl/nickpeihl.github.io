@@ -8,7 +8,7 @@ gh_id: 14106955
 author: Nick Peihl
 ---
 
-[cambecc/earth](star.repo.html_url)
+[cambecc/earth](https://github.com/cambecc/earth)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 34233307
 author: Nick Peihl
 ---
 
-[tessalt/echo-chamber-js](star.repo.html_url)
+[tessalt/echo-chamber-js](https://github.com/tessalt/echo-chamber-js)
 
 **WRITE CONTENT**
 

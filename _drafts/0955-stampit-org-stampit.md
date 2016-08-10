@@ -8,7 +8,7 @@ gh_id: 8124664
 author: Nick Peihl
 ---
 
-[stampit-org/stampit](star.repo.html_url)
+[stampit-org/stampit](https://github.com/stampit-org/stampit)
 
 **WRITE CONTENT**
 

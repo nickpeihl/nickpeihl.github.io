@@ -8,7 +8,7 @@ gh_id: 5812411
 author: Nick Peihl
 ---
 
-[rec/echomesh](star.repo.html_url)
+[rec/echomesh](https://github.com/rec/echomesh)
 
 **WRITE CONTENT**
 

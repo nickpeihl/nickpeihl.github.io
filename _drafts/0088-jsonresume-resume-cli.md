@@ -8,7 +8,7 @@ gh_id: 20849484
 author: Nick Peihl
 ---
 
-[jsonresume/resume-cli](star.repo.html_url)
+[jsonresume/resume-cli](https://github.com/jsonresume/resume-cli)
 
 **WRITE CONTENT**
 

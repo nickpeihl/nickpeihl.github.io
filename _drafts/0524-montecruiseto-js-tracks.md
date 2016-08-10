@@ -8,7 +8,7 @@ gh_id: 27920967
 author: Nick Peihl
 ---
 
-[montecruiseto/js-tracks](star.repo.html_url)
+[montecruiseto/js-tracks](https://github.com/montecruiseto/js-tracks)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 8811275
 author: Nick Peihl
 ---
 
-[lvoogdt/Leaflet.awesome-markers](star.repo.html_url)
+[lvoogdt/Leaflet.awesome-markers](https://github.com/lvoogdt/Leaflet.awesome-markers)
 
 **WRITE CONTENT**
 

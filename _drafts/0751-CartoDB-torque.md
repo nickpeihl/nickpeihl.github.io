@@ -8,7 +8,7 @@ gh_id: 5974058
 author: Nick Peihl
 ---
 
-[CartoDB/torque](star.repo.html_url)
+[CartoDB/torque](https://github.com/CartoDB/torque)
 
 **WRITE CONTENT**
 

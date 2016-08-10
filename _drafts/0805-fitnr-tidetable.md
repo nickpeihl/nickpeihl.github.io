@@ -8,7 +8,7 @@ gh_id: 47349647
 author: Nick Peihl
 ---
 
-[fitnr/tidetable](star.repo.html_url)
+[fitnr/tidetable](https://github.com/fitnr/tidetable)
 
 **WRITE CONTENT**
 

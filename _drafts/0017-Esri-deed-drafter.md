@@ -8,7 +8,7 @@ gh_id: 11821124
 author: Nick Peihl
 ---
 
-[Esri/deed-drafter](star.repo.html_url)
+[Esri/deed-drafter](https://github.com/Esri/deed-drafter)
 
 **WRITE CONTENT**
 

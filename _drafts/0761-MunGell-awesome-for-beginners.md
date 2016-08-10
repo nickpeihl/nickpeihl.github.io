@@ -8,7 +8,7 @@ gh_id: 44882201
 author: Nick Peihl
 ---
 
-[MunGell/awesome-for-beginners](star.repo.html_url)
+[MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)
 
 **WRITE CONTENT**
 

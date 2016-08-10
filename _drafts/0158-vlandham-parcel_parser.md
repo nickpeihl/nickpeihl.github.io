@@ -8,7 +8,7 @@ gh_id: 20167776
 author: Nick Peihl
 ---
 
-[vlandham/parcel_parser](star.repo.html_url)
+[vlandham/parcel_parser](https://github.com/vlandham/parcel_parser)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 15239913
 author: Nick Peihl
 ---
 
-[knu2xs/arcgis-server-user-change-credentials](star.repo.html_url)
+[knu2xs/arcgis-server-user-change-credentials](https://github.com/knu2xs/arcgis-server-user-change-credentials)
 
 **WRITE CONTENT**
 

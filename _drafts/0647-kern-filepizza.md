@@ -8,7 +8,7 @@ gh_id: 31341340
 author: Nick Peihl
 ---
 
-[kern/filepizza](star.repo.html_url)
+[kern/filepizza](https://github.com/kern/filepizza)
 
 **WRITE CONTENT**
 

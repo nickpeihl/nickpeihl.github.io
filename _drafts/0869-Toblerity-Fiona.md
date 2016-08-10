@@ -8,7 +8,7 @@ gh_id: 3080628
 author: Nick Peihl
 ---
 
-[Toblerity/Fiona](star.repo.html_url)
+[Toblerity/Fiona](https://github.com/Toblerity/Fiona)
 
 **WRITE CONTENT**
 

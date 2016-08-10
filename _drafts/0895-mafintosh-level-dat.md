@@ -8,7 +8,7 @@ gh_id: 22296959
 author: Nick Peihl
 ---
 
-[mafintosh/level-dat](star.repo.html_url)
+[mafintosh/level-dat](https://github.com/mafintosh/level-dat)
 
 **WRITE CONTENT**
 

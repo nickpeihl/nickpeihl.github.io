@@ -8,7 +8,7 @@ gh_id: 6148317
 author: Nick Peihl
 ---
 
-[OSGeo/gdal](star.repo.html_url)
+[OSGeo/gdal](https://github.com/OSGeo/gdal)
 
 **WRITE CONTENT**
 

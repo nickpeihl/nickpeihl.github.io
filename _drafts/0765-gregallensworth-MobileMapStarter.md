@@ -8,7 +8,7 @@ gh_id: 7398003
 author: Nick Peihl
 ---
 
-[gregallensworth/MobileMapStarter](star.repo.html_url)
+[gregallensworth/MobileMapStarter](https://github.com/gregallensworth/MobileMapStarter)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 54069267
 author: Nick Peihl
 ---
 
-[aaronpdennis/five-color-map](star.repo.html_url)
+[aaronpdennis/five-color-map](https://github.com/aaronpdennis/five-color-map)
 
 **WRITE CONTENT**
 

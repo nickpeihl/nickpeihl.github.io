@@ -8,7 +8,7 @@ gh_id: 2142470
 author: Nick Peihl
 ---
 
-[mapbox/landspeed.js](star.repo.html_url)
+[mapbox/landspeed.js](https://github.com/mapbox/landspeed.js)
 
 **WRITE CONTENT**
 

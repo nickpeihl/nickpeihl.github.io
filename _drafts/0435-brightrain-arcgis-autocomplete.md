@@ -8,7 +8,7 @@ gh_id: 30469329
 author: Nick Peihl
 ---
 
-[brightrain/arcgis-autocomplete](star.repo.html_url)
+[brightrain/arcgis-autocomplete](https://github.com/brightrain/arcgis-autocomplete)
 
 **WRITE CONTENT**
 

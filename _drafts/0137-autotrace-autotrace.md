@@ -8,7 +8,7 @@ gh_id: 11617405
 author: Nick Peihl
 ---
 
-[autotrace/autotrace](star.repo.html_url)
+[autotrace/autotrace](https://github.com/autotrace/autotrace)
 
 **WRITE CONTENT**
 

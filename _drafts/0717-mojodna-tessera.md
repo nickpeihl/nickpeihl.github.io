@@ -8,7 +8,7 @@ gh_id: 14215357
 author: Nick Peihl
 ---
 
-[mojodna/tessera](star.repo.html_url)
+[mojodna/tessera](https://github.com/mojodna/tessera)
 
 **WRITE CONTENT**
 

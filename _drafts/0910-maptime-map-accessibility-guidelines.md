@@ -8,7 +8,7 @@ gh_id: 31178260
 author: Nick Peihl
 ---
 
-[maptime/map-accessibility-guidelines](star.repo.html_url)
+[maptime/map-accessibility-guidelines](https://github.com/maptime/map-accessibility-guidelines)
 
 **WRITE CONTENT**
 

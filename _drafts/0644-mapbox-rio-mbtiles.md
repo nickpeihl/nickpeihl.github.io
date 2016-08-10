@@ -8,7 +8,7 @@ gh_id: 35243956
 author: Nick Peihl
 ---
 
-[mapbox/rio-mbtiles](star.repo.html_url)
+[mapbox/rio-mbtiles](https://github.com/mapbox/rio-mbtiles)
 
 **WRITE CONTENT**
 

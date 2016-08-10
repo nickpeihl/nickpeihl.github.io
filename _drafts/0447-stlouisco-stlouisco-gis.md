@@ -8,7 +8,7 @@ gh_id: 15557136
 author: Nick Peihl
 ---
 
-[stlouisco/stlouisco-gis](star.repo.html_url)
+[stlouisco/stlouisco-gis](https://github.com/stlouisco/stlouisco-gis)
 
 **WRITE CONTENT**
 

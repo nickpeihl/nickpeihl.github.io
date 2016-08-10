@@ -8,7 +8,7 @@ gh_id: 18912241
 author: Nick Peihl
 ---
 
-[mbtaviz/mbtaviz.github.io](star.repo.html_url)
+[mbtaviz/mbtaviz.github.io](https://github.com/mbtaviz/mbtaviz.github.io)
 
 **WRITE CONTENT**
 

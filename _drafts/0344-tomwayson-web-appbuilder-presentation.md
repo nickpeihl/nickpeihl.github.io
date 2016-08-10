@@ -8,7 +8,7 @@ gh_id: 24974508
 author: Nick Peihl
 ---
 
-[tomwayson/web-appbuilder-presentation](star.repo.html_url)
+[tomwayson/web-appbuilder-presentation](https://github.com/tomwayson/web-appbuilder-presentation)
 
 **WRITE CONTENT**
 

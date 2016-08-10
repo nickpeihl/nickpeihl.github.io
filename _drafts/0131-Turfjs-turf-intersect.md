@@ -8,7 +8,7 @@ gh_id: 20303716
 author: Nick Peihl
 ---
 
-[Turfjs/turf-intersect](star.repo.html_url)
+[Turfjs/turf-intersect](https://github.com/Turfjs/turf-intersect)
 
 **WRITE CONTENT**
 

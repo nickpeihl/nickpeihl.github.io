@@ -8,7 +8,7 @@ gh_id: 14640193
 author: Nick Peihl
 ---
 
-[CellularPrivacy/Android-IMSI-Catcher-Detector](star.repo.html_url)
+[CellularPrivacy/Android-IMSI-Catcher-Detector](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 6327680
 author: Nick Peihl
 ---
 
-[skeeto/skewer-mode](star.repo.html_url)
+[skeeto/skewer-mode](https://github.com/skeeto/skewer-mode)
 
 **WRITE CONTENT**
 

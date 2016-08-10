@@ -8,7 +8,7 @@ gh_id: 26321008
 author: Nick Peihl
 ---
 
-[citronneur/node-rdpjs](star.repo.html_url)
+[citronneur/node-rdpjs](https://github.com/citronneur/node-rdpjs)
 
 **WRITE CONTENT**
 

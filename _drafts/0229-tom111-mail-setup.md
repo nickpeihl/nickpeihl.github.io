@@ -8,7 +8,7 @@ gh_id: 5125129
 author: Nick Peihl
 ---
 
-[tom111/mail-setup](star.repo.html_url)
+[tom111/mail-setup](https://github.com/tom111/mail-setup)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 17087569
 author: Nick Peihl
 ---
 
-[movsim/movsim-js](star.repo.html_url)
+[movsim/movsim-js](https://github.com/movsim/movsim-js)
 
 **WRITE CONTENT**
 

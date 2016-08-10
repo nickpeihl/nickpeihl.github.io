@@ -8,7 +8,7 @@ gh_id: 8295205
 author: Nick Peihl
 ---
 
-[mapbox/mapbox-studio-classic](star.repo.html_url)
+[mapbox/mapbox-studio-classic](https://github.com/mapbox/mapbox-studio-classic)
 
 **WRITE CONTENT**
 

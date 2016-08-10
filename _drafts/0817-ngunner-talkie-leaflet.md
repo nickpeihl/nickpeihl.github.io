@@ -8,7 +8,7 @@ gh_id: 22034950
 author: Nick Peihl
 ---
 
-[ngunner/talkie-leaflet](star.repo.html_url)
+[ngunner/talkie-leaflet](https://github.com/ngunner/talkie-leaflet)
 
 **WRITE CONTENT**
 

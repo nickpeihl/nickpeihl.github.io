@@ -8,7 +8,7 @@ gh_id: 2003641
 author: Nick Peihl
 ---
 
-[swagger-api/swagger-core](star.repo.html_url)
+[swagger-api/swagger-core](https://github.com/swagger-api/swagger-core)
 
 **WRITE CONTENT**
 

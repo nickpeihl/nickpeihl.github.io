@@ -8,7 +8,7 @@ gh_id: 2660382
 author: Nick Peihl
 ---
 
-[Bookworm-project/BookwormDB](star.repo.html_url)
+[Bookworm-project/BookwormDB](https://github.com/Bookworm-project/BookwormDB)
 
 **WRITE CONTENT**
 

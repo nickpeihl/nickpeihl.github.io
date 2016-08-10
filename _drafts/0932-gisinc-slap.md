@@ -8,7 +8,7 @@ gh_id: 56802264
 author: Nick Peihl
 ---
 
-[gisinc/slap](star.repo.html_url)
+[gisinc/slap](https://github.com/gisinc/slap)
 
 **WRITE CONTENT**
 

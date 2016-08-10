@@ -8,7 +8,7 @@ gh_id: 37500717
 author: Nick Peihl
 ---
 
-[albert-decatur/mobile-gis-course](star.repo.html_url)
+[albert-decatur/mobile-gis-course](https://github.com/albert-decatur/mobile-gis-course)
 
 **WRITE CONTENT**
 

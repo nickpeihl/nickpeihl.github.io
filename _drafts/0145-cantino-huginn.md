@@ -8,7 +8,7 @@ gh_id: 8681349
 author: Nick Peihl
 ---
 
-[cantino/huginn](star.repo.html_url)
+[cantino/huginn](https://github.com/cantino/huginn)
 
 **WRITE CONTENT**
 

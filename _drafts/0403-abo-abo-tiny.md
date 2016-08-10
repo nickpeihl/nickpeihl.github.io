@@ -8,7 +8,7 @@ gh_id: 11653326
 author: Nick Peihl
 ---
 
-[abo-abo/tiny](star.repo.html_url)
+[abo-abo/tiny](https://github.com/abo-abo/tiny)
 
 **WRITE CONTENT**
 

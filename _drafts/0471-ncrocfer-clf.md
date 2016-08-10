@@ -8,7 +8,7 @@ gh_id: 31287485
 author: Nick Peihl
 ---
 
-[ncrocfer/clf](star.repo.html_url)
+[ncrocfer/clf](https://github.com/ncrocfer/clf)
 
 **WRITE CONTENT**
 

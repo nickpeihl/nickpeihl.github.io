@@ -8,7 +8,7 @@ gh_id: 1800198
 author: Nick Peihl
 ---
 
-[rwaldron/idiomatic.js](star.repo.html_url)
+[rwaldron/idiomatic.js](https://github.com/rwaldron/idiomatic.js)
 
 **WRITE CONTENT**
 

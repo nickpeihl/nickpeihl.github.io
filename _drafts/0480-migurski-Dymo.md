@@ -8,7 +8,7 @@ gh_id: 2206112
 author: Nick Peihl
 ---
 
-[migurski/Dymo](star.repo.html_url)
+[migurski/Dymo](https://github.com/migurski/Dymo)
 
 **WRITE CONTENT**
 

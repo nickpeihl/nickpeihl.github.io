@@ -8,7 +8,7 @@ gh_id: 18573137
 author: Nick Peihl
 ---
 
-[sghall/threejs-maps](star.repo.html_url)
+[sghall/threejs-maps](https://github.com/sghall/threejs-maps)
 
 **WRITE CONTENT**
 

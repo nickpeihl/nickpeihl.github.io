@@ -8,7 +8,7 @@ gh_id: 9061877
 author: Nick Peihl
 ---
 
-[whatcomtrans/publicwtadata](star.repo.html_url)
+[whatcomtrans/publicwtadata](https://github.com/whatcomtrans/publicwtadata)
 
 **WRITE CONTENT**
 

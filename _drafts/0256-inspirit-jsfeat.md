@@ -8,7 +8,7 @@ gh_id: 6596067
 author: Nick Peihl
 ---
 
-[inspirit/jsfeat](star.repo.html_url)
+[inspirit/jsfeat](https://github.com/inspirit/jsfeat)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 487492
 author: Nick Peihl
 ---
 
-[mysociety/fixmystreet](star.repo.html_url)
+[mysociety/fixmystreet](https://github.com/mysociety/fixmystreet)
 
 **WRITE CONTENT**
 

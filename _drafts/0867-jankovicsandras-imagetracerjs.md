@@ -8,7 +8,7 @@ gh_id: 36670472
 author: Nick Peihl
 ---
 
-[jankovicsandras/imagetracerjs](star.repo.html_url)
+[jankovicsandras/imagetracerjs](https://github.com/jankovicsandras/imagetracerjs)
 
 **WRITE CONTENT**
 

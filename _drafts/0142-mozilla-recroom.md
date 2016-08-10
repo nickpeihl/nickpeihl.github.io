@@ -8,7 +8,7 @@ gh_id: 17685412
 author: Nick Peihl
 ---
 
-[mozilla/recroom](star.repo.html_url)
+[mozilla/recroom](https://github.com/mozilla/recroom)
 
 **WRITE CONTENT**
 

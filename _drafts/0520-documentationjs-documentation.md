@@ -8,7 +8,7 @@ gh_id: 31936600
 author: Nick Peihl
 ---
 
-[documentationjs/documentation](star.repo.html_url)
+[documentationjs/documentation](https://github.com/documentationjs/documentation)
 
 **WRITE CONTENT**
 

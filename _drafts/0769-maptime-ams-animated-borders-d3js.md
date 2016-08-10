@@ -8,7 +8,7 @@ gh_id: 30911883
 author: Nick Peihl
 ---
 
-[maptime-ams/animated-borders-d3js](star.repo.html_url)
+[maptime-ams/animated-borders-d3js](https://github.com/maptime-ams/animated-borders-d3js)
 
 **WRITE CONTENT**
 

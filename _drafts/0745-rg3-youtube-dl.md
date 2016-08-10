@@ -8,7 +8,7 @@ gh_id: 1039520
 author: Nick Peihl
 ---
 
-[rg3/youtube-dl](star.repo.html_url)
+[rg3/youtube-dl](https://github.com/rg3/youtube-dl)
 
 **WRITE CONTENT**
 

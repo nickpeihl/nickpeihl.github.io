@@ -8,7 +8,7 @@ gh_id: 35466866
 author: Nick Peihl
 ---
 
-[anvaka/pm](star.repo.html_url)
+[anvaka/pm](https://github.com/anvaka/pm)
 
 **WRITE CONTENT**
 

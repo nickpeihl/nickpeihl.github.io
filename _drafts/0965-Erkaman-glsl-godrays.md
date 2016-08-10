@@ -8,7 +8,7 @@ gh_id: 56340851
 author: Nick Peihl
 ---
 
-[Erkaman/glsl-godrays](star.repo.html_url)
+[Erkaman/glsl-godrays](https://github.com/Erkaman/glsl-godrays)
 
 **WRITE CONTENT**
 

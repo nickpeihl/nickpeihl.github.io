@@ -8,7 +8,7 @@ gh_id: 6988020
 author: Nick Peihl
 ---
 
-[SheetJS/js-xlsx](star.repo.html_url)
+[SheetJS/js-xlsx](https://github.com/SheetJS/js-xlsx)
 
 **WRITE CONTENT**
 

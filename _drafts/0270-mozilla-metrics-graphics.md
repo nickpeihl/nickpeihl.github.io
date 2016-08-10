@@ -8,7 +8,7 @@ gh_id: 19353482
 author: Nick Peihl
 ---
 
-[mozilla/metrics-graphics](star.repo.html_url)
+[mozilla/metrics-graphics](https://github.com/mozilla/metrics-graphics)
 
 **WRITE CONTENT**
 

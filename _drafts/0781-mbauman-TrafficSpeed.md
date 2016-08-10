@@ -8,7 +8,7 @@ gh_id: 45579483
 author: Nick Peihl
 ---
 
-[mbauman/TrafficSpeed](star.repo.html_url)
+[mbauman/TrafficSpeed](https://github.com/mbauman/TrafficSpeed)
 
 **WRITE CONTENT**
 

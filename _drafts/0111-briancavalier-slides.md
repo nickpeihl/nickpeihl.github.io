@@ -8,7 +8,7 @@ gh_id: 1316112
 author: Nick Peihl
 ---
 
-[briancavalier/slides](star.repo.html_url)
+[briancavalier/slides](https://github.com/briancavalier/slides)
 
 **WRITE CONTENT**
 

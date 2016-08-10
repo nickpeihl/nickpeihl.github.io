@@ -8,7 +8,7 @@ gh_id: 28699471
 author: Nick Peihl
 ---
 
-[lukasz-madon/awesome-remote-job](star.repo.html_url)
+[lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)
 
 **WRITE CONTENT**
 

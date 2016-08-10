@@ -8,7 +8,7 @@ gh_id: 23933474
 author: Nick Peihl
 ---
 
-[mharnold/spiderosm](star.repo.html_url)
+[mharnold/spiderosm](https://github.com/mharnold/spiderosm)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 42122274
 author: Nick Peihl
 ---
 
-[mapbox/lineclip](star.repo.html_url)
+[mapbox/lineclip](https://github.com/mapbox/lineclip)
 
 **WRITE CONTENT**
 

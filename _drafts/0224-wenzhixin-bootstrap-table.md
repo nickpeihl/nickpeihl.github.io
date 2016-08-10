@@ -8,7 +8,7 @@ gh_id: 12246785
 author: Nick Peihl
 ---
 
-[wenzhixin/bootstrap-table](star.repo.html_url)
+[wenzhixin/bootstrap-table](https://github.com/wenzhixin/bootstrap-table)
 
 **WRITE CONTENT**
 

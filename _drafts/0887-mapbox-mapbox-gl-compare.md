@@ -8,7 +8,7 @@ gh_id: 51624549
 author: Nick Peihl
 ---
 
-[mapbox/mapbox-gl-compare](star.repo.html_url)
+[mapbox/mapbox-gl-compare](https://github.com/mapbox/mapbox-gl-compare)
 
 **WRITE CONTENT**
 

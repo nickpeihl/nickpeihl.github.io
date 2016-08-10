@@ -8,7 +8,7 @@ gh_id: 11290304
 author: Nick Peihl
 ---
 
-[Esri/maps-app-android](star.repo.html_url)
+[Esri/maps-app-android](https://github.com/Esri/maps-app-android)
 
 **WRITE CONTENT**
 

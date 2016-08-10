@@ -8,7 +8,7 @@ gh_id: 4590863
 author: Nick Peihl
 ---
 
-[sunlightlabs/census](star.repo.html_url)
+[sunlightlabs/census](https://github.com/sunlightlabs/census)
 
 **WRITE CONTENT**
 

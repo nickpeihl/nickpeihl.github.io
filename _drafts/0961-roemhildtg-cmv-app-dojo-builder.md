@@ -8,7 +8,7 @@ gh_id: 56618172
 author: Nick Peihl
 ---
 
-[roemhildtg/cmv-app-dojo-builder](star.repo.html_url)
+[roemhildtg/cmv-app-dojo-builder](https://github.com/roemhildtg/cmv-app-dojo-builder)
 
 **WRITE CONTENT**
 

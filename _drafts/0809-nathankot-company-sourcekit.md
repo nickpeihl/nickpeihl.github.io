@@ -8,7 +8,7 @@ gh_id: 43520597
 author: Nick Peihl
 ---
 
-[nathankot/company-sourcekit](star.repo.html_url)
+[nathankot/company-sourcekit](https://github.com/nathankot/company-sourcekit)
 
 **WRITE CONTENT**
 

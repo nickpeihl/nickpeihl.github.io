@@ -8,7 +8,7 @@ gh_id: 46638777
 author: Nick Peihl
 ---
 
-[karissa/dat-menubar](star.repo.html_url)
+[karissa/dat-menubar](https://github.com/karissa/dat-menubar)
 
 **WRITE CONTENT**
 

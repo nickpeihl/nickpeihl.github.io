@@ -8,7 +8,7 @@ gh_id: 9416850
 author: Nick Peihl
 ---
 
-[vesse/passport-ldapauth](star.repo.html_url)
+[vesse/passport-ldapauth](https://github.com/vesse/passport-ldapauth)
 
 **WRITE CONTENT**
 

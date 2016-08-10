@@ -8,7 +8,7 @@ gh_id: 49673752
 author: Nick Peihl
 ---
 
-[mapbox/x-files](star.repo.html_url)
+[mapbox/x-files](https://github.com/mapbox/x-files)
 
 **WRITE CONTENT**
 

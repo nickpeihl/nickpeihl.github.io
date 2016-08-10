@@ -8,7 +8,7 @@ gh_id: 14030417
 author: Nick Peihl
 ---
 
-[Esri/landscape-modeler-js](star.repo.html_url)
+[Esri/landscape-modeler-js](https://github.com/Esri/landscape-modeler-js)
 
 **WRITE CONTENT**
 

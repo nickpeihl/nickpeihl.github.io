@@ -8,7 +8,7 @@ gh_id: 3072048
 author: Nick Peihl
 ---
 
-[Esri/map-gallery-template-js](star.repo.html_url)
+[Esri/map-gallery-template-js](https://github.com/Esri/map-gallery-template-js)
 
 **WRITE CONTENT**
 

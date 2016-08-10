@@ -8,7 +8,7 @@ gh_id: 26689598
 author: Nick Peihl
 ---
 
-[prakhar1989/awesome-courses](star.repo.html_url)
+[prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses)
 
 **WRITE CONTENT**
 

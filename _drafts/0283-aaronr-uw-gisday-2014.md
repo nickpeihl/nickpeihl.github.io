@@ -8,7 +8,7 @@ gh_id: 26792500
 author: Nick Peihl
 ---
 
-[aaronr/uw-gisday-2014](star.repo.html_url)
+[aaronr/uw-gisday-2014](https://github.com/aaronr/uw-gisday-2014)
 
 **WRITE CONTENT**
 

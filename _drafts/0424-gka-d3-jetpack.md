@@ -8,7 +8,7 @@ gh_id: 30724539
 author: Nick Peihl
 ---
 
-[gka/d3-jetpack](star.repo.html_url)
+[gka/d3-jetpack](https://github.com/gka/d3-jetpack)
 
 **WRITE CONTENT**
 

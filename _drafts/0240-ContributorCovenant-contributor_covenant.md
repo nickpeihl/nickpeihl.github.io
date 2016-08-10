@@ -8,7 +8,7 @@ gh_id: 16364647
 author: Nick Peihl
 ---
 
-[ContributorCovenant/contributor_covenant](star.repo.html_url)
+[ContributorCovenant/contributor_covenant](https://github.com/ContributorCovenant/contributor_covenant)
 
 **WRITE CONTENT**
 

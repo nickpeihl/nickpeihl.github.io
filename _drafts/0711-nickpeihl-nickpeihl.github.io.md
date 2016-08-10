@@ -8,7 +8,7 @@ gh_id: 33832516
 author: Nick Peihl
 ---
 
-[nickpeihl/nickpeihl.github.io](star.repo.html_url)
+[nickpeihl/nickpeihl.github.io](https://github.com/nickpeihl/nickpeihl.github.io)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 39311986
 author: Nick Peihl
 ---
 
-[arnicas/d3-faq](star.repo.html_url)
+[arnicas/d3-faq](https://github.com/arnicas/d3-faq)
 
 **WRITE CONTENT**
 

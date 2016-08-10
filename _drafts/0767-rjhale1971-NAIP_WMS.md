@@ -8,7 +8,7 @@ gh_id: 20359655
 author: Nick Peihl
 ---
 
-[rjhale1971/NAIP_WMS](star.repo.html_url)
+[rjhale1971/NAIP_WMS](https://github.com/rjhale1971/NAIP_WMS)
 
 **WRITE CONTENT**
 

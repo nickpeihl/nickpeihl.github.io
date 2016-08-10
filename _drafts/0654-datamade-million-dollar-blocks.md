@@ -8,7 +8,7 @@ gh_id: 31087716
 author: Nick Peihl
 ---
 
-[datamade/million-dollar-blocks](star.repo.html_url)
+[datamade/million-dollar-blocks](https://github.com/datamade/million-dollar-blocks)
 
 **WRITE CONTENT**
 

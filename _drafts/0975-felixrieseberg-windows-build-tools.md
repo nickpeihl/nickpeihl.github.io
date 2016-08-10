@@ -8,7 +8,7 @@ gh_id: 60933261
 author: Nick Peihl
 ---
 
-[felixrieseberg/windows-build-tools](star.repo.html_url)
+[felixrieseberg/windows-build-tools](https://github.com/felixrieseberg/windows-build-tools)
 
 **WRITE CONTENT**
 

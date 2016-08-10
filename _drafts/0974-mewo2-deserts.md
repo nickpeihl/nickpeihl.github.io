@@ -8,7 +8,7 @@ gh_id: 47206993
 author: Nick Peihl
 ---
 
-[mewo2/deserts](star.repo.html_url)
+[mewo2/deserts](https://github.com/mewo2/deserts)
 
 **WRITE CONTENT**
 

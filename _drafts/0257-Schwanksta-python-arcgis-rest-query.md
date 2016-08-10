@@ -8,7 +8,7 @@ gh_id: 26341898
 author: Nick Peihl
 ---
 
-[Schwanksta/python-arcgis-rest-query](star.repo.html_url)
+[Schwanksta/python-arcgis-rest-query](https://github.com/Schwanksta/python-arcgis-rest-query)
 
 **WRITE CONTENT**
 

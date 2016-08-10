@@ -8,7 +8,7 @@ gh_id: 24957996
 author: Nick Peihl
 ---
 
-[alanjames1987/Node.js-Best-Practices](star.repo.html_url)
+[alanjames1987/Node.js-Best-Practices](https://github.com/alanjames1987/Node.js-Best-Practices)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 38141830
 author: Nick Peihl
 ---
 
-[substack/hyperlog-index](star.repo.html_url)
+[substack/hyperlog-index](https://github.com/substack/hyperlog-index)
 
 **WRITE CONTENT**
 

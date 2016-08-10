@@ -8,7 +8,7 @@ gh_id: 56320775
 author: Nick Peihl
 ---
 
-[mapbox/cheap-ruler](star.repo.html_url)
+[mapbox/cheap-ruler](https://github.com/mapbox/cheap-ruler)
 
 **WRITE CONTENT**
 

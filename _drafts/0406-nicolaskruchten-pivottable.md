@@ -8,7 +8,7 @@ gh_id: 10924145
 author: Nick Peihl
 ---
 
-[nicolaskruchten/pivottable](star.repo.html_url)
+[nicolaskruchten/pivottable](https://github.com/nicolaskruchten/pivottable)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 31718389
 author: Nick Peihl
 ---
 
-[cpvrlab/ImagePlay](star.repo.html_url)
+[cpvrlab/ImagePlay](https://github.com/cpvrlab/ImagePlay)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 32764787
 author: Nick Peihl
 ---
 
-[openterrain/openterrain](star.repo.html_url)
+[openterrain/openterrain](https://github.com/openterrain/openterrain)
 
 **WRITE CONTENT**
 

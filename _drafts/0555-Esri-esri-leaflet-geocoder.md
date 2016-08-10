@@ -8,7 +8,7 @@ gh_id: 14119537
 author: Nick Peihl
 ---
 
-[Esri/esri-leaflet-geocoder](star.repo.html_url)
+[Esri/esri-leaflet-geocoder](https://github.com/Esri/esri-leaflet-geocoder)
 
 **WRITE CONTENT**
 

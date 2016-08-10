@@ -8,7 +8,7 @@ gh_id: 28108305
 author: Nick Peihl
 ---
 
-[smartercleanup/platform](star.repo.html_url)
+[smartercleanup/platform](https://github.com/smartercleanup/platform)
 
 **WRITE CONTENT**
 

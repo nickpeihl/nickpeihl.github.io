@@ -8,7 +8,7 @@ gh_id: 47434654
 author: Nick Peihl
 ---
 
-[NYPL-publicdomain/fifth-avenue](star.repo.html_url)
+[NYPL-publicdomain/fifth-avenue](https://github.com/NYPL-publicdomain/fifth-avenue)
 
 **WRITE CONTENT**
 

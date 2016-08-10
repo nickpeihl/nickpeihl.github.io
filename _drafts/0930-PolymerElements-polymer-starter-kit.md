@@ -8,7 +8,7 @@ gh_id: 34105868
 author: Nick Peihl
 ---
 
-[PolymerElements/polymer-starter-kit](star.repo.html_url)
+[PolymerElements/polymer-starter-kit](https://github.com/PolymerElements/polymer-starter-kit)
 
 **WRITE CONTENT**
 

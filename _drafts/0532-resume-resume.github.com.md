@@ -8,7 +8,7 @@ gh_id: 1334369
 author: Nick Peihl
 ---
 
-[resume/resume.github.com](star.repo.html_url)
+[resume/resume.github.com](https://github.com/resume/resume.github.com)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 24649388
 author: Nick Peihl
 ---
 
-[cazala/synaptic](star.repo.html_url)
+[cazala/synaptic](https://github.com/cazala/synaptic)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 14148981
 author: Nick Peihl
 ---
 
-[wavded/ogr2ogr](star.repo.html_url)
+[wavded/ogr2ogr](https://github.com/wavded/ogr2ogr)
 
 **WRITE CONTENT**
 

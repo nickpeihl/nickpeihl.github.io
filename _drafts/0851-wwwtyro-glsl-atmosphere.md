@@ -8,7 +8,7 @@ gh_id: 49391597
 author: Nick Peihl
 ---
 
-[wwwtyro/glsl-atmosphere](star.repo.html_url)
+[wwwtyro/glsl-atmosphere](https://github.com/wwwtyro/glsl-atmosphere)
 
 **WRITE CONTENT**
 

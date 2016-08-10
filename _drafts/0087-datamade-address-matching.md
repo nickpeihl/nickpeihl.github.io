@@ -8,7 +8,7 @@ gh_id: 16925188
 author: Nick Peihl
 ---
 
-[datamade/address-matching](star.repo.html_url)
+[datamade/address-matching](https://github.com/datamade/address-matching)
 
 **WRITE CONTENT**
 

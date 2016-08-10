@@ -8,7 +8,7 @@ gh_id: 39469936
 author: Nick Peihl
 ---
 
-[transitland/feed-registry](star.repo.html_url)
+[transitland/feed-registry](https://github.com/transitland/feed-registry)
 
 **WRITE CONTENT**
 

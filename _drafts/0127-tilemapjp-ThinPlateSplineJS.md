@@ -8,7 +8,7 @@ gh_id: 8289746
 author: Nick Peihl
 ---
 
-[tilemapjp/ThinPlateSplineJS](star.repo.html_url)
+[tilemapjp/ThinPlateSplineJS](https://github.com/tilemapjp/ThinPlateSplineJS)
 
 **WRITE CONTENT**
 

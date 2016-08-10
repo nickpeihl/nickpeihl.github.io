@@ -8,7 +8,7 @@ gh_id: 33088032
 author: Nick Peihl
 ---
 
-[agis-/git-style-guide](star.repo.html_url)
+[agis-/git-style-guide](https://github.com/agis-/git-style-guide)
 
 **WRITE CONTENT**
 

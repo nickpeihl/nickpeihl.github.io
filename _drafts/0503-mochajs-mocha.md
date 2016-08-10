@@ -8,7 +8,7 @@ gh_id: 1451352
 author: Nick Peihl
 ---
 
-[mochajs/mocha](star.repo.html_url)
+[mochajs/mocha](https://github.com/mochajs/mocha)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 1523334
 author: Nick Peihl
 ---
 
-[joshwnj/json-mode](star.repo.html_url)
+[joshwnj/json-mode](https://github.com/joshwnj/json-mode)
 
 **WRITE CONTENT**
 

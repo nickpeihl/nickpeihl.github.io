@@ -8,7 +8,7 @@ gh_id: 37883354
 author: Nick Peihl
 ---
 
-[mapbox/rio-mucho](star.repo.html_url)
+[mapbox/rio-mucho](https://github.com/mapbox/rio-mucho)
 
 **WRITE CONTENT**
 

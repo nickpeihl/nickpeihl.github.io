@@ -8,7 +8,7 @@ gh_id: 23940685
 author: Nick Peihl
 ---
 
-[jden/node-worldfile](star.repo.html_url)
+[jden/node-worldfile](https://github.com/jden/node-worldfile)
 
 **WRITE CONTENT**
 

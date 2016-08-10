@@ -8,7 +8,7 @@ gh_id: 5937287
 author: Nick Peihl
 ---
 
-[ehynds/grunt-remove-logging](star.repo.html_url)
+[ehynds/grunt-remove-logging](https://github.com/ehynds/grunt-remove-logging)
 
 **WRITE CONTENT**
 

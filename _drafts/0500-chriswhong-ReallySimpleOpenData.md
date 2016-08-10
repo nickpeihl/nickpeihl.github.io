@@ -8,7 +8,7 @@ gh_id: 32489670
 author: Nick Peihl
 ---
 
-[chriswhong/ReallySimpleOpenData](star.repo.html_url)
+[chriswhong/ReallySimpleOpenData](https://github.com/chriswhong/ReallySimpleOpenData)
 
 **WRITE CONTENT**
 

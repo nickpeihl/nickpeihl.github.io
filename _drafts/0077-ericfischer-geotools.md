@@ -8,7 +8,7 @@ gh_id: 8526002
 author: Nick Peihl
 ---
 
-[ericfischer/geotools](star.repo.html_url)
+[ericfischer/geotools](https://github.com/ericfischer/geotools)
 
 **WRITE CONTENT**
 

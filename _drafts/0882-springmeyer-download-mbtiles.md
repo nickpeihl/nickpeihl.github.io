@@ -8,7 +8,7 @@ gh_id: 52054554
 author: Nick Peihl
 ---
 
-[springmeyer/download-mbtiles](star.repo.html_url)
+[springmeyer/download-mbtiles](https://github.com/springmeyer/download-mbtiles)
 
 **WRITE CONTENT**
 

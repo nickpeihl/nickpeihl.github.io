@@ -8,7 +8,7 @@ gh_id: 62729561
 author: Nick Peihl
 ---
 
-[YerkoPalma/awesome-choo](star.repo.html_url)
+[YerkoPalma/awesome-choo](https://github.com/YerkoPalma/awesome-choo)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 29268051
 author: Nick Peihl
 ---
 
-[google/material-design-lite](star.repo.html_url)
+[google/material-design-lite](https://github.com/google/material-design-lite)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 21050788
 author: Nick Peihl
 ---
 
-[tholman/intense-images](star.repo.html_url)
+[tholman/intense-images](https://github.com/tholman/intense-images)
 
 **WRITE CONTENT**
 

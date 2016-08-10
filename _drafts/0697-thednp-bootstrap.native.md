@@ -8,7 +8,7 @@ gh_id: 31670267
 author: Nick Peihl
 ---
 
-[thednp/bootstrap.native](star.repo.html_url)
+[thednp/bootstrap.native](https://github.com/thednp/bootstrap.native)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 34921511
 author: Nick Peihl
 ---
 
-[arkency/reactjs_koans](star.repo.html_url)
+[arkency/reactjs_koans](https://github.com/arkency/reactjs_koans)
 
 **WRITE CONTENT**
 

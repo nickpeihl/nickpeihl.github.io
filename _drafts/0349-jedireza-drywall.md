@@ -8,7 +8,7 @@ gh_id: 7268697
 author: Nick Peihl
 ---
 
-[jedireza/drywall](star.repo.html_url)
+[jedireza/drywall](https://github.com/jedireza/drywall)
 
 **WRITE CONTENT**
 

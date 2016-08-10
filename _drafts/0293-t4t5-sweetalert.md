@@ -8,7 +8,7 @@ gh_id: 24635156
 author: Nick Peihl
 ---
 
-[t4t5/sweetalert](star.repo.html_url)
+[t4t5/sweetalert](https://github.com/t4t5/sweetalert)
 
 **WRITE CONTENT**
 

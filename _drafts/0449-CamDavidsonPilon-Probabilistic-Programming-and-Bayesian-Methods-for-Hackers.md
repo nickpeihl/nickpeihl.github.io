@@ -8,7 +8,7 @@ gh_id: 7607075
 author: Nick Peihl
 ---
 
-[CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](star.repo.html_url)
+[CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
 
 **WRITE CONTENT**
 

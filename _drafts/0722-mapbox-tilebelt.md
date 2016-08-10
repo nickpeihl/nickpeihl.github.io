@@ -8,7 +8,7 @@ gh_id: 22958306
 author: Nick Peihl
 ---
 
-[mapbox/tilebelt](star.repo.html_url)
+[mapbox/tilebelt](https://github.com/mapbox/tilebelt)
 
 **WRITE CONTENT**
 

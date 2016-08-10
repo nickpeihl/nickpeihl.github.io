@@ -8,7 +8,7 @@ gh_id: 29792084
 author: Nick Peihl
 ---
 
-[bitlbee/bitlbee](star.repo.html_url)
+[bitlbee/bitlbee](https://github.com/bitlbee/bitlbee)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 5226385
 author: Nick Peihl
 ---
 
-[aparshin/leaflet-boundary-canvas](star.repo.html_url)
+[aparshin/leaflet-boundary-canvas](https://github.com/aparshin/leaflet-boundary-canvas)
 
 **WRITE CONTENT**
 

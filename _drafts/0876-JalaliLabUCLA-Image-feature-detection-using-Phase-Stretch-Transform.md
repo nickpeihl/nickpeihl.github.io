@@ -8,7 +8,7 @@ gh_id: 51421127
 author: Nick Peihl
 ---
 
-[JalaliLabUCLA/Image-feature-detection-using-Phase-Stretch-Transform](star.repo.html_url)
+[JalaliLabUCLA/Image-feature-detection-using-Phase-Stretch-Transform](https://github.com/JalaliLabUCLA/Image-feature-detection-using-Phase-Stretch-Transform)
 
 **WRITE CONTENT**
 

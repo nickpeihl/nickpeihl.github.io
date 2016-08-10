@@ -8,7 +8,7 @@ gh_id: 2214953
 author: Nick Peihl
 ---
 
-[fgnass/spin.js](star.repo.html_url)
+[fgnass/spin.js](https://github.com/fgnass/spin.js)
 
 **WRITE CONTENT**
 

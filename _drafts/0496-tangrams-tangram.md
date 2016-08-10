@@ -8,7 +8,7 @@ gh_id: 13203894
 author: Nick Peihl
 ---
 
-[tangrams/tangram](star.repo.html_url)
+[tangrams/tangram](https://github.com/tangrams/tangram)
 
 **WRITE CONTENT**
 

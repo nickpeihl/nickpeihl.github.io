@@ -8,7 +8,7 @@ gh_id: 37415878
 author: Nick Peihl
 ---
 
-[matteofigus/awesome-speaking](star.repo.html_url)
+[matteofigus/awesome-speaking](https://github.com/matteofigus/awesome-speaking)
 
 **WRITE CONTENT**
 

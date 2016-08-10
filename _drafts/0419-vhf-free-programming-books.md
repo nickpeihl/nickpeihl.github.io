@@ -8,7 +8,7 @@ gh_id: 13491895
 author: Nick Peihl
 ---
 
-[vhf/free-programming-books](star.repo.html_url)
+[vhf/free-programming-books](https://github.com/vhf/free-programming-books)
 
 **WRITE CONTENT**
 

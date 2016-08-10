@@ -8,7 +8,7 @@ gh_id: 37241586
 author: Nick Peihl
 ---
 
-[mysamai/mysam](star.repo.html_url)
+[mysamai/mysam](https://github.com/mysamai/mysam)
 
 **WRITE CONTENT**
 

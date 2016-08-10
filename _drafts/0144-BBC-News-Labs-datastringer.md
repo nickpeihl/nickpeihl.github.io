@@ -8,7 +8,7 @@ gh_id: 22220349
 author: Nick Peihl
 ---
 
-[BBC-News-Labs/datastringer](star.repo.html_url)
+[BBC-News-Labs/datastringer](https://github.com/BBC-News-Labs/datastringer)
 
 **WRITE CONTENT**
 

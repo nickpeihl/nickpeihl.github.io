@@ -8,7 +8,7 @@ gh_id: 23067234
 author: Nick Peihl
 ---
 
-[geoworks/arcgis-rest-client](star.repo.html_url)
+[geoworks/arcgis-rest-client](https://github.com/geoworks/arcgis-rest-client)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 3139032
 author: Nick Peihl
 ---
 
-[mousebird/WhirlyGlobe](star.repo.html_url)
+[mousebird/WhirlyGlobe](https://github.com/mousebird/WhirlyGlobe)
 
 **WRITE CONTENT**
 

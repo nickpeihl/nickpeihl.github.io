@@ -8,7 +8,7 @@ gh_id: 14235657
 author: Nick Peihl
 ---
 
-[north/north](star.repo.html_url)
+[north/north](https://github.com/north/north)
 
 **WRITE CONTENT**
 

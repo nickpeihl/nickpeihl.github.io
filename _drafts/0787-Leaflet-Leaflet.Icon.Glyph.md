@@ -8,7 +8,7 @@ gh_id: 46565867
 author: Nick Peihl
 ---
 
-[Leaflet/Leaflet.Icon.Glyph](star.repo.html_url)
+[Leaflet/Leaflet.Icon.Glyph](https://github.com/Leaflet/Leaflet.Icon.Glyph)
 
 **WRITE CONTENT**
 

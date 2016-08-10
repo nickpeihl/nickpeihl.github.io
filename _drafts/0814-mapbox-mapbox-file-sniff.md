@@ -8,7 +8,7 @@ gh_id: 25011147
 author: Nick Peihl
 ---
 
-[mapbox/mapbox-file-sniff](star.repo.html_url)
+[mapbox/mapbox-file-sniff](https://github.com/mapbox/mapbox-file-sniff)
 
 **WRITE CONTENT**
 

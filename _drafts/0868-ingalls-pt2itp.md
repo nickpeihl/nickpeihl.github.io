@@ -8,7 +8,7 @@ gh_id: 43163057
 author: Nick Peihl
 ---
 
-[ingalls/pt2itp](star.repo.html_url)
+[ingalls/pt2itp](https://github.com/ingalls/pt2itp)
 
 **WRITE CONTENT**
 

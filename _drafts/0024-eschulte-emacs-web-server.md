@@ -8,7 +8,7 @@ gh_id: 15304915
 author: Nick Peihl
 ---
 
-[eschulte/emacs-web-server](star.repo.html_url)
+[eschulte/emacs-web-server](https://github.com/eschulte/emacs-web-server)
 
 **WRITE CONTENT**
 

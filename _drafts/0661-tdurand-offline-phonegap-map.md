@@ -8,7 +8,7 @@ gh_id: 10307758
 author: Nick Peihl
 ---
 
-[tdurand/offline-phonegap-map](star.repo.html_url)
+[tdurand/offline-phonegap-map](https://github.com/tdurand/offline-phonegap-map)
 
 **WRITE CONTENT**
 

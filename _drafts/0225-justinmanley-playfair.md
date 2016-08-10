@@ -8,7 +8,7 @@ gh_id: 22698936
 author: Nick Peihl
 ---
 
-[justinmanley/playfair](star.repo.html_url)
+[justinmanley/playfair](https://github.com/justinmanley/playfair)
 
 **WRITE CONTENT**
 

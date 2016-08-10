@@ -8,7 +8,7 @@ gh_id: 23218282
 author: Nick Peihl
 ---
 
-[stayradiated/colr](star.repo.html_url)
+[stayradiated/colr](https://github.com/stayradiated/colr)
 
 **WRITE CONTENT**
 

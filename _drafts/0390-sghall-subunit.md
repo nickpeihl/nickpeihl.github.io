@@ -8,7 +8,7 @@ gh_id: 27650698
 author: Nick Peihl
 ---
 
-[sghall/subunit](star.repo.html_url)
+[sghall/subunit](https://github.com/sghall/subunit)
 
 **WRITE CONTENT**
 

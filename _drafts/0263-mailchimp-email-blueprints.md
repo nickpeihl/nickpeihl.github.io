@@ -8,7 +8,7 @@ gh_id: 981065
 author: Nick Peihl
 ---
 
-[mailchimp/email-blueprints](star.repo.html_url)
+[mailchimp/email-blueprints](https://github.com/mailchimp/email-blueprints)
 
 **WRITE CONTENT**
 

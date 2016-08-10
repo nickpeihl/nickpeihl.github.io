@@ -8,7 +8,7 @@ gh_id: 33089880
 author: Nick Peihl
 ---
 
-[bcomnes/changelog-init](star.repo.html_url)
+[bcomnes/changelog-init](https://github.com/bcomnes/changelog-init)
 
 **WRITE CONTENT**
 

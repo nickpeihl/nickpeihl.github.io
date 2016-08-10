@@ -8,7 +8,7 @@ gh_id: 4351480
 author: Nick Peihl
 ---
 
-[grantbrown/laspy](star.repo.html_url)
+[grantbrown/laspy](https://github.com/grantbrown/laspy)
 
 **WRITE CONTENT**
 

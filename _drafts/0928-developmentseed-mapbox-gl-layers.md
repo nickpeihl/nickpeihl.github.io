@@ -8,7 +8,7 @@ gh_id: 56195953
 author: Nick Peihl
 ---
 
-[developmentseed/mapbox-gl-layers](star.repo.html_url)
+[developmentseed/mapbox-gl-layers](https://github.com/developmentseed/mapbox-gl-layers)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 23042153
 author: Nick Peihl
 ---
 
-[Wildhoney/Leaflet.FreeDraw](star.repo.html_url)
+[Wildhoney/Leaflet.FreeDraw](https://github.com/Wildhoney/Leaflet.FreeDraw)
 
 **WRITE CONTENT**
 

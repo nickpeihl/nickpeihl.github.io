@@ -8,7 +8,7 @@ gh_id: 22661871
 author: Nick Peihl
 ---
 
-[usds/playbook](star.repo.html_url)
+[usds/playbook](https://github.com/usds/playbook)
 
 **WRITE CONTENT**
 

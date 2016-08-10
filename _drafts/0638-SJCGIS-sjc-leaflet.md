@@ -8,7 +8,7 @@ gh_id: 39163462
 author: Nick Peihl
 ---
 
-[SJCGIS/sjc-leaflet](star.repo.html_url)
+[SJCGIS/sjc-leaflet](https://github.com/SJCGIS/sjc-leaflet)
 
 **WRITE CONTENT**
 

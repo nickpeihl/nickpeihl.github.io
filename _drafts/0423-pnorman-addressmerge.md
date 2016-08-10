@@ -8,7 +8,7 @@ gh_id: 6915730
 author: Nick Peihl
 ---
 
-[pnorman/addressmerge](star.repo.html_url)
+[pnorman/addressmerge](https://github.com/pnorman/addressmerge)
 
 **WRITE CONTENT**
 

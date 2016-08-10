@@ -8,7 +8,7 @@ gh_id: 2747590
 author: Nick Peihl
 ---
 
-[lincolnloop/python-qrcode](star.repo.html_url)
+[lincolnloop/python-qrcode](https://github.com/lincolnloop/python-qrcode)
 
 **WRITE CONTENT**
 

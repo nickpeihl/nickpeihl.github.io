@@ -8,7 +8,7 @@ gh_id: 9417899
 author: Nick Peihl
 ---
 
-[mjwacker/offlinedatacollect](star.repo.html_url)
+[mjwacker/offlinedatacollect](https://github.com/mjwacker/offlinedatacollect)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 11236465
 author: Nick Peihl
 ---
 
-[mejackreed/notify-311](star.repo.html_url)
+[mejackreed/notify-311](https://github.com/mejackreed/notify-311)
 
 **WRITE CONTENT**
 

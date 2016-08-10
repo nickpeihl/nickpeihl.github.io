@@ -8,7 +8,7 @@ gh_id: 65052940
 author: Nick Peihl
 ---
 
-[ungoldman/droptop](star.repo.html_url)
+[ungoldman/droptop](https://github.com/ungoldman/droptop)
 
 **WRITE CONTENT**
 

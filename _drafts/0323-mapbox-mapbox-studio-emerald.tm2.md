@@ -8,7 +8,7 @@ gh_id: 27793997
 author: Nick Peihl
 ---
 
-[mapbox/mapbox-studio-emerald.tm2](star.repo.html_url)
+[mapbox/mapbox-studio-emerald.tm2](https://github.com/mapbox/mapbox-studio-emerald.tm2)
 
 **WRITE CONTENT**
 

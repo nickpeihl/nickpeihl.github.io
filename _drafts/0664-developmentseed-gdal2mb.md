@@ -8,7 +8,7 @@ gh_id: 961110
 author: Nick Peihl
 ---
 
-[developmentseed/gdal2mb](star.repo.html_url)
+[developmentseed/gdal2mb](https://github.com/developmentseed/gdal2mb)
 
 **WRITE CONTENT**
 

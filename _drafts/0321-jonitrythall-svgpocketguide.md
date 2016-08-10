@@ -8,7 +8,7 @@ gh_id: 25868512
 author: Nick Peihl
 ---
 
-[jonitrythall/svgpocketguide](star.repo.html_url)
+[jonitrythall/svgpocketguide](https://github.com/jonitrythall/svgpocketguide)
 
 **WRITE CONTENT**
 

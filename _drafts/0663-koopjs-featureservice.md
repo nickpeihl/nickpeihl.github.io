@@ -8,7 +8,7 @@ gh_id: 39579108
 author: Nick Peihl
 ---
 
-[koopjs/featureservice](star.repo.html_url)
+[koopjs/featureservice](https://github.com/koopjs/featureservice)
 
 **WRITE CONTENT**
 

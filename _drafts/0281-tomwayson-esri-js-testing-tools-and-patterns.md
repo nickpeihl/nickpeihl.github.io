@@ -8,7 +8,7 @@ gh_id: 17493106
 author: Nick Peihl
 ---
 
-[tomwayson/esri-js-testing-tools-and-patterns](star.repo.html_url)
+[tomwayson/esri-js-testing-tools-and-patterns](https://github.com/tomwayson/esri-js-testing-tools-and-patterns)
 
 **WRITE CONTENT**
 

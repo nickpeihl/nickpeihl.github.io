@@ -8,7 +8,7 @@ gh_id: 24650339
 author: Nick Peihl
 ---
 
-[google/physical-web](star.repo.html_url)
+[google/physical-web](https://github.com/google/physical-web)
 
 **WRITE CONTENT**
 

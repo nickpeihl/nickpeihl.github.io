@@ -8,7 +8,7 @@ gh_id: 22116145
 author: Nick Peihl
 ---
 
-[stamen/sm2](star.repo.html_url)
+[stamen/sm2](https://github.com/stamen/sm2)
 
 **WRITE CONTENT**
 

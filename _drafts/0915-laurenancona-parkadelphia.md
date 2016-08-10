@@ -8,7 +8,7 @@ gh_id: 50048425
 author: Nick Peihl
 ---
 
-[laurenancona/parkadelphia](star.repo.html_url)
+[laurenancona/parkadelphia](https://github.com/laurenancona/parkadelphia)
 
 **WRITE CONTENT**
 

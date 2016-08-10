@@ -8,7 +8,7 @@ gh_id: 43172890
 author: Nick Peihl
 ---
 
-[bleege/MapboxGLExample](star.repo.html_url)
+[bleege/MapboxGLExample](https://github.com/bleege/MapboxGLExample)
 
 **WRITE CONTENT**
 

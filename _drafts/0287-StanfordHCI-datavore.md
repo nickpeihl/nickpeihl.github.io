@@ -8,7 +8,7 @@ gh_id: 3702897
 author: Nick Peihl
 ---
 
-[StanfordHCI/datavore](star.repo.html_url)
+[StanfordHCI/datavore](https://github.com/StanfordHCI/datavore)
 
 **WRITE CONTENT**
 

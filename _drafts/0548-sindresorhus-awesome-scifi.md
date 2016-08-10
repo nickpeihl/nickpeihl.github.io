@@ -8,7 +8,7 @@ gh_id: 29582583
 author: Nick Peihl
 ---
 
-[sindresorhus/awesome-scifi](star.repo.html_url)
+[sindresorhus/awesome-scifi](https://github.com/sindresorhus/awesome-scifi)
 
 **WRITE CONTENT**
 

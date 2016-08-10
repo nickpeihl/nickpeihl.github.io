@@ -8,7 +8,7 @@ gh_id: 655492
 author: Nick Peihl
 ---
 
-[magit/magit](star.repo.html_url)
+[magit/magit](https://github.com/magit/magit)
 
 **WRITE CONTENT**
 

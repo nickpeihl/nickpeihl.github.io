@@ -8,7 +8,7 @@ gh_id: 2519670
 author: Nick Peihl
 ---
 
-[1602/jugglingdb](star.repo.html_url)
+[1602/jugglingdb](https://github.com/1602/jugglingdb)
 
 **WRITE CONTENT**
 

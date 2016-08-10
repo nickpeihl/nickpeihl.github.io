@@ -8,7 +8,7 @@ gh_id: 8450794
 author: Nick Peihl
 ---
 
-[trishika/DroidUPnP](star.repo.html_url)
+[trishika/DroidUPnP](https://github.com/trishika/DroidUPnP)
 
 **WRITE CONTENT**
 

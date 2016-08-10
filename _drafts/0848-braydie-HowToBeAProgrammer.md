@@ -8,7 +8,7 @@ gh_id: 49009950
 author: Nick Peihl
 ---
 
-[braydie/HowToBeAProgrammer](star.repo.html_url)
+[braydie/HowToBeAProgrammer](https://github.com/braydie/HowToBeAProgrammer)
 
 **WRITE CONTENT**
 

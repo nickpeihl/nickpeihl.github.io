@@ -8,7 +8,7 @@ gh_id: 6945895
 author: Nick Peihl
 ---
 
-[icagstrout/grunt-imagemagick](star.repo.html_url)
+[icagstrout/grunt-imagemagick](https://github.com/icagstrout/grunt-imagemagick)
 
 **WRITE CONTENT**
 

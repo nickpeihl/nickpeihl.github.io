@@ -8,7 +8,7 @@ gh_id: 43397653
 author: Nick Peihl
 ---
 
-[codeforamerica/awesome-civic](star.repo.html_url)
+[codeforamerica/awesome-civic](https://github.com/codeforamerica/awesome-civic)
 
 **WRITE CONTENT**
 

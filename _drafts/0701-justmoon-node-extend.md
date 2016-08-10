@@ -8,7 +8,7 @@ gh_id: 3967764
 author: Nick Peihl
 ---
 
-[justmoon/node-extend](star.repo.html_url)
+[justmoon/node-extend](https://github.com/justmoon/node-extend)
 
 **WRITE CONTENT**
 

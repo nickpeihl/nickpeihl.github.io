@@ -8,7 +8,7 @@ gh_id: 44150497
 author: Nick Peihl
 ---
 
-[jessicard/remote-jobs](star.repo.html_url)
+[jessicard/remote-jobs](https://github.com/jessicard/remote-jobs)
 
 **WRITE CONTENT**
 

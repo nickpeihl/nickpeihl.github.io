@@ -8,7 +8,7 @@ gh_id: 6613743
 author: Nick Peihl
 ---
 
-[metafizzy/packery](star.repo.html_url)
+[metafizzy/packery](https://github.com/metafizzy/packery)
 
 **WRITE CONTENT**
 

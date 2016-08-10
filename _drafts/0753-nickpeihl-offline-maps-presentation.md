@@ -8,7 +8,7 @@ gh_id: 44510491
 author: Nick Peihl
 ---
 
-[nickpeihl/offline-maps-presentation](star.repo.html_url)
+[nickpeihl/offline-maps-presentation](https://github.com/nickpeihl/offline-maps-presentation)
 
 **WRITE CONTENT**
 

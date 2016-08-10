@@ -8,7 +8,7 @@ gh_id: 9090933
 author: Nick Peihl
 ---
 
-[sandstorm-io/capnproto](star.repo.html_url)
+[sandstorm-io/capnproto](https://github.com/sandstorm-io/capnproto)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 58500946
 author: Nick Peihl
 ---
 
-[staticland/staticland](star.repo.html_url)
+[staticland/staticland](https://github.com/staticland/staticland)
 
 **WRITE CONTENT**
 

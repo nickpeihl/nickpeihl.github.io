@@ -8,7 +8,7 @@ gh_id: 2933212
 author: Nick Peihl
 ---
 
-[kartena/Proj4Leaflet](star.repo.html_url)
+[kartena/Proj4Leaflet](https://github.com/kartena/Proj4Leaflet)
 
 **WRITE CONTENT**
 

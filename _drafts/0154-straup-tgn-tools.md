@@ -8,7 +8,7 @@ gh_id: 23259601
 author: Nick Peihl
 ---
 
-[straup/tgn-tools](star.repo.html_url)
+[straup/tgn-tools](https://github.com/straup/tgn-tools)
 
 **WRITE CONTENT**
 

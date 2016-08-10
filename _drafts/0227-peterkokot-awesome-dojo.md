@@ -8,7 +8,7 @@ gh_id: 25577168
 author: Nick Peihl
 ---
 
-[peterkokot/awesome-dojo](star.repo.html_url)
+[peterkokot/awesome-dojo](https://github.com/peterkokot/awesome-dojo)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 7232126
 author: Nick Peihl
 ---
 
-[Granicus/washingtonleg](star.repo.html_url)
+[Granicus/washingtonleg](https://github.com/Granicus/washingtonleg)
 
 **WRITE CONTENT**
 

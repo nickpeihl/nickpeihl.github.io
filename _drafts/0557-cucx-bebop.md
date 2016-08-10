@@ -8,7 +8,7 @@ gh_id: 27972690
 author: Nick Peihl
 ---
 
-[cucx/bebop](star.repo.html_url)
+[cucx/bebop](https://github.com/cucx/bebop)
 
 **WRITE CONTENT**
 

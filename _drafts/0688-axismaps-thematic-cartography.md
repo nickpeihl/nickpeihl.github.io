@@ -8,7 +8,7 @@ gh_id: 37220492
 author: Nick Peihl
 ---
 
-[axismaps/thematic-cartography](star.repo.html_url)
+[axismaps/thematic-cartography](https://github.com/axismaps/thematic-cartography)
 
 **WRITE CONTENT**
 

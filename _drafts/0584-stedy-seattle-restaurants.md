@@ -8,7 +8,7 @@ gh_id: 30689018
 author: Nick Peihl
 ---
 
-[stedy/seattle-restaurants](star.repo.html_url)
+[stedy/seattle-restaurants](https://github.com/stedy/seattle-restaurants)
 
 **WRITE CONTENT**
 

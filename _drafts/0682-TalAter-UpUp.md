@@ -8,7 +8,7 @@ gh_id: 32018674
 author: Nick Peihl
 ---
 
-[TalAter/UpUp](star.repo.html_url)
+[TalAter/UpUp](https://github.com/TalAter/UpUp)
 
 **WRITE CONTENT**
 

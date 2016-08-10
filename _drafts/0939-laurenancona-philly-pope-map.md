@@ -8,7 +8,7 @@ gh_id: 42087760
 author: Nick Peihl
 ---
 
-[laurenancona/philly-pope-map](star.repo.html_url)
+[laurenancona/philly-pope-map](https://github.com/laurenancona/philly-pope-map)
 
 **WRITE CONTENT**
 

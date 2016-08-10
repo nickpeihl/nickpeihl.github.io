@@ -8,7 +8,7 @@ gh_id: 2021097
 author: Nick Peihl
 ---
 
-[pyimreg/python-register](star.repo.html_url)
+[pyimreg/python-register](https://github.com/pyimreg/python-register)
 
 **WRITE CONTENT**
 

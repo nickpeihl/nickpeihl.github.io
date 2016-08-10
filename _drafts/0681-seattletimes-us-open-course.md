@@ -8,7 +8,7 @@ gh_id: 36519282
 author: Nick Peihl
 ---
 
-[seattletimes/us-open-course](star.repo.html_url)
+[seattletimes/us-open-course](https://github.com/seattletimes/us-open-course)
 
 **WRITE CONTENT**
 

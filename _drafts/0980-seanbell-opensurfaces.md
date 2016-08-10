@@ -8,7 +8,7 @@ gh_id: 20700858
 author: Nick Peihl
 ---
 
-[seanbell/opensurfaces](star.repo.html_url)
+[seanbell/opensurfaces](https://github.com/seanbell/opensurfaces)
 
 **WRITE CONTENT**
 

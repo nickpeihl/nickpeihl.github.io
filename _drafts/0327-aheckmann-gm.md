@@ -8,7 +8,7 @@ gh_id: 715524
 author: Nick Peihl
 ---
 
-[aheckmann/gm](star.repo.html_url)
+[aheckmann/gm](https://github.com/aheckmann/gm)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 39614321
 author: Nick Peihl
 ---
 
-[gloomyson/StarCraft](star.repo.html_url)
+[gloomyson/StarCraft](https://github.com/gloomyson/StarCraft)
 
 **WRITE CONTENT**
 

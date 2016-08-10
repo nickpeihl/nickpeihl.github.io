@@ -8,7 +8,7 @@ gh_id: 8962954
 author: Nick Peihl
 ---
 
-[Esri/dojo-bootstrap-map-js](star.repo.html_url)
+[Esri/dojo-bootstrap-map-js](https://github.com/Esri/dojo-bootstrap-map-js)
 
 **WRITE CONTENT**
 

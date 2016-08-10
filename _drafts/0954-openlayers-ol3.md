@@ -8,7 +8,7 @@ gh_id: 4723248
 author: Nick Peihl
 ---
 
-[openlayers/ol3](star.repo.html_url)
+[openlayers/ol3](https://github.com/openlayers/ol3)
 
 **WRITE CONTENT**
 

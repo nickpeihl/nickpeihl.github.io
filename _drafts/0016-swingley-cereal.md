@@ -8,7 +8,7 @@ gh_id: 10561745
 author: Nick Peihl
 ---
 
-[swingley/cereal](star.repo.html_url)
+[swingley/cereal](https://github.com/swingley/cereal)
 
 **WRITE CONTENT**
 

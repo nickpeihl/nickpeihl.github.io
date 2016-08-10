@@ -8,7 +8,7 @@ gh_id: 58482213
 author: Nick Peihl
 ---
 
-[yoshuawuyts/choo](star.repo.html_url)
+[yoshuawuyts/choo](https://github.com/yoshuawuyts/choo)
 
 **WRITE CONTENT**
 

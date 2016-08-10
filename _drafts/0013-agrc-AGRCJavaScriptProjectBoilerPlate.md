@@ -8,7 +8,7 @@ gh_id: 7245575
 author: Nick Peihl
 ---
 
-[agrc/AGRCJavaScriptProjectBoilerPlate](star.repo.html_url)
+[agrc/AGRCJavaScriptProjectBoilerPlate](https://github.com/agrc/AGRCJavaScriptProjectBoilerPlate)
 
 **WRITE CONTENT**
 

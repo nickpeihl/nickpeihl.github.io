@@ -8,7 +8,7 @@ gh_id: 24853335
 author: Nick Peihl
 ---
 
-[sgillies/frs-cheat-sheet](star.repo.html_url)
+[sgillies/frs-cheat-sheet](https://github.com/sgillies/frs-cheat-sheet)
 
 **WRITE CONTENT**
 

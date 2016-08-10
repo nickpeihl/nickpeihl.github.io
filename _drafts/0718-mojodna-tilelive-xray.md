@@ -8,7 +8,7 @@ gh_id: 20042302
 author: Nick Peihl
 ---
 
-[mojodna/tilelive-xray](star.repo.html_url)
+[mojodna/tilelive-xray](https://github.com/mojodna/tilelive-xray)
 
 **WRITE CONTENT**
 

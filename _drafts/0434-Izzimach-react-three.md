@@ -8,7 +8,7 @@ gh_id: 19189072
 author: Nick Peihl
 ---
 
-[Izzimach/react-three](star.repo.html_url)
+[Izzimach/react-three](https://github.com/Izzimach/react-three)
 
 **WRITE CONTENT**
 

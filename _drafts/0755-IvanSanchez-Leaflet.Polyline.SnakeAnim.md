@@ -8,7 +8,7 @@ gh_id: 44748311
 author: Nick Peihl
 ---
 
-[IvanSanchez/Leaflet.Polyline.SnakeAnim](star.repo.html_url)
+[IvanSanchez/Leaflet.Polyline.SnakeAnim](https://github.com/IvanSanchez/Leaflet.Polyline.SnakeAnim)
 
 **WRITE CONTENT**
 

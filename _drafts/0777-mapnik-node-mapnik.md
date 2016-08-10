@@ -8,7 +8,7 @@ gh_id: 1084114
 author: Nick Peihl
 ---
 
-[mapnik/node-mapnik](star.repo.html_url)
+[mapnik/node-mapnik](https://github.com/mapnik/node-mapnik)
 
 **WRITE CONTENT**
 

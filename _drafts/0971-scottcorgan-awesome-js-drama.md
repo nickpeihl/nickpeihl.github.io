@@ -8,7 +8,7 @@ gh_id: 50848769
 author: Nick Peihl
 ---
 
-[scottcorgan/awesome-js-drama](star.repo.html_url)
+[scottcorgan/awesome-js-drama](https://github.com/scottcorgan/awesome-js-drama)
 
 **WRITE CONTENT**
 

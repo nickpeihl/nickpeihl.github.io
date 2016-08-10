@@ -8,7 +8,7 @@ gh_id: 4028308
 author: Nick Peihl
 ---
 
-[hakimel/stroll.js](star.repo.html_url)
+[hakimel/stroll.js](https://github.com/hakimel/stroll.js)
 
 **WRITE CONTENT**
 

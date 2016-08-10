@@ -8,7 +8,7 @@ gh_id: 3462721
 author: Nick Peihl
 ---
 
-[talos/nypd-crash-data-bandaid](star.repo.html_url)
+[talos/nypd-crash-data-bandaid](https://github.com/talos/nypd-crash-data-bandaid)
 
 **WRITE CONTENT**
 

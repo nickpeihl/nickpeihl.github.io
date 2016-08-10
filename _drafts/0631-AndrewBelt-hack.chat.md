@@ -8,7 +8,7 @@ gh_id: 38568813
 author: Nick Peihl
 ---
 
-[AndrewBelt/hack.chat](star.repo.html_url)
+[AndrewBelt/hack.chat](https://github.com/AndrewBelt/hack.chat)
 
 **WRITE CONTENT**
 

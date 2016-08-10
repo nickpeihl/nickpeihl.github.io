@@ -8,7 +8,7 @@ gh_id: 19757917
 author: Nick Peihl
 ---
 
-[maxwellito/vivus](star.repo.html_url)
+[maxwellito/vivus](https://github.com/maxwellito/vivus)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 23451723
 author: Nick Peihl
 ---
 
-[flatsheet/flatsheet](star.repo.html_url)
+[flatsheet/flatsheet](https://github.com/flatsheet/flatsheet)
 
 **WRITE CONTENT**
 

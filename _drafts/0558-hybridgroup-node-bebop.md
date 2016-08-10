@@ -8,7 +8,7 @@ gh_id: 34591737
 author: Nick Peihl
 ---
 
-[hybridgroup/node-bebop](star.repo.html_url)
+[hybridgroup/node-bebop](https://github.com/hybridgroup/node-bebop)
 
 **WRITE CONTENT**
 

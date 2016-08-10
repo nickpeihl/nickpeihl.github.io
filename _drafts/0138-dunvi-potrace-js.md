@@ -8,7 +8,7 @@ gh_id: 5210214
 author: Nick Peihl
 ---
 
-[dunvi/potrace-js](star.repo.html_url)
+[dunvi/potrace-js](https://github.com/dunvi/potrace-js)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 16914061
 author: Nick Peihl
 ---
 
-[jonahadkins/Custom-Basemaps-In-AGOL](star.repo.html_url)
+[jonahadkins/Custom-Basemaps-In-AGOL](https://github.com/jonahadkins/Custom-Basemaps-In-AGOL)
 
 **WRITE CONTENT**
 

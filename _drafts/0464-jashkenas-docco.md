@@ -8,7 +8,7 @@ gh_id: 540542
 author: Nick Peihl
 ---
 
-[jashkenas/docco](star.repo.html_url)
+[jashkenas/docco](https://github.com/jashkenas/docco)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 19163372
 author: Nick Peihl
 ---
 
-[Esri/developer-support](star.repo.html_url)
+[Esri/developer-support](https://github.com/Esri/developer-support)
 
 **WRITE CONTENT**
 

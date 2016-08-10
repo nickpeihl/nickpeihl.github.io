@@ -8,7 +8,7 @@ gh_id: 48432352
 author: Nick Peihl
 ---
 
-[SamVerschueren/mobicon](star.repo.html_url)
+[SamVerschueren/mobicon](https://github.com/SamVerschueren/mobicon)
 
 **WRITE CONTENT**
 

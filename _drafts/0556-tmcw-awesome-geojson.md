@@ -8,7 +8,7 @@ gh_id: 36456042
 author: Nick Peihl
 ---
 
-[tmcw/awesome-geojson](star.repo.html_url)
+[tmcw/awesome-geojson](https://github.com/tmcw/awesome-geojson)
 
 **WRITE CONTENT**
 

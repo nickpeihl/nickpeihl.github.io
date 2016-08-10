@@ -8,7 +8,7 @@ gh_id: 1979797
 author: Nick Peihl
 ---
 
-[FreeRDP/FreeRDP](star.repo.html_url)
+[FreeRDP/FreeRDP](https://github.com/FreeRDP/FreeRDP)
 
 **WRITE CONTENT**
 

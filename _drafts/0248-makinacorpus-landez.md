@@ -8,7 +8,7 @@ gh_id: 1571490
 author: Nick Peihl
 ---
 
-[makinacorpus/landez](star.repo.html_url)
+[makinacorpus/landez](https://github.com/makinacorpus/landez)
 
 **WRITE CONTENT**
 

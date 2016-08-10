@@ -8,7 +8,7 @@ gh_id: 61408418
 author: Nick Peihl
 ---
 
-[jennschiffer/sup-choo](star.repo.html_url)
+[jennschiffer/sup-choo](https://github.com/jennschiffer/sup-choo)
 
 **WRITE CONTENT**
 

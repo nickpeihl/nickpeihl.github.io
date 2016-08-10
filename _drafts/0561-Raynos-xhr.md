@@ -8,7 +8,7 @@ gh_id: 4010687
 author: Nick Peihl
 ---
 
-[Raynos/xhr](star.repo.html_url)
+[Raynos/xhr](https://github.com/Raynos/xhr)
 
 **WRITE CONTENT**
 

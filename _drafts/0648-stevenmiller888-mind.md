@@ -8,7 +8,7 @@ gh_id: 38644039
 author: Nick Peihl
 ---
 
-[stevenmiller888/mind](star.repo.html_url)
+[stevenmiller888/mind](https://github.com/stevenmiller888/mind)
 
 **WRITE CONTENT**
 

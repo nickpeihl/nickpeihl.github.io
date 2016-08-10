@@ -8,7 +8,7 @@ gh_id: 2143651
 author: Nick Peihl
 ---
 
-[tjanczuk/iisnode](star.repo.html_url)
+[tjanczuk/iisnode](https://github.com/tjanczuk/iisnode)
 
 **WRITE CONTENT**
 

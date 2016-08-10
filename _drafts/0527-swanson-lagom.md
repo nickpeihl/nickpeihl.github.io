@@ -8,7 +8,7 @@ gh_id: 12337267
 author: Nick Peihl
 ---
 
-[swanson/lagom](star.repo.html_url)
+[swanson/lagom](https://github.com/swanson/lagom)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 2165044
 author: Nick Peihl
 ---
 
-[smistad/OpenCL-GVF](star.repo.html_url)
+[smistad/OpenCL-GVF](https://github.com/smistad/OpenCL-GVF)
 
 **WRITE CONTENT**
 

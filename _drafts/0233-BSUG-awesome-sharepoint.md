@@ -8,7 +8,7 @@ gh_id: 22508706
 author: Nick Peihl
 ---
 
-[BSUG/awesome-sharepoint](star.repo.html_url)
+[BSUG/awesome-sharepoint](https://github.com/BSUG/awesome-sharepoint)
 
 **WRITE CONTENT**
 

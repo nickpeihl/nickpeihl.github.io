@@ -8,7 +8,7 @@ gh_id: 2349728
 author: Nick Peihl
 ---
 
-[pockethub/PocketHub](star.repo.html_url)
+[pockethub/PocketHub](https://github.com/pockethub/PocketHub)
 
 **WRITE CONTENT**
 

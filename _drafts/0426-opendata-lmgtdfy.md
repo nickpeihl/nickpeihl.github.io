@@ -8,7 +8,7 @@ gh_id: 28800387
 author: Nick Peihl
 ---
 
-[opendata/lmgtdfy](star.repo.html_url)
+[opendata/lmgtdfy](https://github.com/opendata/lmgtdfy)
 
 **WRITE CONTENT**
 

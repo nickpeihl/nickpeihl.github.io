@@ -8,7 +8,7 @@ gh_id: 7693677
 author: Nick Peihl
 ---
 
-[chelm/esri-d3](star.repo.html_url)
+[chelm/esri-d3](https://github.com/chelm/esri-d3)
 
 **WRITE CONTENT**
 

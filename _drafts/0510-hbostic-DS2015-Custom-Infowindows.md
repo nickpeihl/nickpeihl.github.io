@@ -8,7 +8,7 @@ gh_id: 31936030
 author: Nick Peihl
 ---
 
-[hbostic/DS2015-Custom-Infowindows](star.repo.html_url)
+[hbostic/DS2015-Custom-Infowindows](https://github.com/hbostic/DS2015-Custom-Infowindows)
 
 **WRITE CONTENT**
 

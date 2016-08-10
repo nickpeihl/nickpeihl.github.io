@@ -8,7 +8,7 @@ gh_id: 605475
 author: Nick Peihl
 ---
 
-[mnutt/hummingbird](star.repo.html_url)
+[mnutt/hummingbird](https://github.com/mnutt/hummingbird)
 
 **WRITE CONTENT**
 

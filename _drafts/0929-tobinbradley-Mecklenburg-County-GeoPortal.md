@@ -8,7 +8,7 @@ gh_id: 4446786
 author: Nick Peihl
 ---
 
-[tobinbradley/Mecklenburg-County-GeoPortal](star.repo.html_url)
+[tobinbradley/Mecklenburg-County-GeoPortal](https://github.com/tobinbradley/Mecklenburg-County-GeoPortal)
 
 **WRITE CONTENT**
 

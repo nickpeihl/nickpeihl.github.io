@@ -8,7 +8,7 @@ gh_id: 43006294
 author: Nick Peihl
 ---
 
-[mourner/eslint-config-mourner](star.repo.html_url)
+[mourner/eslint-config-mourner](https://github.com/mourner/eslint-config-mourner)
 
 **WRITE CONTENT**
 

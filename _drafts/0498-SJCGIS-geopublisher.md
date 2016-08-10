@@ -8,7 +8,7 @@ gh_id: 32765564
 author: Nick Peihl
 ---
 
-[SJCGIS/geopublisher](star.repo.html_url)
+[SJCGIS/geopublisher](https://github.com/SJCGIS/geopublisher)
 
 **WRITE CONTENT**
 

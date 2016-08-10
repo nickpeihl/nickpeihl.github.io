@@ -8,7 +8,7 @@ gh_id: 38117803
 author: Nick Peihl
 ---
 
-[eyeseast/awesome-journalism](star.repo.html_url)
+[eyeseast/awesome-journalism](https://github.com/eyeseast/awesome-journalism)
 
 **WRITE CONTENT**
 

@@ -8,7 +8,7 @@ gh_id: 695611
 author: Nick Peihl
 ---
 
-[etianen/django-reversion](star.repo.html_url)
+[etianen/django-reversion](https://github.com/etianen/django-reversion)
 
 **WRITE CONTENT**
 

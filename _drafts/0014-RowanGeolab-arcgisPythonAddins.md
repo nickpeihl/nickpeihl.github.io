@@ -8,7 +8,7 @@ gh_id: 14625461
 author: Nick Peihl
 ---
 
-[RowanGeolab/arcgisPythonAddins](star.repo.html_url)
+[RowanGeolab/arcgisPythonAddins](https://github.com/RowanGeolab/arcgisPythonAddins)
 
 **WRITE CONTENT**
 
