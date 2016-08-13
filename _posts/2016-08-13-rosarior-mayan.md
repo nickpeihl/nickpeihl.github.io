@@ -6,7 +6,7 @@ tags: github
 stardate: 2012-04-12T22:48:01Z
 gh_id: 1324761
 author: Nick Peihl
-excerpt: I starred [Mayan](http://www.mayan-edms.com) on GitHub on April 12, 2012 while Mayan was still very young. Mayan is an open source electronic document management system (EDMS).
+excerpt: I starred Mayan on GitHub on April 12, 2012 while Mayan was still very young. Mayan is an open source electronic document management system (EDMS).
 thumbnail: /assets/mayan-edms.png
 ---
 
