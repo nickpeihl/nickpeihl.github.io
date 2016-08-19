@@ -1,8 +1,10 @@
 ---
 layout: post
 title: Why I starred openstreetmap/iD
-categories: Why-I-Starred
-tags: github
+categories:
+ - Why-I-Starred
+ - mapping
+tags: github mapping openstreetmap
 stardate: 2013-05-07T19:42:36Z
 gh_id: 4989235
 author: Nick Peihl
