@@ -9,10 +9,10 @@ author: Nick Peihl
 excerpt: Json-mode was my eleventh starred repository on GitHub. Json-mode is a major mode for editing JSON files in Emacs.
 ---
 
-[joshwnj/json-mode](https://github.com/joshwnj/json-mode)
+[joshwnj/json-mode](https://github.com/joshwnj/json-mode){:target="_blank"}
 
-Json-mode was my eleventh starred repository on GitHub. Json-mode is a major mode for editing [JSON](http://json.org/) files in Emacs. During my research for this article I realized I have never before used the json-mode keybindings for formatting and file navigation despite editing a lot of JSON files in Emacs.
+Json-mode was my eleventh starred repository on GitHub. Json-mode is a major mode for editing [JSON](http://json.org/){:target="_blank"} files in Emacs. During my research for this article I realized I have never before used the json-mode keybindings for formatting and file navigation despite editing a lot of JSON files in Emacs.
 
-[Emacs](http://gnu.org/software/emacs) has been my go-to text editor since 2009. I actually started using Emacs for the [Org-Mode](http://orgmode.org) extension for organizing my work and personal tasks. The beauty of Emacs are the key-bindings for all the features. Some key-bindings are so ubiquitous they are placed in muscle memory. However, it's much more difficult to remember key-bindings for less often used functions. While writing this article I rediscovered json-mode's keybindings.
+[Emacs](http://gnu.org/software/emacs){:target="_blank"} has been my go-to text editor since 2009. I actually started using Emacs for the [Org-Mode](http://orgmode.org){:target="_blank"} extension for organizing my work and personal tasks. The beauty of Emacs are the key-bindings for all the features. Some key-bindings are so ubiquitous they are placed in muscle memory. However, it's much more difficult to remember key-bindings for less often used functions. While writing this article I rediscovered json-mode's keybindings.
 
 *"Why I starred" is a series of articles describing projects I star on GitHub and why I found them interesting. My hope is that you'll find them interesting as well.*

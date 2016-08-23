@@ -19,14 +19,14 @@ At San Juan County, we're exploring ways to make authoritative vector maps and a
 
 One technique is creating local tile caches from imagery or vector basemaps that can be viewed using existing mobile apps. Tile caches are databases containing millions of image files (tiles) representing a small portion of a map at designated scales. The number of tiles increases dramatically as scales get larger. Specialized mobile apps can read these databases and load only the tiles necessary for the current viewing area and scale, thus reducing the memory load on the mobile device. Nearly all online web maps like Google Maps or OpenStreetMap rely on web servers hosting tile caches to only download the necessary tiles.
 
-The Android app [Geopaparazzi](http://geopaparazzi.github.io/geopaparazzi) works with both online and offline maps. Using a tiny config file, you can load custom online tile maps which are automatically saved to your device for offline use. To test this, I created Geopaparazzi config files pointing to San Juan County GIS basemaps. One is a basemap showing aerial imagery from 2013. The other is a vector basemap showing authoritative address, street, and parcel data.
+The Android app [Geopaparazzi](http://geopaparazzi.github.io/geopaparazzi){:target="_blank"} works with both online and offline maps. Using a tiny config file, you can load custom online tile maps which are automatically saved to your device for offline use. To test this, I created Geopaparazzi config files pointing to San Juan County GIS basemaps. One is a basemap showing aerial imagery from 2013. The other is a vector basemap showing authoritative address, street, and parcel data.
 
 
 ## Getting Started
 
-1) Install Geopaparazzi on your Android device from the [Google Play Store](https://play.google.com/store/apps/details?id=eu.hydrologis.geopaparazzi).
+1) Install Geopaparazzi on your Android device from the [Google Play Store](https://play.google.com/store/apps/details?id=eu.hydrologis.geopaparazzi){:target="_blank"}.
 
-2) Copy my sample [mapurl](https://gist.github.com/npeihl/bbc0fc7e7579007a7d68) files to your Android phone/tablet in the "maps" folder on your SDCard/Internal Storage. The ```mbtiles``` parameter in the mapurl file means that map tiles viewed while connected to the internet are then saved to the device for offline use.
+2) Copy my sample [mapurl](https://gist.github.com/npeihl/bbc0fc7e7579007a7d68){:target="_blank"} files to your Android phone/tablet in the "maps" folder on your SDCard/Internal Storage. The ```mbtiles``` parameter in the mapurl file means that map tiles viewed while connected to the internet are then saved to the device for offline use.
 
 3) Start the Geopaparazzi app and click on the Menu button (three vertical dots) at the top of the screen. Choose "Select tile source" and select one of the sjc*.mapurl files.
 
@@ -36,9 +36,9 @@ The Android app [Geopaparazzi](http://geopaparazzi.github.io/geopaparazzi) works
 
 ## Notes
 
-- The basemap tiles are saved on the device in the [mbtiles](https://www.mapbox.com/guides/an-open-platform/#mbtiles) format created by [Mapbox](http://mapbox.com).
+- The basemap tiles are saved on the device in the [mbtiles](https://www.mapbox.com/guides/an-open-platform/#mbtiles){:target="_blank"} format created by [Mapbox](http://mapbox.com){:target="_blank"}.
 
-- Geopaparazzi does not yet support the new [Vector Tiles](https://www.mapbox.com/developers/vector-tiles/) format. It only uses image tiles.
+- Geopaparazzi does not yet support the new [Vector Tiles](https://www.mapbox.com/developers/vector-tiles/){:target="_blank"} format. It only uses image tiles.
 
 - Source basemaps may be Tiled Map Services or Esri cached MapServer services.
 
@@ -59,6 +59,6 @@ mbtiles=defaulttiles/_naip-tile.mbtiles
 description=USGS Ortho and Satellite Imagery
 {% endhighlight %}
 
-For higher resolution imagery you could also look for a local government agency hosting Esri basemaps and modify the mapurl file accordingly. The [OpenAddresses.io](https://github.com/openaddresses/openaddresses/tree/master/sources) project has a large repository of local government map services.
+For higher resolution imagery you could also look for a local government agency hosting Esri basemaps and modify the mapurl file accordingly. The [OpenAddresses.io](https://github.com/openaddresses/openaddresses/tree/master/sources){:target="_blank"} project has a large repository of local government map services.
 
-Reach out to me on [Twitter](http://twitter.com/npeihl) if you have questions.
+Reach out to me on [Twitter](http://twitter.com/npeihl){:target="_blank"} if you have questions.
