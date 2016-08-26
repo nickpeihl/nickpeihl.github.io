@@ -18,7 +18,7 @@ thumbnail: /assets/cereal.png
 
 I starred the Cereal repository on GitHub on December 2, 2013. Cereal can translate an esri/Map instance from the [ArcGIS JavaScript API](https://developers.arcgis.com/javascript/){:target="_blank"} and return a JSON file that matches the [ArcGIS Web Map JSON specification](http://resources.arcgis.com/en/help/arcgis-web-map-json/#/Web_map_format_overview/02qt00000007000000/){:target="_blank"}.
 
-Cereal appealed to me because a client asked for the ability to save the state of a custom web application. The idea was they could pan, zoom and draw on our custom web application and then save the map state and share it with someone else. Althought I never implemented the feature request, here are two ways I think it would work.
+Cereal appealed to me because a client asked for the ability to save the state of a custom web application. The idea was they could pan, zoom and draw on our custom web application and then save the map state and share it with someone else. Although I never implemented the feature request, here are two ways I think it would work.
 
 # Save map state on a server
 1. The custom application would have a "Save" button with an onClick function that passes the esri/Map instance to Cereal to generate JSON compatible with the ArcGIS Web Map specification.
