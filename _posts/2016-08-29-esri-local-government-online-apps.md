@@ -1,8 +1,10 @@
 ---
 layout: post
 title: Why I starred Esri/local-government-online-apps
-categories: Why-I-Starred
-tags: github
+categories:
+- Why-I-Starred
+- mapping
+tags: github maps arcgis
 stardate: 2013-12-07T16:32:03Z
 gh_id: 6621856
 author: Nick Peihl
