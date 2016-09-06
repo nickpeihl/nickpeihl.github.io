@@ -1,5 +1,6 @@
 --- 
-layout: post title: Why I starred Esri/local-government-desktop-addins
+layout: post 
+title: Why I starred Esri/local-government-desktop-addins
 categories: Why-I-Starred 
 tags: github 
 stardate: 2014-01-22T22:41:54Z 
