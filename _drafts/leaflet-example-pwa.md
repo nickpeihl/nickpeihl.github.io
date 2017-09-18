@@ -11,28 +11,9 @@ excerpt:
 
 Let's make a [Progressive Web App](https://developers.google.com/web/progressive-web-apps/) from a Leaflet map. For this we'll use the [Choropleth example from the Leaflet docs](http://leafletjs.com/examples/choropleth/).
 
-## Create a Manifest file
+## Get the source code
 
-In order to act like a native app and install on supported mobile devices (Android only at the time of writing), we need to create a manifest.json file. The Manifest defines the name, icons, theme, and splash screen for the app. Google has a [great guide](https://developers.google.com/web/updates/2015/10/splashscreen) for creating your manifest.json file.
-
-You should use a simple, square logo that can be identified at very small sizes. In my example, I cropped the leaves in the [SVG Leaflet logo](https://gist.github.com/hastebrot/7996274#file-leaflet-logo-svg) and created different sized PNGs per the guide above using [Gimp](https://www.gimp.org/).
-
-## Provide fallback content
-
-A Progressive Web App needs to provide some content for situations where JavaScript is not enabled on the client's browser. Insert a `<noscript>` tag inside the `<div id='map'>` tag of index.html.
-
-``` html
-<div id='map'>
-    <noscript>
-        <div>
-            <h1>Error: JavaScript not enabled</h1>
-            <p>This page requires JavaScript. Here are the <a href="http://www.enable-javascript.com/" target="_blank">instructions how to enable JavaScript in your web browser</a>.</p>
-        </div>
-    </noscript>
-</div>
-```
-
-You can test this out by disabling JavaScript in your web browser's developer tools. In Chrome this is located in Settings under Debugger. Reload the page after disabling JavaScript to see the error.
+I've posted the complete Choropleth for download in a [Gist](https://gist.github.com/nickpeihl/b6d09258bed0cafdd653de2278f96c17). The simplest way get to the code is click the Download ZIP button and extract it to a web-enabled directory on your hard drive. One easy way to make a web-enabled directory if you have [Python](http://python.org) installed is to open a terminal window into the directory and run `python -m SimpleHTTPServer`. Then you can point your web browser to [http://localhost:8000](http://localhost:8000) to open the web site.
 
 ## Make it responsive
 
@@ -52,6 +33,33 @@ html, body, #map {
 ```
 
 Now let's change the `viewport` meta tag to limit unwanted scaling of the page by adding `maximum-scale=1.0, user-scalable=no`.
+
+Both [Firefox](https://developer.mozilla.org/en-US/docs/Tools/Responsive_Design_Mode) and [Chrome](https://developers.google.com/web/tools/chrome-devtools/device-mode/emulate-mobile-viewports) have built-in tools for emulating mobile device screen sizes. Refresh your web page and test out your responsive design.
+
+## Create a Manifest file
+
+In order to act like a native app and install on supported mobile devices (Android only at the time of writing), we need to create a manifest.json file. The Manifest defines the name, icons, theme, and splash screen for the app. Google has a [great guide](https://developers.google.com/web/updates/2015/10/splashscreen) for creating your manifest.json file. [Here is the manifest file](https://github.com/nickpeihl/leaflet-example-pwa/blob/glitch/manifest.json) I created for our Choropleth PWA.
+
+You should use a simple, square logo that can be distinguishable at very small sizes. This logo will appear as the app icon when our app is installed on supported mobile devices. For my example, I cropped the leaves in the [SVG Leaflet logo](https://gist.github.com/hastebrot/7996274#file-leaflet-logo-svg) and created different sized PNGs per the guide above using [Gimp](https://www.gimp.org/).
+
+## Provide fallback content
+
+A Progressive Web App needs to provide some content for situations where JavaScript is not enabled on the client's browser. Insert a `<noscript>` tag inside the `<div id='map'>` tag of index.html.
+
+``` html
+<div id='map'>
+    <noscript>
+        <div>
+            <h1>Error: JavaScript not enabled</h1>
+            <p>This page requires JavaScript. Here are the <a href="http://www.enable-javascript.com/" target="_blank">instructions how to enable JavaScript in your web browser</a>.</p>
+        </div>
+    </noscript>
+</div>
+```
+
+You can test this out by disabling JavaScript in your web browser's developer tools. In Chrome this is located in Settings under Debugger. Reload the page after disabling JavaScript to see the error.
+
+## The Service Worker
 
 The [Workbox](https://workboxjs.org/) tool helps create the [Service Worker](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API) part of the PWA. Make sure you have [Node.js](https://nodejs.org/en/) installed then type `npm install workbox-cli --global` in a terminal window.
 
