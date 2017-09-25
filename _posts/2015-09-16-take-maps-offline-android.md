@@ -26,7 +26,7 @@ The Android app [Geopaparazzi](http://geopaparazzi.github.io/geopaparazzi){:targ
 
 1) Install Geopaparazzi on your Android device from the [Google Play Store](https://play.google.com/store/apps/details?id=eu.hydrologis.geopaparazzi){:target="_blank"}.
 
-2) Copy my sample [mapurl](https://gist.github.com/npeihl/bbc0fc7e7579007a7d68){:target="_blank"} files to your Android phone/tablet in the "maps" folder on your SDCard/Internal Storage. The ```mbtiles``` parameter in the mapurl file means that map tiles viewed while connected to the internet are then saved to the device for offline use.
+2) Copy my sample [mapurl](https://gist.github.com/nickpeihl/bbc0fc7e7579007a7d68){:target="_blank"} files to your Android phone/tablet in the "maps" folder on your SDCard/Internal Storage. The ```mbtiles``` parameter in the mapurl file means that map tiles viewed while connected to the internet are then saved to the device for offline use.
 
 3) Start the Geopaparazzi app and click on the Menu button (three vertical dots) at the top of the screen. Choose "Select tile source" and select one of the sjc*.mapurl files.
 
@@ -61,4 +61,4 @@ description=USGS Ortho and Satellite Imagery
 
 For higher resolution imagery you could also look for a local government agency hosting Esri basemaps and modify the mapurl file accordingly. The [OpenAddresses.io](https://github.com/openaddresses/openaddresses/tree/master/sources){:target="_blank"} project has a large repository of local government map services.
 
-Reach out to me on [Twitter](http://twitter.com/npeihl){:target="_blank"} if you have questions.
+Reach out to me on [Twitter](http://twitter.com/nickpeihl){:target="_blank"} if you have questions.
